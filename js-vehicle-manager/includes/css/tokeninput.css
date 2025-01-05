@@ -1,0 +1,77 @@
+ul.jsvehiclemanager-input-list-jsvehiclemanager{overflow: hidden;height: auto !important;border: 1px solid #8496ba;cursor: text;font-size: 12px;font-family: Verdana;min-height: 1px;z-index: 999;margin: 0;padding: 0;background-color: #fff;list-style-type: none;clear: left;}
+ul.jsvehiclemanager-input-list-jsvehiclemanager li input{border: 0;padding: 3px 8px !important;background-color: white;margin: 2px 0;-webkit-appearance: caret;}
+li.jsvehiclemanager-input-token-jsvehiclemanager{overflow: hidden;height: auto !important;height: 15px;margin: 3px;padding: 1px 3px;background-color: #eff2f7;color: #000;cursor: default;border: 1px solid #ccd5e4;font-size: 11px;border-radius: 5px;-moz-border-radius: 5px;-webkit-border-radius: 5px;float: left;}
+li.jsvehiclemanager-input-token-jsvehiclemanager p{display: inline;padding: 0;margin: 0;}
+li.jsvehiclemanager-input-token-jsvehiclemanager span{color: #FFFFFF;margin-left: 5px;font-weight: bold;cursor: pointer;padding:0px 3px;background: #D53438;}
+li.jsvehiclemanager-input-selected-token-jsvehiclemanager{background-color: #5670a6;border: 1px solid #3b5998;color: #fff;}
+ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager{float: left;margin: 0;padding: 0;list-style-type: none;}
+div.jsvehiclemanager-input-dropdown-jsvehiclemanager{position: absolute;width: 40px;background-color: #F8F8F8;overflow: hidden;border-left: 1px solid #ccc;border-right: 1px solid #ccc;border-bottom: 1px solid #ccc;cursor: default;font-size: 11px;font-family: Verdana;z-index: 1;}
+div.jsvehiclemanager-input-dropdown-jsvehiclemanager p{margin: 0;padding: 5px;font-weight: bold;color: #777;}
+div.jsvehiclemanager-input-dropdown-jsvehiclemanager ul{margin: 0;padding: 0;}
+div.jsvehiclemanager-input-dropdown-jsvehiclemanager ul li{background-color: #F8F8F8;padding: 3px;margin: 0;list-style-type: none;display:block;text-align:left;}
+div.jsvehiclemanager-input-dropdown-jsvehiclemanager ul li.jsvehiclemanager-input-dropdown-item-jsvehiclemanager{background-color: #F8F8F8;}
+div.jsvehiclemanager-input-dropdown-jsvehiclemanager ul li em{font-weight: bold;font-style: normal;}
+div.jsvehiclemanager-input-dropdown-jsvehiclemanager ul li.jsvehiclemanager-input-selected-dropdown-item-jsvehiclemanager{background-color: #E6E7E6;color: #000;}
+div#jsvehiclemanager_object_jqueryautocomplete ul.jsvehiclemanager-input-list-jsvehiclemanager,
+div#jsvehiclemanager_object_jqueryautocomplete ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager
+{margin: 0;padding: 0;width:100%;float:left;}
+td#jsvm_job_city ul.jsvehiclemanager-input-list-jsvehiclemanager,
+td#jsvm_vehiclesearchform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager,
+p#jsvm_auto ul.jsvehiclemanager-input-list-jsvehiclemanager,
+p#jsvm_auto1 ul.jsvehiclemanager-input-list-jsvehiclemanager,
+td#jsvm_dellerform_city ul.jsvehiclemanager-input-list-jsvehiclemanager,
+td#jsvm_dellermanagerform_city ul.jsvehiclemanager-input-list-jsvehiclemanager,
+td#jsvm_vehiclealert_city ul.jsvehiclemanager-input-list-jsvehiclemanager,
+span#jsvm_modsearch_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager,
+span#jsvm_modsearch_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager,
+span#jsvm_plug_vehicleform_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager,
+span#jsvm_plug_vehicleform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager,
+td#jsvm_vehiclesearchform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+p#jsvm_auto ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+p#jsvm_auto1 ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+td#jsvm_dellerform_city ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+td#jsvm_dellermanagerform_city ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+td#jsvm_vehiclealert_city ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+td#jsvm_vehicleform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+span#jsvm_modsearch_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+span#jsvm_modsearch_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+span#jsvm_plug_vehicleform_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+span#jsvm_plug_vehicleform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager,
+td#jsvm_vehicleform_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager,
+td#jsvm_vehicleform_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-input-token-jsvehiclemanager
+{margin: 0;padding: 0;float:left;}
+div#jsvehiclemanager_object_jqueryautocomplete ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+td#jsvm_vehiclesearchform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+p#jsvm_auto ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+p#jsvm_auto1 ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+td#jsvm_dellerform_city ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+td#jsvm_dellermanagerform_city ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+td#jsvm_vehiclealert_city ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+td#jsvm_vehicleform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+span#jsvm_modsearch_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+span#jsvm_modsearch_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+span#jsvm_plug_vehicleform_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+span#jsvm_plug_vehicleform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager,
+td#jsvm_vehicleform_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager li.jsvehiclemanager-input-token-jsvehiclemanager
+{margin: 1px 3px;padding: 2px 8px;background:#F2F3F3;border: 1px solid #BDBFC1;}
+div#jsvm_filter_outer div#jsvm_filter_inner button{float: right;margin: 8px 8px 0 8px;}
+div#jsvehiclemanager_object_jqueryautocomplete{float:left;position:relative;width:80%}
+span#jsvehiclemanager_object_jqueryautocomplete,div#jsvehiclemanager_object_jqueryautocomplete_left{display: inline;float:left;margin-right: 5px;line-height: 40px;}
+div#jsvehiclemanager_object_jqueryautocomplete_left{width:80%;}
+span#jsvehiclemanager_object_jqueryautocomplete{line-height: 28px;}
+span#jsvm_modsearch_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager{overflow: hidden;height: auto !important;height: 1%;width: 90%;border: 1px solid #8496ba;cursor: text;font-size: 12px;font-family: Verdana;min-height: 1px;z-index: 999;margin: 0;padding: 0;background-color: #fff;list-style-type: none;clear: left;}
+span#jsvm_plug_vehicleform_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager{overflow: hidden;height: auto !important;height: 1%;width: 90%;border: 1px solid #8496ba;cursor: text;font-size: 12px;font-family: Verdana;min-height: 1px;z-index: 999;margin: 0;padding: 0;background-color: #fff;list-style-type: none;clear: left;}
+span#jsvm_modsearch_loccity ul.jsvehiclemanager-input-list-jsvehiclemanager{overflow: hidden;height: auto !important;height: 1%;width: 90%;border: 1px solid #8496ba;cursor: text;font-size: 12px;font-family: Verdana;min-height: 1px;z-index: 999;margin: 0;padding: 0;background-color: #fff;list-style-type: none;clear: left;}
+span#jsvm_plug_vehicleform_regcity ul.jsvehiclemanager-input-list-jsvehiclemanager{overflow: hidden;height: auto !important;height: 1%;width: 90%;border: 1px solid #8496ba;cursor: text;font-size: 12px;font-family: Verdana;min-height: 1px;z-index: 999;margin: 0;padding: 0;background-color: #fff;list-style-type: none;clear: left;}
+div#jsvm_jsauto_comparevehiclelist img.jsvm_jsauto_comparevehiclelistimage{float:left;margin-right:5px;}
+span#jsvm_jsauto_comparevehiclelisttitle{width:100%;float:left;white-space:nowrap;overflow:hidden;font-size: 10px;color:#000000;background:none;font-weight:normal;}
+span#jsvm_jsauto_comparevehiclelistmodel{width:100%;float:left;white-space:nowrap;overflow:hidden;font-size:9px;color:#545454;font-weight:normal;background:none;}
+span#jsvm_jsauto_comparevehiclelistprice{width:100%;float:left;white-space:nowrap;overflow:hidden;font-size:8px;color: #3F4040;background:none;font-weight:normal;}
+p#jsvm_auto,p#jsvm_auto1{margin: 0;padding: 0;}
+p#jsvm_auto ul.jsvehiclemanager-input-list-jsvehiclemanager li{position: relative;}
+p#jsvm_auto1 ul.jsvehiclemanager-input-list-jsvehiclemanager li{position: relative;}
+p#jsvm_auto span.jsvehiclemanager-input-delete-token-jsvehiclemanager{position:absolute;top: 5px;right:2px;}
+p#jsvm_auto1 span.jsvehiclemanager-input-delete-token-jsvehiclemanager{position:absolute;top: 5px;right:2px;}
+p#jsvm_auto ul.jsvehiclemanager-input-list-jsvehiclemanager{}
+p#jsvm_auto1 ul.jsvehiclemanager-input-list-jsvehiclemanager{}
+div#jsvm_jsauto_comparevehiclelist table#jsvehiclemanager_comparevehiclelisttable tr td{padding: 0;margin: 0;}

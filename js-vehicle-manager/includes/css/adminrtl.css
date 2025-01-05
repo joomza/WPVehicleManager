@@ -1,0 +1,509 @@
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-adminsidemenu-box{float:left;margin-left:0px;margin-right:10px;}
+/*Admin Cp*/
+div#jsvehiclemanageradmin-leftmenu div#jsvehiclemanageradmin-menu-links{float: right;}
+div#jsvehiclemanageradmin-leftmenu div#jsvehiclemanageradmin-menu-links .jsvm_js-divlink a{float: right;}
+div#jsvehiclemanageradmin-leftmenu div#jsvehiclemanageradmin-menu-links div.jsvm_js-innerlink a.jsvm_js-child{margin-left: 0px; margin-right: 65px; float: right; width: calc(100% - 65px);}
+div#jsvehiclemanageradmin-leftmenu div#jsvehiclemanageradmin-menu-links .jsvm_js-divlink a.jsvm_js-parent span.jsvm_text img{float: left; margin-left: -5px; -webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */}
+div#jsvehiclemanageradmin-leftmenu {}
+div#jsvehiclemanageradmin-data {}
+div#jsvehiclemanageradmin-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_dashboard {padding-left: 4px;padding-right: 15px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_dashboard span.jsvm_heading-dashboard {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_dashboard span.jsvm_dashboard-icon {right: auto;left: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 {float: right;padding-right: 0px;padding-left: 15px;padding-left: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box {float: right;margin-right: 0px;margin-left: 20px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box img {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box div.jsvm_text {float: right;margin-right: 20px;margin-left: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box div.jsvm_text div.jsvm_bold-text {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box div.jsvm_text div.jsvm_nonbold-text {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box:last-child {margin-left: 0px;} 
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_newestjobs span.jsvm_header {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_newestjobs span.jsvm_header img {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_newestjobs {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_main-heading {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_main-heading span.jsvm_text {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_box-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_box-wrapper a.jsvm_box {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_newest-vehicles-portion-header {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_newest-vehicles-portion-header img {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_left-img {float: right;margin-left: 0px;margin-right: 5px;border-left:1px solid #cccccc;;border-right: 3px solid #1a3867;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_right-top {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_right-top a {float: right;padding-left: 0;padding-right: 20px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_right-top div.jsvm_veh-price {float: left;margin-left: 10px;margin-right: 0px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_right-bottom {float: right;padding: 10px 20px 10px 5px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_left-part {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_detail {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_detail:first-child {padding-right: 0px;padding-left: 5px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_veh-approved {float: left;}
+/*Review Iamge Left Now Try It Later*/
+/*Information Page*/
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title span.jsvm_heading {float: right;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title span.jsvm_heading a {float: right;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title span.jsvm_heading span.jsvm_text-heading {float: left;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title span.jsvm_heading span.jsvm_heading-text {float: left;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-component {float: right;text-align: right;}
+div.jsvm_js-admin-info-wrapper {float: right;}
+div.jsvm_js-admin-info-wrapper span.jsvm_js-admin-info-title {float: right;margin-right: 0px;margin-left: 1%;}
+div.jsvm_js-admin-info-wrapper span.jsvm_js-admin-info-vlaue {float: right;padding-left: 0px;padding-right: 10px;text-align: right;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title {float: right;text-align: right;line-height: 35px;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a {float: right;margin-left: 5px;}
+div.jsvm_js-admin-joomsky-wrapper span.jsvm_js-admin-title img {border-left: 2px solid #D4D4D5;border-right: 0px;}
+div.jsvm_js-admin-joomsky-wrapper span.jsvm_js-admin-title a img {border-left: 2px solid #D4D4D5;border-right: 0px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_js-admin-joomsky-wrapper span.jsvm_detail-text {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_js-admin-joomsky-wrapper span.jsvm_detail-text span.jsvm_js-joomsky-link {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div.jsvm_components {float: right;padding-left: 15px;padding-right: 0px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div.jsvm_components img {float: right; -webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div.jsvm_components span.jsvm_component-text span.jsvm_component-title {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div.jsvm_components span.jsvm_component-text span.jsvm_component-type {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div.jsvm_components span.jsvm_component-text span.jsvm_component-detail {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products span.jsvm_info-urls {float: left;margin-right: 0px;margin-left: 30px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products span.jsvm_info-urls a.jsvm_pro {float: right;margin-right: 0px;margin-left: 6px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div#jsvm_jobs-free {background-position: left 10% top 75%;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div#jsvm_autoz-pro {background-position: left 10% top 75%;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div#jsvm_ticket-free {background-position: left 10% top 75%;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div#jsvm_autoz-free {background-position: left 10% top 75%;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div#jsvm_ticket-pro {background-position: left 10% top 75%;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div#jsvm_ticket-pro {background-position: left 10% top 75%;}
+/*Activity Log*/
+div#jsvehiclemanageradmin-wrapper span#jsvm_filter-activity-log {float: right;margin-left: 0px;margin-right: 10px;}
+div#jsvehiclemanageradmin-wrapper span#jsvm_filter-activity-log img {float: right;margin-top: 0px;margin-left: 3px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions span.jsvm_sort {float: left;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions span.jsvm_sort span.jsvm_sort-text {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions a.jsvm_sort-icon {float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main span.jsvm_popup-top span#jsvm_popup_title {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main span.jsvm_popup-top img#jsvm_popup_cross {float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_checkbox-filter {float: right;padding-left: 0px;padding-right: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_checkbox-filter:last-child {float: none;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_checkbox-filter input.checkbox {float: right;margin: 2px 0 0 4px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_checkbox-filter label {float: right;}
+/*Vehicles*/
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-admin-title-left {float: right;margin-right: 0px;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-admin-title-left img {float: right;-webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a img {float: right;-webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-button-link {float: left;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-button-link img {float: right;margin: 4px 0 0 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_search-center div.jsvm_search-value {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_search-center div.jsvm_search-value-button div.jsvm_js-button {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div#jsvm_user-list-header div.jsvm_user-id {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div#jsvm_user-list-header div.jsvm_user-name {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div#jsvm_user-list-header div.jsvm_user-email {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div.jsvm_user-records-wrapper div.jsvm_user-id {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div.jsvm_user-records-wrapper div.jsvm_user-name {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div.jsvm_user-records-wrapper div.jsvm_user-email {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div.jsvm_jsst_userpages {float: left;padding-right: 0px;padding-left: 30px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div.jsvm_jsst_userpages span.jsvm_jsst_userlink {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div.jsvm_jsst_userpages a.jsvm_jsst_userlink {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions label.jsvm_js-bulk-link {float: right;margin-left: 3px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions label.jsvm_js-bulk-link input {float: right;margin: 5px 0 0 3px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions a.jsvm_js-bulk-link {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions a.jsvm_js-bulk-link.jsvm_multioperation {margin-left: 3px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions a.jsvm_js-bulk-link img {float: right;padding: 3px 0 0 3px;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form {padding-left:0px;padding-right:5px;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form select {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_checkbox {float: right;padding-left: 0px;padding-right: 5px;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_checkbox input#states1 {margin: 1px 0 0 4px;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_checkbox label#forstates {float: right;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_checkbox input#city1 {margin: 1px 0 0 4px;;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_checkbox label#forcity {float: right;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form input {float: right;margin-left: 3px;text-align: right;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form span#jsvm_showhidefilter {right: auto;left: 0;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-formseller-admin {float: right;}
+form#jsvehiclemanager-list-form {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_tags {left: auto;right: 10px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_slide_wrap {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_slide_wrap span.jsvm_cm-sl-veh-left-txt {left: auto;right: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content {float: left;padding-right: 8px;padding-left: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_title {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_title a {float: left;margin-right: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_price {float: left;border-right: 1px solid #d4d4d5;border-left: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_detail_row {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content span.jsvehiclemanager_vehicle_status_value {right: auto;left: 12px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_detail_row span#jsvehiclemanager_vehicle_title {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_img {right: auto;left: 10px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap {float: right;padding-left: 15px;padding-right: 10px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_left {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_left div#jsvehiclemanager_vehicle_option {float: right;border-left: 1px solid #d4d4d5;border-right: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_left div#jsvehiclemanager_vehicle_option:first-child {padding-left: 10px;padding-right: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_right_button div#jsvehiclemanager_vehicle_button_area {float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_right_button div#jsvehiclemanager_vehicle_button_area a#jsvehiclemanager_vehicle_btn {float: right;margin-left: 3px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_right_button div#jsvehiclemanager_vehicle_button_area a#jsvehiclemanager_vehicle_btn img {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper {float: right;padding-left: 5px;padding-right: 20px;}
+div.jsvehiclemanager-vehicleform-admininfo {float: right;}
+div.jsvehiclemanager-vehicleform-admininfo div.jsvm_admininfo-vehicleform-field-left {float: right;}
+div.jsvehiclemanager-vehicleform-admininfo div.jsvm_admininfo-vehicleform-field-left div.jsvm_admininfo-vform-field {text-align: right;}
+div.jsvehiclemanager-vehicleform-admininfo div.jsvm_admininfo-vehicleform-field-left div.jsvm_admininfo-vform-field span {float: right;}
+div.jsvehiclemanager-vehicleform-admininfo div.jsvm_admininfo-vehicleform-field-right a.jsvm_admininfo-vform-field-a {float: left;}
+div.jsvehiclemanager-form-field-wrapper div.jsvm_js-form-wrapper {float: right;}
+div.jsvehiclemanager-form-field-wrapper div.jsvm_js-form-wrapper label#jsvm_sellerid {float: right;margin: 2px 0 2px 2px;}
+div.jsvehiclemanager-form-field-wrapper div.jsvm_js-form-wrapper img.jsvehiclem-img {float: right;margin: 2px 5px;}
+div.jsvehiclemanager-form-field-wrapper div.jsvm_js-form-wrapper span.jsvehiclem-desc {float: right;}
+div#jsvehiclemanageradmin-wrapper a#jsvm_userpopup.jsvm_cm-userpopup {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper label {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper label[id^="forufield_"] {width: auto;padding: 0 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper input[id^="ufield_"] {float: right;margin: 3px 0px 0 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value {float: right;padding-right: 0px;padding-left: 15px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype1 {float: right;margin-top: 3px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype2 {float: right;margin-top: 3px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value label#forvideotype {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input.jsvm_lenghtless {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value span.jsvm_speedometer {float: left;padding-left: 0px;padding-right: 9px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvehiclemanager-currency-wrap {float: right;margin-left: 5px;margin-right: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype1 {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype2 {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value label#forvideotype {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white input#isdiscount1 {float: right;margin: 3px 5px 0 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white input#isdiscount2 {float: right;margin: 3px 5px 0 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white label#forisdiscount {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper input#jsvm_brochure {float: right;width: 100%;text-align: right;direction: rtl;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvm_cm_file_info {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap {float: right;padding-right: 10px;padding-left: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvm_checkbox-heading {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvm_checkbox-headings {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvm_checkbox-sections div.jsvm_checkboxes {float: right;margin-left: 0px;margin-right: 1%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvm_checkbox-sections div.jsvm_checkboxes div.jsvm_js-checkbox {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvm_checkbox-sections div.jsvm_checkboxes div.jsvm_js-checkbox label input[type="checkbox"]{float: right;margin: 4px 0 2px 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-form-upload-img-headings {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp div.jsvehiclemanager-vehicle-upload-img-top {float: right;}
+div#jsvehiclemanageradmin-wrapper input.jsvm_inputval {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_fileUpload {margin-left: 0px;margin-right: -14px;float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_js-image-file-size {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_form-vehicle-main-img-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_form-vehicle-small-img-main-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_form-vehicle-small-img-main-wrapper div.jsvm_cm-img-button-wrap {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper {width: 75%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper label.jsvehiclemanager-title {padding-right: 0px;padding-left: 20px;float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value {vertical-align: middle;float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value input[type="radio"]{float: right;margin: 2px 0 4px 5px;padding-left: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value label#forstatus {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-title {float: right;text-align: left;padding-left: 20px;padding-right: 0px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj select {float: right; text-align: right;}
+#wpbody select {text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj input {float: right;margin: 1px 1px 0px 5px;direction: rtl;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj label#forstatus {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj span.jsvehiclemanager-fieldordering-warning {float: right;margin: 5px 0;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj span.form-error {float: right;margin: 5px 0;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-field-wrap {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap form div.jsvm_js-form-wrapper label#jsvm_sellerid {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj label#forvideotypeid {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.js-col-md-6 {float: right;padding: 0px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.js-col-md-6 label {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.js-col-md-6 input {float: left;}
+/*Configurations*/
+.jsvm_tabs ul li {float: right;margin-left: 0px;margin-right: 3px;}
+h3.js-vehicle-manager-configuration-heading-main {text-align: right;}
+div.jsvm_tabInner div.jsvm_left {float: right;}
+div.js-vehicle-manager-configuration-row {float: right;}
+div.js-vehicle-manager-configuration-row input[type="file"] {float: right;direction: rtl;}
+div.js-vehicle-manager-configuration-title {text-align: right;}
+div.js-vehicle-manager-configuration-value input {text-align: right;}
+div.js-vehicle-manager-configuration-description {text-align: right;}
+div.js-vehicle-manager-configuration-value {text-align: right;}
+div.js-vehicle-managerconfig-threecols {float: right;}
+div.js-vehicle-managerconfig-threecols div.js-vehicle-manager-configuration-row {text-align: right;}
+div.js-vehicle-managerconfig-threecols div.js-vehicle-manager-configuration-row label input[type="checkbox"]{float: right;margin: 3px 0 0 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_cron_info_area {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_cron_info_area img {float: right;margin-right: 0px;margin-left: 5px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_cron_main_heading {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_cron_job_detail_wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_cron_job_detail_wrapper span.jsvm_crown_text_left {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_cron_job_detail_wrapper span.jsvm_crown_text_right {float: right;text-align: right;}
+/*Users*/
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-limage {left: auto;right: 25px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading-wrap {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading {float: right;padding-left:0;padding-right: 125px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name input {float: right;margin: 2px 0 0 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right {text-align: left;padding-right: 0px;padding-left: 15px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right span.jsvehiclemanager-seller-listing-heading-status {margin-right: 0px;margin-left: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right span.jsvehiclemanager-seller-listing-smedia-wrap {float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right span.jsvehiclemanager-seller-listing-smedia-wrap a.jsvehiclemanager-seller-listing-smedia-links {float: right;margin: 1px 2px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap {float: right;padding-left: 15px;padding-right: 125px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-left {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-left span.jsvehiclemanager-seller-listing-data {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-left span.jsvehiclemanager-seller-listing-data span.jsvehiclemanager-seller-listing-data-title {float: right;padding-right: 0px;padding-left: 4px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-left span.jsvehiclemanager-seller-listing-data span.jsvehiclemanager-seller-listing-data-value {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-right {text-align: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-profileview-subhead {float: right;text-align: right;border-right: 4px solid #0073AA;border-left: 1px solid #D3D3D3;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-profileview-subhead-description {float: right;text-align: right;}
+/*Packages*/
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left span.jsvm_credits {float: right;border-left: 1px solid #D4D4D5;border-right: 0px;padding-left: 8px;padding-right: 0px;line-height: 32px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left span.jsvm_credits img {float: right;-webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left span.jsvm_package-created {float: right;line-height: 33px;margin-right: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left span.jsvm_right-discount {float: left;right: auto;left: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-right span.jsvm_discounted-amount {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-right {float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-right span.jsvm_net-amount {float: left;margin-right: 0px;margin-left: 25px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-middle {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-middle span.jsvm_middle-left {float: right;text-align: right;padding-left: 6px;padding-right: 15px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-middle span.jsvm_middle-right {float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-middle span.jsvm_middle-right a.jsvm_middle-right-buttons {float: right;margin-left: 3px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-middle span.jsvm_middle-right a.jsvm_middle-right-buttons img {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-logo-wrap div.jsvm_js-logo-img {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data span.jsvm_text {float: right;}
+/*Credits*/
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvm_header-credits {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvm_header-credits span.jsvm_img {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvm_header-credits span.jsvm_img img {float: right;padding-right: 0px;padding-left: 8px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvm_header-credits span.jsvm_notImg {float: right;text-align: right;padding-left: 0px;padding-right: 20px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-field-obj-field {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-field-obj-text div.jsvm_txt {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-field-obj-text span.jsvm_get-txt-2 {float: right;padding-left: 0px;padding-right: 20px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper a#jsvm_userpopup {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj label#fortransactionverified {float: right;}
+/*Vehicle Types*/
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj label#forisdefault {float: right;}
+/*Conditions*/
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.wp-picker-container {float: right;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.wp-picker-container a.wp-color-result {float: right;margin-right: 0px;margin-left: 6px;padding-left: 0px;padding-right: 30px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.wp-picker-container a.wp-color-result::after {right: auto;left: 0;border-left: 0px;border-right: 1px solid #ccc;}
+/*Reports*/
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#js-vehicle-managergraph-wrap {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#js-vehicle-managergraph-wrap div.jsvehiclemanager-garap-title {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#js-vehicle-managergraph-wrap div.js-vehicle-managergraph-divcss {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-ovrallstats-wrp {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-tot-veh-det-row {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-tot-veh-det-row div.jsvehiclemanager-tot-veh-det-box-wrp {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-tot-veh-det-row div.jsvehiclemanager-tot-veh-det-box-wrp:first-child {margin-right: 0px;margin-left: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-tot-veh-det-row div.jsvehiclemanager-tot-veh-det-box-wrp div.jsvehiclemanager-tot-veh-det-box-left {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-tot-veh-det-row div.jsvehiclemanager-tot-veh-det-box-wrp div.jsvehiclemanager-tot-veh-det-box-right {text-align: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-today-veh-det-row {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-today-veh-det-row div#jsvehiclemanagertody-stats {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-today-veh-det-row div.jsvehiclemanager-today-veh-det-box {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box.jsvm_makemodel {float: right;margin-right: 0px;margin-left: 10px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-top span.jsvehiclemanager-veh-stats-det-box-top-title {text-align: right;padding-right: 15px;padding-left: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-mid {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-mid div.jsvm_js-auto-stat-row {float: right;padding-left: 25px;padding-right: 15px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-mid div.jsvm_js-auto-stat-row a {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-mid div.jsvm_js-auto-stat-row span.jsvm_js-auto-stat-row-name {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-mid div.jsvm_js-auto-stat-row span.jsvm_js-auto-stat-row-name img.jsvm_js-auto-row-imgage {float: right;margin-left: 7px;margin-right: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-mid div.jsvm_js-auto-stat-row span.jsvm_js-auto-stat-row-value {float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-btm {float: right;padding-right: 15px;padding-left: 15px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-btm a.jsvehiclemanager-veh-stats-det-box-btm-txt {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row img.jsvm_jsauto-stat-arrrow-image {float: left;-webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */margin: 3px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box div.jsvehiclemanager-veh-stats-det-box-btm a.jsvehiclemanager-veh-stats-det-box-btm-txt img.jsauto-stat-arrrow-image {float: left;-webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */margin: 3px;}
+div#js-vehicle-manager-main-graphwrapper div.js-vehicle-manager-graphheading {float: right;text-align: right;}
+div.jsvehiclemanager-repstats-wrp {float: right;}
+div#jsvm_js-makemodel-makeimage {float: right;}
+div#jsvm_js-makemodel-makeimage img#jsvm_js-makeimg {float: right;}
+div#jsvm_js-makemodel-makeimage span.jsvm_js-maketitle {margin-right: 10px;margin-left: 0px;float: right;}
+div#jsvm_js-makemodel-makeimage span.jsvm_js-makedate {float: left;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data {float: right;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data div.jsvehiclemanager-repstats-head-row {float: right;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data div.jsvehiclemanager-repstats-head-row span.jsvehiclemanager-repstats-data-name {float: right;border-left: 1px solid #cccccc;border-right: 0px;padding-left: 0px;padding-right: 15px;text-align: right;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data div.jsvehiclemanager-repstats-head-row span.jsvehiclemanager-repstats-data-total {float: right;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data div.jsvehiclemanager-repstats-head-row span.jsvehiclemanager-repstats-data-active {float: right;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data div.jsvehiclemanager-repstats-body-row {float: right;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data div.jsvehiclemanager-repstats-body-row span.jsvehiclemanager-repstats-data-name {float: right;border-left: 1px solid #cccccc;border-right: 0px;padding-left: 0px;padding-right: 15px;text-align: right;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data div.jsvehiclemanager-repstats-body-row span.jsvehiclemanager-repstats-data-total {float: right;}
+div.jsvehiclemanager-repstats-wrp div.jsvehiclemanager-repstats-data div.jsvehiclemanager-repstats-body-row span.jsvehiclemanager-repstats-data-active {float: right;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_js-filter-form-wrapper {float: right;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_js-filter-form-wrapper div.jsvm_js-filter-form-data {float: right;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_js-filter-form-wrapper div.jsvm_js-filter-form-data label.jsvm_js-filter-form-title {float: right;text-align: right;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_js-filter-form-wrapper div.jsvm_js-filter-form-data div.jsvm_js-filter-form-value {float: right;padding-right: 0px;padding-left: 15px;}
+/*Email Templates Pending*/
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td.jsvm_section-header {text-align: right;}
+div.jsvm_js-email-menu {float: right;}
+div.jsvm_js-email-menu span.jsvm_js-email-menu-link {text-align: right;}
+div.jsvm_js-email-body {float: right;}
+div.jsvm_js-email-body div.js-form-wrapper {float: right;}
+div.jsvm_js-email-body div.js-form-wrapper div.js-form-title {float: right;text-align: right;margin-right: 0px;margin-left: 5%;}
+/*Country*/
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj label#forenabled {float: right;}
+div#jsvm_popup_main div#jsvm_checkbox-popup-wrapper span.jsvm_submit-button-popup {float: right;margin: 0px;}
+div#jsvehiclemanageradmin-wrapper div.js_vehiclemanager_error_messages_wrapper div.jsvm_message1 span {text-align: right;padding-left: 0px;padding-right: 22%;}
+div#jsvehiclemanageradmin-wrapper div.js_vehiclemanager_error_messages_wrapper div.jsvm_message2 span.jsvm_img {left: auto;right: 20px;}
+div#jsvehiclemanageradmin-wrapper div.js_vehiclemanager_error_messages_wrapper div.jsvm_message2 span.jsvm_message-text {padding-left: 0px;padding-right: 22%;text-align: right;}
+div#jsvehiclemanageradmin-wrapper div.js_vehiclemanager_error_messages_wrapper div.jsvm_footer a {float: left;margin-right: 0px;margin-left: 20px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_popup-field-wrapper div.jsvm_popup-field-title {float: right;text-align: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_popup-field-wrapper div.jsvm_popup-field-obj input {float: right;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_popup-field-wrapper div.jsvm_popup-field-obj select {float: right;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead tr th.jsvm_left-row { text-align: right; padding-left: 0px; padding-right: 13px;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td.jsvm_left-row { text-align: right; padding-left: 0px; padding-right: 13px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper font.jsvm_required-notifier{left: -8px;right: auto;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap form div.jsvm_js-form-wrapper{float: left;width: 80%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log{left: 3%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log span.jsvm_popup-top img#jsvm_popup_cross{float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_cost{float: left;}
+div.jsvehiclemanager-widget-contaner .jsvehiclemanager-widget-block .jsvehiclemanager-widget-img{float: right;}
+div.jsvehiclemanager-widget-contaner div.jsvehiclemanager-widget-vehicle-row div.widg-vehicle-image div.veh-widget-image{float: right;}
+div.jsvehiclemanager-widget-contaner div.jsvehiclemanager-widget-vehicle-row div.vehicle-row-top {padding-right: 135px;padding-left: 0;}
+div.jsvehiclemanager-widget-contaner div.jsvehiclemanager-widget-vehicle-row div.vehicle-row-bottom {padding-right: 135px;padding-left: 0;text-align: right;}
+div.jsvehiclemanager-widget-contaner div.jsvehiclemanager-widget-vehicle-row div.vehicle-row-top span.widg-vehicle-price{float: left;}
+div.jsvehiclemanager-widget-contaner div.jsvehiclemanager-widget-vehicle-row div.widg-vehicle-image{left: auto;right: 5px;border: 1px solid #d4d4d5;border-right: 3px solid #0073AA;}
+div.jsvehiclemanager-widget-contaner div.jsvehiclemanager-widget-seller-row div.vehicle-row-top {padding-right: 90px;padding-left: 0;}
+div.jsvehiclemanager-widget-contaner div.jsvehiclemanager-widget-seller-row div.vehicle-row-bottom {padding-right: 90px;padding-left: 0;}
+div.jsvehiclemanager-widget-contaner div.jsvehiclemanager-widget-seller-row div.widg-seller-image{left: auto;right: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs img.jsvm_reviewpic {left: auto;right: 20px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs img.jsvm_reviewpic2 {left: auto;right: 115px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text a img {-webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_right {left: 41px;right: auto;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_right img {-webkit-transform: rotateY(180deg); /* Safari */transform: rotateY(180deg); /* Standard syntax */}
+div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data span.jsvm_heading {float: right;}
+@media screen and (max-width: 400px) {
+	div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_left-img {float: none;}
+	div#jsvehiclemanageradmin-wrapper span#jsvm_filter-activity-log {float: right;margin-left: 0px;margin-right: 10px;}
+	div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-admin-title-left {margin-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-button-link img {margin-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions label.jsvm_js-bulk-link input {margin-top: -3px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions a.jsvm_js-bulk-link img {padding-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions span.jsvm_sort {float: right;margin-right: 10px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_slide_wrap {width: 100%;margin: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content {padding: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_title a {float: right;margin-left: 0px;margin-right: 5px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_title input {float: right;margin-right: 0px;margin-left: 4px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_price {width: 100%;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-title {padding-left: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name input {margin: -3px 0 0 2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype1 {margin-right: 0px;margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype2 {margin-right: 0px;margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white input#isdiscount1 {margin: -2px 0 0 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white input#isdiscount2 {margin: -2px 0 0 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper input[id^="ufield_"] {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper label.jsvehiclemanager-title {float: right;padding-left: 10px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value input[type="radio"] {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj input {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right {text-align: center;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap {padding: 5px 8px 0px 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-right {text-align: center;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap form div.jsvm_js-form-wrapper {float: right;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap form div.jsvm_js-form-wrapper label#jsvm_sellerid {float: right;}
+	div#jsvehiclemanageradmin-wrapper a#jsvm_userpopup.jsvm_cm-userpopup {float: none;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.js-col-md-6 {padding: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left span.jsvm_credits {padding-left: 0px;text-align: right;border-left: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-right span.jsvm_net-amount {float: none;margin: 0px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper a#jsvm_userpopup {margin-right: 7px;}
+	div.jsvm_js-email-menu span.jsvm_js-email-menu-link {text-align: center;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper {float: none;}
+	div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td{text-align: right;}
+	div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody input[type="checkbox"]{float: none;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name{text-align: center;width: 100%;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name input{float: none;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading{padding-right: 0px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper font.jsvm_required-notifier{left: auto;right: auto;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_cost{float: none;}
+	div#jsvehiclemanageradmin-wrapper table#jsvm_js-table #jsvm_center-align-text{text-align: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main{width: 100%;}
+	div#jsvehiclemanageradmin-data{z-index: 3;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data span.jsvm_heading {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data {padding-left: 0px;padding-right: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data span.jsvm_text {float: left; min-width: 100px; }
+	div#jsvehiclemanageradmin-wrapper div.jsvm_fileUpload {float: left !important;margin-top: -45px;left: -9px;}
+
+}	
+@media screen and (max-width: 600px) {
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_right_button div#jsvehiclemanager_vehicle_button_area a#jsvehiclemanager_vehicle_btn {float: none;} 
+	div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_checkbox-filter input.checkbox {margin-top: -3px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_left-img {float: none;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box {margin-left: 9px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions label.jsvm_js-bulk-link input {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions a.jsvm_js-bulk-link img {padding-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_title a {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_title input {float: right;}
+	div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-button-link img {margin-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value span.jsvm_speedometer {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype1 {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype2 {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white input#isdiscount1 {margin-top: -2px;} 
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white input#isdiscount2 {margin-top: -2px;} 
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvm_checkbox-sections div.jsvm_checkboxes div.jsvm_js-checkbox label input[type="checkbox"] {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper input[id^="ufield_"] {margin-top: -2px;} 
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.js-col-md-6 input {margin-left: 0px;margin-right: 5px;margin-bottom: 8px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj input[type="radio"] {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap {padding-right: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap {padding-left: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp {float: none;text-align: center;}
+	div#jsvehiclemanageradmin-wrapper input.jsvm_inputval {width: 74%;}
+	div#jsvehiclemanageradmin-wrapper div.jsvm_fileUpload {float: left !important;margin-top: -50px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper {float: left;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper label.jsvehiclemanager-title {float: right;padding-left: 10px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value input[type="radio"] {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right {text-align: center;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap {padding-right: 15px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-right {text-align: center;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right span.jsvehiclemanager-seller-listing-smedia-wrap {margin-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-logo-wrap {float: right;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-logo-wrap div.jsvm_js-logo-img {float: right;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap form div.jsvm_js-form-wrapper {float: right;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap form div.jsvm_js-form-wrapper label#jsvm_sellerid {float: right;margin-right: 45px;}
+	div#jsvehiclemanageradmin-wrapper a#jsvm_userpopup.jsvm_cm-userpopup {float: none;}
+	div#jsvehiclemanageradmin-wrapper a#jsvm_userpopup.jsvm_cm-userpopup.vehicle-form {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left span.jsvm_credits {padding-left: 0px;border-left: 0px;text-align: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-tot-veh-det-row div.jsvehiclemanager-tot-veh-det-box-wrp div.jsvehiclemanager-tot-veh-det-box-left {text-align: right;}
+	div.jsvm_js-email-menu span.jsvm_js-email-menu-link {text-align: center;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name{text-align: center;width: 100%;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name{text-align: center;width: 100%;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name input{float: none;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading{padding-right: 0px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper font.jsvm_required-notifier{left: auto;right: auto;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_cost{float: none;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main{width: 70%;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data span.jsvm_heading {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data {padding-left: 0px;padding-right: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data span.jsvm_text {float: right; min-width: 100px; }
+	div#jsvm_popup_main div#jsvm_checkbox-popup-wrapper span.jsvm_submit-button-popup {float: none;margin: 10px auto;} 
+
+}
+
+@media screen and (max-width: 782px) {
+	div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions label.jsvm_js-bulk-link input {margin-top: -2px;}	
+	div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions a.jsvm_js-bulk-link img {padding-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype1 {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype2 {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white input#isdiscount1 {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvm_div-white input#isdiscount2 {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper input[id^="ufield_"] {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvm_checkbox-sections div.jsvm_checkboxes div.jsvm_js-checkbox label input[type="checkbox"] {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvm_fileUpload {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value input[type="radio"] {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper {float: left;padding-left: 10px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper label.jsvehiclemanager-title {float: right;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvm_js-form-publish-wrapper span.jsvehiclemanager-value {float: right;}
+	div.js-vehicle-managerconfig-threecols div.js-vehicle-manager-configuration-row label input[type="checkbox"] {margin-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-button-link img {margin-top: 0px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-logo-wrap div.jsvm_js-logo-img {float: right;margin-right: 40px;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap form div.jsvm_js-form-wrapper {float: right;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap form div.jsvm_js-form-wrapper label#jsvm_sellerid {float: right;margin-right: 45px;}
+	div#jsvehiclemanageradmin-wrapper a#jsvm_userpopup.jsvm_cm-userpopup {float: none;}
+	div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj.js-col-md-9 input {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-tot-veh-det-row div.jsvehiclemanager-tot-veh-det-box-wrp {margin-left: 5px;}
+	div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_checkbox input#states1 {margin-top: -2px;}
+	div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_checkbox input#city1 {margin-top: -2px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

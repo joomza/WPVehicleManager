@@ -1,0 +1,177 @@
+/*JS_Autoz Dashborad mobile 480*/
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box{width: 100%;margin-bottom: 10px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_count1 div.jsvm_box:last-child{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_box-wrapper a.jsvm_box{width: 44%;float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper{width: 100%;height: 120px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs img.jsvm_reviewpic{top: 0px;float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs img.jsvm_reviewpic2{top: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs{width: 35%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text{width: 64%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_right{display: none;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-admin-title-left{color:#23282D;margin-bottom: 5px;display: inline-block;text-decoration: none;float: left;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-admin-title-left img{margin-top:0px;display: inline-block;}
+div#jsvehiclemanageradmin-wrapper span.jsvm_js-admin-title a.jsvm_js-button-link.jsvm_button{float: left;margin-top:5px; clear: both;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form input.jsvm_inputbox{margin-bottom: 10px; }
+div.jsvm_tabInner div.jsvm_left{width: 100%;}
+div.jsvm_tabInner div.jsvm_right{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-bottom-wrap{padding: 3px 5px 10px 10px; }
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-bottom-wrap div.jsvehiclemanager-seller-listing-created{padding-bottom: 15px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-bottom-wrap div.jsvehiclemanager-seller-listing-action-wrap{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap span.jsvehiclemanager-seller-listing-data{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvm_js-admin-joomsky-wrapper{width: 100%;display: inline-block; } 
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvm_js-admin-joomsky-wrapper span.jsvm_js-admin-title{width:100% !important; float: none;text-align: center;background:#f1f1f1;padding-bottom: 0px; } 
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvm_js-admin-joomsky-wrapper span.jsvm_js-admin-title img{display: inline-block;border: none;background-color: #FFFFFF;margin-bottom: 0px;} 
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvm_js-admin-joomsky-wrapper span.jsvm_detail-text{width:100%;float: none;} 
+div#jsvehiclemanageradmin-wrapper div.jsvm_products div.jsvm_components{width: 100%;float: left;}
+div.jsvm_js-admin-info-wrapper span.jsvm_js-admin-info-title{width: 30%;float: left;}
+div.jsvm_js-admin-info-wrapper span.jsvm_js-admin-info-vlaue{width: 68%;float: left;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions span.jsvm_sort{float: left;margin-bottom: 6px;margin-left: 10px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_page-actions span.jsvm_sort span.jsvm_sort-field select#jsvm_sorting{height: 29px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_right-top div.jsvm_veh-price{width: 100%;margin: 0px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_user-stats-top div.jsvm_box{width: 100%;margin-bottom: 8px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_user-stats-top div.jsvm_box:last-child{width: 100%;}
+/*vehicle listing */
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_slide_wrap{width: 100%;margin: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content{width: 100%;float: left;padding:0px;position: relative;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content span.jsvehiclemanager_vehicle_status_value{position: absolute;top:118px;right: 11px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_img{bottom: 11px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_left{width: 100%;margin-bottom: 8px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_right_button{width: 100%;float: left;display: inline-block;text-align: center;margin-top:5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_bottom_wrap div#jsvehiclemanager_vehicle_right_button div#jsvehiclemanager_vehicle_button_area{width: 100%;text-align: center;display: inline-block;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row{border-bottom: none;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_title{width: 100%;text-align: center;display: inline-block;float: none;margin-bottom: 15px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager_vehicle_wrapper div#jsvehiclemanager_vehicle_top_wrap div#jsvehiclemanager_vehicle_right_content div#jsvehiclemanager_vehicle_content_top_row div#jsvehiclemanager_vehicle_price{width: 98%;border:1px solid #D4D5D4; }
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-left span.jsvm_credits{width: 100%;border-right: none;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-right{width: 100%;border-top: 1px solid #D4D4D5;float: left;display: inline-block;text-align: center;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-right span.jsvm_discounted-amount{margin:0px; }
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-top span.jsvehiclemanager-credit-pack-top-right span.jsvm_net-amount{margin: 0px;text-align: center;display: inline-block;float: none;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-middle span.jsvm_middle-left{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-credit-pack-wrap div#jsvehiclemanager-credit-pack-wrapper div.jsvehiclemanager-credit-pack-data div.jsvehiclemanager-credit-pack-data-middle span.jsvm_middle-right{width: 100%;}
+/* Listing Table */
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table{border-spacing:0 6px;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table caption {background-image: none;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead{display:none;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead a{color:#ccc;text-decoration:none;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead tr th{display:none;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead tr th.jsvm_grid{display:block;border:none;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead tr th.jsvm_grid span.jsvm_check-all-span{display:none;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead input[type="checkbox"]{position: relative;top: 4px;left: 0px;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead input[type="checkbox"]:after{content:"Check All";white-space:nowrap;position:relative;top:11px;left:31px;color:#fff;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead input[type="checkbox"]:checked:after{left:31px;top:-13px;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody input[type="checkbox"]{position:relative;top:-3px;float:left;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody input[type="checkbox"]:checked{position:relative;left:0px;float:left;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td:first-child{border-bottom:1px solid #aaa;border-top:1px solid #aaa;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td{display:block;width:100%;text-align:left;padding:6px 5px;border:none;border-right:1px solid #aaa;border-left:1px solid #aaa;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td:before {content:attr(data-th) ":";font-weight:bold;display:inline-block;margin-right:20px;width:auto;border:none;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td:first-child:before{content:attr(data-th);}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td:last-child{border-bottom:1px solid #aaa;border-top:1px solid #aaa;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td.jsvm_action:last-child:before{content: unset;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td.jsvm_action:last-child{text-align: center;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td.jsvm_action:last-child a img{top:0px;left:0px;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td:last-child a img{left:-38px;top:2px;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table thead th.jsvm_center,table#jsvm_js-table tbody tr td.jsvm_center {text-align: left;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td.jsvm_center a{text-decoration:none;font-size:12px;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td.jsvm_left-row{text-align:left;padding-left:5px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper{text-align: center;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_left-img{float: none;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_right-top{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_right-bottom{width: 100%;text-align: left;padding-left: 5px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_newest-vehicles-portion div.jsvm_vehicles-portion div.jsvm_vechile-wrapper div.jsvm_left-part{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj input.jsvm_one{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-field-wrap{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap{width: 100%;float: left;position:unset;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading{width: 100%;padding:0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span#jsvehiclemanager-seller-listing-heading-name{width: 100%;text-align: center;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right{width:100%;text-align: center;margin-top: 8px;margin-bottom: 8px}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap{width: 100%;padding:5px 0px 0px 8px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-left{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-left span.jsvehiclemanager-seller-listing-data{width: 100%;padding: 3px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-data-wrap div.jsvehiclemanager-seller-listing-right{width: 100%;text-align: center;display: inline-block;float: left;margin-bottom: 10px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-limage{width: 100%;position:unset;top: none;bottom:none;text-align: center;display: inline-block;float: left;border: none;height: 126px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-limage img{width:100px;position:unset;height: 100px;text-align: center;display: inline-block;border:1px solid #CCCCCC; margin-top: 16px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-seller-listing-wrap div#jsvehiclemanager-seller-listing-top-wrap div#jsvehiclemanager-seller-listing-heading span.jsvehiclemanager-seller-listing-right span.jsvehiclemanager-seller-listing-smedia-wrap{margin-top: 8px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-field-obj-field{width: 100%;float: left;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-field-obj-text{width: 100%;float: left;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-title{padding: 0px 9px 0 0;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper{width: 100%;float: left;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvm_checkbox-sections div.jsvm_checkboxes{width:100%;float: left; }
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp{padding: 0px;}
+div#jsvehiclemanageradmin-wrapper input.jsvm_inputval{width: 53%;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_form-vehicle-main-img-wrapper{width: 275px;height: 165px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_form-vehicle-small-img-main-wrapper{width:100%;margin-top: 15px; }
+div#jsvehiclemanageradmin-wrapper div.jsvm_form-vehicle-small-img-main-wrapper div.jsvm_cm-img-button-wrap{width:145px;}
+div#jsvehiclemanageradmin-wrapper div.jsvm_form-vehicle-small-img-main-wrapper div.jsvm_cm-img-wrap{width:129px;height:79px;}
+div.js-vehicle-managerconfig-threecols{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input.jsvm_lenghtless{width: 85%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value div.jsvehiclemanager-price-wrap{width: 82.9%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main{width:75%;left: 58%;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj select.jsvm_one{width: 100%;height: 30px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj select.jsvm_two{width: 100%;height: 30px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj input.jsvm_two{width: 100%;height: 30px;margin-top: 5px;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj{padding-left:0px; }
+span.jsvm_input-field-wrapper{width: 210px !important;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.js-vehicle-manager-halfwidth-graph{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-tot-veh-det-row div.jsvehiclemanager-tot-veh-det-box-wrp{width: 100%;margin: 0 0 8px 0;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-today-veh-det-row div.jsvehiclemanager-today-veh-det-box{width: 100%;margin: 0 0 8px 0}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box.jsvm_makemodel{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div.jsvehiclemanager-veh-stats-det-row div.jsvehiclemanager-veh-stats-det-box{width: 100%;}
+div#jsvehiclemanageradmin-wrapper form.jsvm_js-filter-form div.jsvm_js-filter-form-wrapper div.jsvm_js-filter-form-data{width: 100% !important;}
+div#jsvehiclemanager-popup{width:88%;}
+div#jsvehiclemanager-popup div.jsvm_icon-parent{display:none;}
+div#jsvehiclemanager-popup div.jsvm_popup-row{padding:10px 0px}
+div#jsvehiclemanager-popup div.jsvm_popup-row.jsvm_button-wrap{text-align:center;}
+div#jsvehiclemanager-popup div.jsvm_popup-row.jsvm_button-wrap a.jsvm_proceed{margin-bottom:8px;}
+div#jsvm_popup_main div#jsvm_checkbox-popup-wrapper form#jsvm_filter_form {display: inline-block;text-align: center;width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_checkbox-filter {float:left; padding-left: 5; padding-right: 0px; width: 90%; margin-left: 5%; margin-right: 5%;}
+div#jsvm_popup_main div#jsvm_checkbox-popup-wrapper span.jsvm_submit-button-popup {float: none;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_wrapper-border{width: 100%; text-align: center;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_date-time{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_action-wrapper{width: 100%;border:none;display: unset;padding: 0px 0px; }
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_desc{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_action{width: 100%}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main_log div#jsvm_data span.jsvm_cost{text-align: center;float: none;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper{padding: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_purchase-detail-wrapper div.jsvm_purchase-detail-data{padding: 9px 7px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_search-center{margin: 0px;width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_search-center div.jsvm_search-value{width: 50%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_search-center div.jsvm_search-value-button{width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div.jsvm_search-center div.jsvm_search-value-button div.jsvm_js-button{margin-top: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div.jsvm_user-records-wrapper{margin: 0px;width: 100%;}
+div#jsvehiclemanageradmin-wrapper div#jsvm_popup_main div#jsvm_records div#jsvm_user-list-header{padding: 10px 0px}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper{margin: 20px 0 0;width: 100%;}
+div#jsvehiclemanageradmin-wrapper table#jsvm_js-table tbody tr td a.jsvm_left-row-status img{left: 0px; top:0;}
+div#jsvehiclemanageradmin-wrapper div.jsvehiclemanager-form-wrap div.jsvm_js-field-wrapper div.jsvm_js-field-obj div.jsvm_js-field-obj-text div.jsvm_txt{padding-left: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review{ border:1px solid #E7E7E7; color: #373435; display: inline-block; width: 100%; margin-bottom: 10px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper{background: #ffffff; width: 100%; height: 75px; }
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs{display: inline-block;position: relative; width: 25%; }
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs img.jsvm_reviewpic{left: 20px; top:-61px;   position: absolute;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs img.jsvm_reviewpic2{left: 115px;top:-57px; position: absolute;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_lower{background: #FF9000; border-top: 5px solid #E7E7E7; width: 100%; height: 17px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text{display: inline-block; margin-top: 10px; width: 45%;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text span.jsvm_nobold{display: inline-block; font-size: 16px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text span.jsvm_bold{display: inline-block; font-size: 16px; font-weight: bold;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text a{display: inline-block; text-decoration: none; margin-top: 10px; background: url('../images/btn.png') 100% 100%; border-radius: 5px; padding: 7px; color: #ffffff;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text a img {margin-left: 5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_right{display: none;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_upper div.jsvm_imgs img.jsvm_reviewpic{left:10px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text{width:70%;position: relative;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text a{margin-top: 1px; padding: 3px 5px;font-size: 11px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-admin-wrapper div.jsvm_review div.jsvm_text span.jsvm_nobold{font-size: 13px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper input[type=checkbox] {margin-top:-5px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper input[id^="ufield_"] {width: auto;padding: 0 5px;float:left;margin: 0px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype1{margin-top:-2px;}
+div#jsvehiclemanageradmin-wrapper div#jsvehiclemanageradmin-data div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-add-veh-from div.jsvm_js-form-wrapper div.jsvehiclemanager-value input#videotype2{margin-top:-2px;}
+
+/*Post instalation */
+div#jsvehiclemanageradmin-wrapper div.js-admin-title-installtion {padding: 10px 5px;}
+div#jsvehiclemanageradmin-wrapper div.post-installation-content-wrp {display: block;}
+div#jsvehiclemanageradmin-wrapper div.post-installation-content-wrp div.post-installtion-content-header {width: 100%;}
+div#jsvehiclemanageradmin-wrapper div.js-admin-title-installtion a.close-button {margin-top: 20px;margin-right: 24px;}
+div#jsvehiclemanageradmin-wrapper div.post-installtion-content {width: 100%;margin-top: 65px;margin-left: 0;}
+div#jsvehiclemanageradmin-wrapper div.post-installtion-content div.pic-config div.title {width: 100%;text-align: left;margin-bottom: 10px;}
+div#jsvehiclemanageradmin-wrapper div.post-installtion-content div.pic-config div.field {width: 100%;margin-left: 0;}
+div#jsvehiclemanageradmin-wrapper div.post-installtion-content div.pic-config div.field input[type="text"], select {width: 100%;}
+div#jsvehiclemanageradmin-wrapper div.post-installtion-content div.pic-config div.desc {padding-left: 0;}
+div#jsvehiclemanageradmin-wrapper div.post-installtion-content div.pic-config div.sample-data-wrp {padding-left: 0;}

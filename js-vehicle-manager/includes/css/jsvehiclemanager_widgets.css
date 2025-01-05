@@ -1,0 +1,7 @@
+label.jsvehiclemanagerwidefat{display: block;}
+p.jsvehiclemanager-wid-selecttype{background: #E7f5fa;padding: 15px;border-bottom: 2px solid #00a0d2;}
+p.jsvehiclemanager-wid-selecttype label.jsvehiclemanager-label{color: #444444;}
+/*mce css*/
+.jsvm_mce-window.mce-container.jsvm_mce-jsvehiclemanagerjobseditorclass .jsvm_mce-container-body.jsvm_mce-abs-layout { overflow: hidden;}
+i.jsvehiclemanager-ouricon-img{background-image: url('../images/admin_jsvehiclemanager1.png');}
+i.jsvm_mce-ico.mce-i-icon.jsvehiclemanager-ouricon-img{margin-right: 5px;}

@@ -1,0 +1,1320 @@
+div#jsvm_module_data_fieldwrapper.comp40{width:40%;float:left;}
+div#jsvm_module_data_fieldwrapper.data60{width:60%;float:left;}
+div#jsvm-vm-wrapper img{display: inline-block;margin: 0px;}
+div#jsvm-vm-wrapper a{box-shadow: unset;}
+.no-padding{padding:0px;}
+/*jobtags*/
+div#jsvm_jstags{display: inline-block;float: left;width: 100%;margin: 25px 0px;}
+div#jsvm_jstags span.jstagstitle{display: inline-block;width: 100%; float: left;font-weight: bold;font-size: 15px;padding-bottom: 4px; text-align: left;margin-left: 7px;}
+span.job-right-heading{text-align:left;padding:8px 10px;margin-bottom:10px;font-weight: bold;font-size:18px;width:100%;float:left;}
+div#jsvm_jstags a.jsjob_tags_a{display: inline-block;float: left;padding: 4px 9px; margin: 0px 0px 7px 7px; background: #DDDDDD; text-decoration: none;border-radius: 8px;color:#4f4f4f;border:1px solid #d4d4d5;}
+div#jsjobsfooter{float:left;width:100%;padding:5px;margin-top:5px;}
+div#job-info-sociallink{text-align: center;}
+div#job-info-sociallink a{display: inline-block;margin-right:5px;padding:10px 0px;}
+div.viewcompany-lower-wrapper div#job-info-sociallink a{display: inline-block;margin-right:5px;padding: 0px;}
+div.viewcompany-lower-wrapper div#job-info-sociallink{position:absolute;width:308px;float;left;top:325px;left:40px;}
+div#jsvm_module{border-radius: 5px;padding:10px;}
+div#jsvm_module a{text-decoration: none;}
+span#jsvm_module_heading{display:block;padding:5px;margin-bottom:15px;font-weight: bold;}
+div#jsvm_modulelist_titlebar{width:100%;float:left;padding:4px 0px;position:relative;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar{padding-left: 2%;float:left;font-weight:bold;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar:last-child{border-right:0px;}
+div#jsvm_modulelist_databar{width:100%;float:left;padding:4px 0px;position:relative;margin: 5px 0px;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar{padding-left: 2%;float:left;font-weight:normal;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.module-list{padding-left: 1%;float:left;font-weight:normal;border-right:none;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar:last-child{border-right: 0px;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.bg{padding:2px 0px;padding-left: 2%;}
+/* modules */
+div#jsvm_mod_wrapper{display: inline-block;width: 100%; float: left;padding: 10px;}
+div#jsvm_mod_wrapper div#jsvm-vm-mod-heading{display: inline-block;width: 100%; float: left;font-size: 15px; padding: 5px 0px; font-weight: bold; text-align: left;}
+div#jsvm_mod_wrapper div#jsvm-vm-data-wrapper div.anchor {display: inline-block;width: 100%;float: left;padding: 5px;}
+div#jsvm_mod_wrapper div#jsvm-vm-data-wrapper div.anchor a.anchor{text-decoration: none;display: inline-block;width: 100%;padding: 5px;}
+div#jsvm_mod_wrapper div.jsvm-vm-value{padding: 5px; width: 100%; float: left; display: inline-block;}
+div#jsvm_module_wrapper div#jsvm_module_wrap{display:inline-block;padding:10px;float:left;}
+div#jsvm_module_wrapper div#jsvm_module_wrap.modjob1{width:100%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap.modjob2{width:50%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap.modjob3{width:33.33333%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap.modjob4{width:25%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap.modjob5{width:20%;}
+div#jsvm_module div#jsvm_module_data_fieldwrapper{display:none;}
+div#jsvm_module div#jsvm_module_data_fieldwrapper.visible-all,
+div#jsvm_module div#jsvm_module_data_fieldwrapper.visible-desktop{display:inline-block;}
+div#jsvm_module div#jsvm_module_data_fieldwrapper div#jsvm_module_data_fieldwrapper.modcolwidth1{width:100%;padding: 5px;}
+div#jsvm_module div#jsvm_module_data_fieldwrapper div#jsvm_module_data_fieldwrapper.modcolwidth2{width:50%;}
+div#jsvm_module div#jsvm_module_data_fieldwrapper div#jsvm_module_data_fieldwrapper.modcolwidth3{width:33.3333%;}
+div#jsvm_module div#jsvm_module_data_fieldwrapper div#jsvm_module_data_fieldwrapper.modcolwidth4{width:25%;}
+div#jsvm_module div#jsvm_module_data_fieldwrapper div#jsvm_module_data_fieldwrapper.modcolwidth5{width:20%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar{min-height:2px;display:none;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar{min-height:2px;display:none;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.visible-all,
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.visible-desktop{display:inline-block;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.visible-all,
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.visible-desktop{display:inline-block;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-1{width:100%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-2{width:50%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-3{width:33.3333%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-4{width:25%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-5{width:20%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-6{width:16.66%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-7{width:14.28%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-8{width:12.5%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-9{width:11.11%;}
+div#jsvm_modulelist_titlebar span#jsvm_modulelist_titlebar.desktop_w-10{width:10%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-1{width:100%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-2{width:50%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-3{width:33.3333%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-4{width:25%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-5{width:20%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-6{width:16.66%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-7{width:14.28%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-8{width:12.5%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-9{width:11.11%;}
+div#jsvm_modulelist_databar span#jsvm_modulelist_databar.desktop_w-10{width:10%;}
+/* Error Container */
+div.js_job_error_messages_wrapper.disableduser{border:1px solid #B81D20;}
+div.js_job_error_messages_wrapper.disableduser div.message2 span.message-text{background:#B81D20;} 
+div.js_job_error_messages_wrapper.disableduser div.message1 span{color:#373435;}
+div.js_job_error_messages_wrapper{display:inline-block;width:90%;margin:10px 5%;}
+div.js_job_error_messages_wrapper div.message1{display:inline-block;height: 70px; width: 100%;}
+div.js_job_error_messages_wrapper div.message1 span{margin-top: 2.5%; display: inline-block; width: 100%; padding-left: 22%;}
+div.js_job_error_messages_wrapper div.message2{width:100%;display: inline-block; position: relative;}
+div.js_job_error_messages_wrapper div.message3{width:100%;display: inline-block; position: relative;}
+div.js_job_error_messages_wrapper div.footer{width:100%;display:inline-block;float:left; height:80px; text-align: right; margin-top: 10px;padding:0px;}
+div.js_job_error_messages_wrapper div.message2 span.img{height: 145px; width: 18%; background: white; position: absolute; left: 20px; top: -50px; position :reletive;}
+div.js_job_error_messages_wrapper div.message2 span.img img.js_job_messages_image{position:absolute; top:0px;right:0px;bottom:0px;left:0px; margin:auto; max-width:95%; max-height:95%;} 
+div#jsvm-vm-wrapper div.js_job_error_messages_wrapper div.message2 span.img img{display: block; max-height: 90px; max-width: 95%; margin: auto; position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px;}
+div.js_job_error_messages_wrapper div.message2 span.message-text{width: 100%;display: inline-block;padding-left:22%; padding-top:13px; padding-bottom:13px; } 
+div.js_job_error_messages_wrapper div.message3 span.img{height: 145px; width: 18%; background: white; position: absolute; left: 20px; top: -30px;}
+div.js_job_error_messages_wrapper div.message3 span.img img{display: block; max-height: 90px; max-width: 95%; margin: auto; position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px;}
+div.js_job_error_messages_wrapper div.message3 span.message-text{width: 100%;display: inline-block;padding-left:22%;} 
+div.js_job_error_messages_wrapper div.footer a{padding: 8px; margin: 15px 20px 0px 0px; display: inline-block; text-decoration: none;}
+div#jsvm-vm-wrapper{display: inline-block;width:100%;box-sizing:border-box;}
+div#jsvm-vm-wrapper span.applied-resume-count{display: inline-block;float:right;font-weight: normal;padding:7px 5px; }
+div#jsvm-vm-wrapper *{box-sizing:border-box;}
+div#jsvm-vm-wrapper div.page_heading{display: inline-block;font-weight: bold; width:100%;padding:10px;font-size: 16px;margin-bottom: 5px;position: relative;}
+div#jsvm-vm-wrapper div.company-wrapper{display: inline-block; width:95%;margin:5px 2.5%;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper{width: 100%; padding:10px 10px 10px 0px; display: inline-block;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-img{width: 123px; margin: 0px 9px; float:left;text-align: center;display: inline-block; height: 111px;margin-right: 14px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-img a{width: 100%;height: 100%; position: relative; display: inline-block; }
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail{display: inline-block; padding-top:5px; width: calc(100% - 151px);}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-img a img{max-height:100%;max-width: 100%;position: absolute;margin:auto; top: 0;left: 0;right: 0;bottom: 0;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper{float:left;width:100%;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper div.company-detail-upper-left{text-align: left; float: left;min-width: 60%;padding-left: 5px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper div.company-detail-upper-right{float: right; text-align: right;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper div.company-detail-upper-left span.company-title{display: inline-block;float:left;line-height: 26px;max-width: 80%;text-align: left;float: left;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper div.company-detail-upper-left span.gold{display: inline-block;float: left;margin-left: 10px;margin-top: 6px;padding: 1px 6px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper span.company-title a{font-size: 16px; font-weight: bold; text-decoration: none;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper span.company-date{ font-size: 12px; margin-top: 8px; right: 10px; }
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower{float: left;width: 100%;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower.custom-listing{float: left;width: 50%;padding: 5px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower div.company-detail-lower-left{padding-left: 0px; margin-top: 13px;padding-left: 5px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower div.company-detail-lower-left span.js-text{float: left; display: inline-block; font-size: 14px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 50%; font-weight: bold;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower div.company-detail-lower-left span.js-value{float: left; display: inline-block; font-size: 14px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 50%; }
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower div.company-detail-lower-left span.js-value.get-statusgreen{color:green;font-weight: bold;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower div.company-detail-lower-left span.js-value.get-statusred{color:red;font-weight: bold;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower div.company-detail-lower-right{float: left;font-weight:bold;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower div.company-detail-lower-right span.status-text{font-size: 14px; font-weight: bold;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper{float: left;padding: 6px 15px;width: 100%;} 
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper div.company-lower-wrapper-left{float: left; width: auto;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper div.company-lower-wrapper-left span{ float: left;font-size: 14px;padding: 5px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper div.company-lower-wrapper-right{ display: inline-block;margin-bottom: 0;text-align: right;width: auto;float:right;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper div.company-lower-wrapper-right div.button{margin-right: 3px;min-width: 30px;padding: 3px;display: inline-block;height:34px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper div.company-lower-wrapper-right div.featured-button img{margin-top:-1px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper div.company-lower-wrapper-right div.gold-button img{margin-top:-1px;}
+div#jsvm-vm-wrapper div.credits-log-wrapper{display: inline-block; width: 95%; margin-left: 2.5%; }
+div#jsvm-vm-wrapper div.credits-log-wrapper div.credits-log-header{width: 100%; display: inline-block; padding: 10px; text-align: center;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.credits-log-header div.block{display: inline-block; width: 25%; margin-left: 10px; padding: 10px;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.credits-log-header div.block img{float: left; padding: 10px;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.credits-log-header div.block div.span{float: left; padding-left: 10px;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.credits-log-header div.block div.span span{display: block; margin-top: 5px;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.credits-log-header div.block img.img-total{background: #70BA63;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.credits-log-header div.block img.img-remaining{background: #FEB252;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.credits-log-header div.block img.img-spent{background: #FF666F;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.log-list-wrapper{padding: 10px;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.log-list-wrapper span{padding: 5px;}
+div#jsvm-vm-wrapper div.credits-log-wrapper div.log-list-wrapper span.upper{padding:5px; }
+div#jsvm-vm-wrapper div.credits-log-wrapper div.log-list-wrapper span:nth-child(4){float: right;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper{width:95%;display:inline-block;padding:6px 0px 0px 0px;margin:0% 2.5%;font-size:15px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper{display:inline-block;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.comments{width: 90%; padding: 10px; display: inline-block; margin-bottom: 5px; margin-left: 17px;display: none;float:left;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-upper{float:left;font-size:0.8em;width:99%;text-align: left;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-upper span.headingtext{margin-left:5px;width:63%;display:inline-block;font-size:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding-top:5px; }
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-upper span.buttonu{display:inline-block;padding:2px;margin-left:15px;border-bottom:none;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-lower{float:left;font-size:13px;text-align: left;padding:7px 0px 5px 0px;width:98%;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-lower div.big-upper-lower1 span.big-upper-lower1text{width:49%;display:inline-block;padding:5px 0px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-lower div.big-upper-lower2 span.big-upper-lower2text{width:50%;display:inline-block;padding:5px 0px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-lower div.big-upper-lower2 {width:85%;float:left;display:inline-box;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.jsdata-icon{display: inline-block; width: 123px; height: 111px; float: left; margin: 0px 9px; margin-bottom: 10px; text-align: center;margin-right: 14px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper{display: inline-block; width: calc(100% - 146px);float: left;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.jsdata-icon a{position: relative; height: 100%; width: 100%;display: block;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.jsdata-icon a img.fir {position:absolute;top:0px;right:0px;left:0px;bottom:0px; margin:auto; max-height:100%;max-width: 100%;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper a{text-decoration:none;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper span.title{font-weight:bold;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower {float:left;display:inline-block;width:100%;text-align:left; padding: 10px 15px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower span.big-lower-left{display:inline-block;padding:3px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower img.big-lower-img {;display:inline-block;margin: 0px 2px 0px 18px;height:23px;width:auto;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper span.bigupper-jobtotal{display:inline-block;padding:3px 6px;border-radius: 5px;float:right;margin-right:20px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons{;float: right;padding: 2px 1.8%;display:inline-block;padding-right:0.5%;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons a.btn{padding: 5px 8px; text-decoration: none;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper span.title span.title-gold{border-radius:5px;margin-left:10px;font-size:11px;color:white;padding:1px 3px;background-color:#CC9900;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper span.title span.title-featured{border-radius:5px;margin-left:10px;font-size:11px;color:white;padding:1px 3px;background-color:#2993CF;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons span.icons-gold{border-radius:5px;font-size:11px;color:white;padding:1px 3px;background-color:#CC9900;display:inline-block;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons div{display:inline-block;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons span.icons-featured{border-radius:5px;font-size:11px;color:white;padding:1px 3px;background-color:#2993CF;display:inline-block;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons span.icon-text-box{padding:4px 5px 6px 5px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons span.icon-text-box1{padding:0.5px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons span.icons-resume{padding:4px 20px 6px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons span.icon-text-box img.plus-sign{height:auto;width:15px;background-color:#CC9900;display:inline-block;border-radius:8px;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-big-lower div.big-lower-data-icons span.icon-text-box img.plus-sign1{height:auto;width:15px;background-color:#2993CF;display:inline-block;border-radius:8px;}
+div#jsvm-vm-wrapper div.folder-wrapper{display: inline-block; width:95%;margin:5px 2.5%; padding: 5px 10px;}
+div#jsvm-vm-wrapper div.folder-wrapper  div.folder-firsl{float: left; width: 50%; padding: 15px;}
+div#jsvm-vm-wrapper div.folder-wrapper  div.folder-second{float: left;width: 20%;padding: 15px;}
+div#jsvm-vm-wrapper div.folder-wrapper  div.folder-third{float: left; width: 30%;padding: 10px;padding-right:5px;}
+div#jsvm-vm-wrapper div.folder-wrapper  div.folder-third div.button-section{float: right; text-align: right;}
+div#jsvm-vm-wrapper div.folder-wrapper  div.folder-third div.button-section div.button{float: left; margin-right:5px; padding:2px; display: inline-block; text-align: right;}
+div#jsvm-vm-wrapper div.folder-wrapper  div.folder-third div.button-section div.resume-button a{  padding: 2.5px 20px; text-decoration: none; display: inline-block;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper{display: inline-block; width:95%;margin:5px 2.5%; padding: 10px;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.div-left{float: left; width: 60%; padding: 10px;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.div-middel{float: left;width: 20%;padding: 10px;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.div-right{display: inline-block; width: 20%;padding: 10px; padding: 5px; margin-bottom:-10px; text-align: right;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.div-right div.button{ margin-right:5px; padding:2px; display: inline-block;}
+div#jsvm-vm-wrapper div.view-folder-wrapper{width: 95%; padding-left:30px;}
+div#jsvm-vm-wrapper div.view-folder-wrapper div.name{width: 100%; float: left; padding-bottom: 10px;}
+div#jsvm-vm-wrapper div.view-folder-wrapper div.name span.name-text{ float: left;display:inline-block;}
+div#jsvm-vm-wrapper div.view-folder-wrapper div.name span.get-name{ float: left;display:inline-block;}
+div#jsvm-vm-wrapper div.view-folder-wrapper div.description{width: 100%; float: left; margin-top: 10px;}
+div#jsvm-vm-wrapper div.view-folder-wrapper div.description span.description-text{ float: left;display:inline-block;}
+div#jsvm-vm-wrapper div.view-folder-wrapper div.description span.get-description{float: left;padding-bottom: 10px;display:inline-block;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper{width: 100%; padding: 5px 0px; display: inline-block;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.left{width: 70px; padding: 10px; float: left;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.left{width: 15px; padding: 10px; float: left;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.left{width: 15px; padding: 10px; float: left;}
+div#jsvm-vm-wrapper div.category-row-wrapper{width:100%;float:left;}
+div#jsvm-vm-wrapper div.category-wrapper{padding: 10px; float: left;}
+div#jsvm-vm-wrapper div.jobs-by-categories-wrapper{width:100%; padding: 10px; float: left;}
+div#jsvm-vm-wrapper div.jobs-by-categories-wrapper span.title{width:80%; float: left;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;}
+div#jsvm-vm-wrapper div.jobs-by-categories-wrapper span.totat-jobs{width:20%; float: left; text-align: right;} 	
+div#jsvm-vm-wrapper div.resume-row-wrapper{width:100%;float:left;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper{display: inline-block; width:95%;margin:5px 2.5%;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper{width: 100%; padding:10px 10px 10px 0px; display: inline-block;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-img{float: left; display: inline-block; width: 96px;height: 86px; margin: 0px 9px;margin-right: 14px;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail{display: inline-block; width: calc(100% - 119px); padding-top:5px; text-align: center;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-img a{ text-align: center; display: inline-block; width: 100%; height: 100%; position: relative;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-img a img{max-height: 100%; max-width: 100%; position: absolute; margin: auto; top: 0;left: 0;right: 0;bottom: 0;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper{float:left;width:100%;text-align: left;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper span.company-title{display: inline-block;float:left;line-height: 26px;max-width:80%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper  span.gold{display: inline-block;float: left;margin-left: 10px;margin-top: 6px;padding: 1px 6px;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper span.company-title a{font-size: 16px; font-weight: bold; text-decoration: none;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper  span.feature{display: inline-block;float: left;margin-left: 10px;margin-top: 6px;padding: 1px 6px;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower{padding-left: 0px; margin-top: 10px; text-align: left;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower span.custom-label-text{font-weight: bold;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower span.custom-desc-text{}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower span.js-get-title{display: inline-block;float: left; max-width:50%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap; font-weight: bold;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower span.js-get-value{display: inline-block;float: left; max-width:50%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower span.website-url-text{display: inline-block;float: left;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-upper-wrapper div.company-detail div.company-detail-lower a.get-website-url{display: inline-block;float: left; max-width:50%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-lower-wrapper{float: left;padding: 5px 15px;width: 100%;} 
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-lower-wrapper div.company-lower-wrapper-left{float: left;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-lower-wrapper div.company-lower-wrapper-left span{ float: left;font-size: 14px;padding: 5px;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-lower-wrapper div.company-lower-wrapper-right{display: inline-block;text-align: right;width: 30%;float:right;}
+div#jsvm-vm-wrapper div#companies-wrapper div.view-companies-wrapper div.company-lower-wrapper div.company-lower-wrapper-right a{padding: 8px 20px; margin-top: 2px; text-decoration:none;display:inline-block;}
+div#jsvm-vm-wrapper div#companies-wrapper div.filter-wrapper{width:97%;margin:0px 1.5%;padding:0px 100px;text-align:center;}
+div#jsvm-vm-wrapper div#companies-wrapper div.filter-wrapper div.div-lower{display:inline-block;margin:20px 0px;}
+div#jsvm-vm-wrapper div#companies-wrapper input.filter-buttons{width:350px;float:left; }
+div#jsvm-vm-wrapper div#companies-wrapper input#filter-buttons-right{float:right;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper{ width: 100%;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-navebar{float: left;padding: 0;width: 100%;} 
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-navebar ul{float: left;margin: 0;list-style-type: none;padding: 0;width: 100%;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-navebar ul li{float: left;text-align: center;width: 16.50%;margin-left:1px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-navebar ul li a{text-decoration:none;padding: 5px 10px;display:block;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list{display: inline-block; width:95%;margin:5px 2.5%;position: relative;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper{width: 100%; padding:10px 20px; display: inline-block;padding: 10px 0 10px 0px;position: relative;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-img{float:left; width: 123px; display: inline-block; margin: 0px 9px;height: 111px;margin-right: 14px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail{display: inline-block; width: calc(100% - 146px);}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-img a{display: block; width: 100%; position: relative;height: 100%;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-img a img{max-height:100%; max-width: 100%; position: absolute; display: inline-block; margin: auto; top: 0px; left: 0px;right: 0px;bottom: 0px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper{float:left;width: 99%; }
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left{text-align: left;float: left;display:inline-block;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-right{float: right;display:inline-block;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left span.company-title{display: inline-block;float:left;line-height: 26px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left span.gold{display: inline-block;float: left;margin-left: 10px;margin-top: 6px;padding: 1px 6px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.job-title a{font-size: 16px; font-weight: bold; text-decoration: none;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.job-date{ font-size: 12px; margin-top: 6px; float: left; }
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.time-of-job{padding: 1px 7px; font-size: 12px; margin-left: 20px; margin-top:5px; float: left;border-bottom: none;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.get-gold{color: #ffffff; background: #CC9900; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.get-featured{color: #ffffff; background: #2993CF; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower{float: left;width: 100%;position:relative;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.job-detail-bottom-part{float: left;width: 100%;position:relative;display:none;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.job-detail-bottom-part a{text-decoration:none;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-left{float: left;font-size: 14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 50%;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-right{float: left;font-size: 14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width:50%; position: relative;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-right img#pending-img{top: 12px;position: absolute;right: 58px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-right span.shortlist{position: absolute; right: 0px; top: 12px; padding: 2px; text-decoration: none;line-height:19px;background-color:#fea702;padding-right:5px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.block{padding: 7px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.block a{text-decoration: none;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.full-width{width:96%;padding:7px;display:inline-block;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list span.heading{font-weight:bold;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.blockdiv#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-lower-wrapper{float: left;width: 100%; padding: 5px 0 5px 15px;} 
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-lower-wrapper div.jobs-lower-wrapper-left{float: left;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-lower-wrapper div.jobs-lower-wrapper-left span{ float: left;font-size: 14px;padding: 5px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.job-detail-bottom-part div.full-width{width:100%;padding:8px 20px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.job-detail-bottom-part div#full-width-top{;padding-bottom:0px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-lower-wrapper div.button{display: inline-block; padding: 2px 10px;margin-top: 6px;line-height: 19px;padding-left:18px;position:absolute;right: 0px;}
+canvas.goldjob{position:absolute;left:0px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower span.statustags{color: #FFFFFF; font-weight: bold; border-radius: 4px; position: absolute; top: 35px; right: 15px; padding: 1px 11px; display: inline-block;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower span.inbox{background-color:#00a859;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower span.spam{background-color:#84716b;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower span.hired{background-color:#99d000;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower span.rejected{background-color:#ed3237;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower span.shortlist{background-color:#fea702;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower img#pending-img{top: 15px; right: 65px;  position: absolute;}
+div#jsvm-vm-wrapper div.email-checkbox {margin-left: 5px;margin-bottom:10px;padding:5px 0px;width:16%;}
+div#jsvm-vm-wrapper div.email-checkbox label{display: inline-block;margin:0px;padding:0px;}
+div#jsvm-vm-wrapper div.add-job-email-boxes input.checkbox{display: inline-block;vertical-align: middle;margin: 0px 3px 3px;}
+div#jsvm-vm-wrapper div.radio-fields input.radiobutton{display: inline-block;vertical-align: middle;margin: 0px 3px 3px;}
+div#jsvm-vm-wrapper div.email-checkbox.widthauto{width:auto;padding:5px;}
+div#jsvm-vm-wrapper div.radio-fields{padding:10px 15px;width:97%;display:inline-block;padding-left:5px;margin-left:20px;}
+div#jsvm-vm-wrapper div.radio-fields label{display: inline-block;margin:0px;padding:0px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-lower-wrapper {padding: 8px 0px;display: inline-block;width: 100%;position:relative; float: left;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-lower-wrapper a.applied-info-button{text-decoration:none;padding:5px 10px;display:inline-block;float: right;margin-right: 40px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-lower-wrapper a.applied-info-button:hover{cursor:pointer;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-lower-wrapper a.applied-info-button img{padding-right:5px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper{display: inline-block; width:95%;margin:5px 2.5%;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper{width: 100%; padding:10px 20px; display: inline-block;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-img{float:left; width: 18%;height:120px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-img a{width: 100%;height: 100%;display: block;position: relative;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-img img{position:absolute;top:0px;right:0px;left:0px;bottom:0px;max-height:90px;margin:auto;max-width: 95%;display: block;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail{display: inline-block; padding-top:5px;padding-left:10px; width: 82%;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper{float:left;width: 96%; margin-bottom: 10px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left{text-align: left; float: left;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-right{float:right; }
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left span.company-title{display: inline-block;float:left;line-height: 26px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left span.gold{display: inline-block;float: left;margin-left: 10px;margin-top: 6px;padding: 1px 6px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.job-title a{font-size: 16px; font-weight: bold; text-decoration: none;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.job-date{ font-size: 12px; margin-top: 6px; float: left; }
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.time-of-job{padding: 1px 7px; font-size: 12px; margin-left: 8px; margin-top:5px; float: left;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.get-gold{color: #ffffff; background: #CC9900; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.get-feature{color: #ffffff; background: #2993CF; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.get-featured{color: #ffffff; background: #2993CF; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-lower{float: left;width: 100%;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-left{float: left;font-size: 14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 50%;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-right{float: left;font-size: 14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width:50%; position: relative;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-right a{position: absolute; right: 0px; top: 25px; padding: 2px; text-decoration: none;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.block{padding: 10px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-lower-wrapper{float: left;width: 100%; padding: 5px 0 5px 15px;} 
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-lower-wrapper div.jobs-lower-wrapper-left{float: left;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-lower-wrapper div.jobs-lower-wrapper-left span{ float: left;font-size: 14px;padding: 5px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-lower-wrapper div.jobs-lower-wrapper-right{ display: inline-block;text-align: right;width: 20%;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-lower-wrapper div.jobs-lower-wrapper-right.folderresume{width:auto;float:right;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-lower-wrapper div.jobs-lower-wrapper-right div.button{display: inline-block; padding: 5px 20px;}
+div#jsvm-vm-wrapper div#folder-resume-wrapper div.jobs-lower-wrapper div.jobs-lower-wrapper-right div.button a{ padding: 7px 30px;white-space: nowrap;}
+div#jsvm-vm-wrapper div#resume-list-wrraper{ width: 100%;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list-navebar{float: left;padding: 0;width: 100%;} 
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list-navebar ul{float: left;margin: 0;list-style-type: none;padding: 0;width: 100%;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list-navebar ul li{float: left;text-align: center;width: 24.8%;margin-left:1px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list-navebar ul li a{display:block;text-decoration:none; color: #ffffff;padding: 5px 10px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list{display: inline-block; width:95%;margin:5px 2.5%;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper{width: 100%; padding:10px 20px; display: inline-block;padding: 10px 0 10px 0px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-img{float: left; display: inline-block; width: 155px; margin: 0px 10px;margin-right: 15px;height: 140px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-img a{position: relative; height: 100%; width: 100%;display: block;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-img img{position:absolute;top:0px;right:0px;left:0px;bottom:0px; margin:auto; max-height:100%;max-width: 100%;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail{display: inline-block; width: calc(100% - 180px);}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper{float:left;width: 96%; margin-bottom: 10px;padding-top: 5px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper div.resume-detail-upper-left{text-align: left;float: left;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper div.resume-detail-upper-left span.gold{padding: 1px 4px; background: #CC9900; border-radius: 5px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper div.resume-detail-upper-left span.featured{padding: 1px 4px; background: #2993CF; border-radius: 5px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper div.resume-detail-upper-right{float: right;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper div.resume-detail-upper-left span.company-title{display: inline-block;float:left;line-height: 26px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper div.resume-detail-upper-left span.gold{display: inline-block;float: left;margin-left: 10px;margin-top: 6px;padding: 1px 6px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper span.resume-title a{font-size: 16px; font-weight: bold; text-decoration: none;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper span.resume-date{ font-size: 12px; margin-top: 6px; float: left; }
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper span.time-of-resume{padding: 1px 7px; font-size: 12px; margin-left: 8px; margin-top:5px; float: left;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper span.get-gold{color: #ffffff; background: #CC9900; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-upper span.get-featured{color: #ffffff; background: #2993CF; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower{float: left;width: 100%;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower span.get-text{display: inline-block;width: 100%; padding-left: 5px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower div.resume-detail-lower-left{float: left;font-size: 14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 50%;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower div.resume-detail-lower-right{float: left;font-size: 14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width:50%; position: relative;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower div.resume-detail-lower-right a{position: absolute; right: 0px; top: 25px; padding: 2px; text-decoration: none;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower div.block{padding: 10px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-lower-wrapper{float: left;width: 100%; padding: 5px 0 5px 15px;} 
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-lower-wrapper div.resume-lower-wrapper-left{float: left;min-height: 20px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-lower-wrapper div.resume-lower-wrapper-left span{ float: left;font-size: 14px;padding: 5px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-lower-wrapper div.resume-lower-wrapper-right{display: inline-block;text-align: right;float: right;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-lower-wrapper div.resume-lower-wrapper-right div.button{display: inline-block; padding: 5px 20px;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-lower-wrapper div.resume-lower-wrapper-right div.button a{ padding: 7px 30px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper input.button{height:35px;padding:5px 10px;width: 8%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-navebar{float: left;padding: 0;width: 100%;} 
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-navebar ul{float: left;margin: 0;list-style-type: none;padding: 0;width: 100%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-navebar ul li{float: left;text-align: center;width: calc(20% - 1px); margin-left:1px; }
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-navebar ul li a{text-decoration: none;display: block;padding: 5px 10px;color:#fff;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-inner-navebar{width: 95%; display: inline-block; margin-top: 20px; margin-left: 2.5%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-inner-navebar ul.jsvm-vm-ul{float: left;margin: 0;  padding: 0;width: 85%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-inner-navebar ul li.jsvm-vm-li{float: left; list-style-type: none; padding: 10px 0px; margin-left:3px; }
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-inner-navebar ul li.jsvm-vm-li a{padding: 12px 27px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume-inner-navebar a.export-all{float: right; padding: 5px 10px; text-decoration: none; margin-right: 10px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume{display: inline-block; width:95%;margin:5px 2.5%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper{width: 100%; padding:10px 20px; display: inline-block;padding: 10px 0 10px 20px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-upper-left{float: left;text-align: center; padding-top: 10px;width:20%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-upper-left div.anchor{display: inline-block;  margin-top: 10px; text-align: center;width:100%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-upper-left div.anchor a.view-resume{display: inline-block; margin-top: 10px; padding: 6px 22px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-upper-left div.anchor a.view-resume img{margin-right: 5px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-upper-left div.anchor a.view-coverletter{ display: inline-block; margin-top: 10px; padding: 5px 10px; }
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-upper-left div.job-img{width: 140px;height:140px; position: relative;display: inline-block;box-shadow: 0 0 11px 0 #929497;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-upper-left div.job-img img{position:absolute;top:0px;right:0px;left:0px;bottom:0px;height:125px;margin:auto;max-width: 125px;display: block;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail{display: inline-block; padding-top:5px;width: 80%; padding-left: 10px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper{float:left;width: 98%; margin-bottom: 10px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left{width: 68%; text-align: left; float: left;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-right{width: 32%; float: left; }
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left span.company-title{display: inline-block;float:left;line-height: 26px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper div.job-detail-upper-left span.gold{display: inline-block;float: left;margin-left: 10px;margin-top: 6px;padding: 1px 6px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.job-title{font-size: 16px; font-weight: bold;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.job-date{ font-size: 12px; margin-top: 3px; float: left; }
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.created{float: left;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.time-of-job{padding: 1px 7px; font-size: 12px; margin-left: 8px; margin-top:5px; float: left;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.get-gold{color: #ffffff; background: #CC9900; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-upper span.get-featured{color: #ffffff; background: #2993CF; margin-left: 10px; padding: 0px 10px; border-radius: 4px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-lower{float: left;width: 100%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-left{float: left;font-size: 14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 50%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-right{float: left;font-size: 14px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width:50%; position: relative;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-right a{position: absolute; right: 0px; top: 25px; padding: 2px; text-decoration: none;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.job-detail-lower-right a.socialprofilelink{position: static;background:none;display: inline-block;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.block{padding: 6px 10px;width:100%;float:left;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.block span.applyassocial{float:left;padding-right:5px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.job-detail-lower div.block span.applyassocial img{margin-right:5px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-upper-wrapper div.job-detail div.notes{width: 90%; display: inline-block; padding: 10px; margin-left: 10px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-lower-wrapper{display: inline-block;width: 100%; padding: 10px;} 
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-lower-wrapper div.buttons{display: inline-block;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-lower-wrapper div.buttons a{padding: 3px 10px; text-decoration: none; display: inline-block; margin-right: 2px; margin-bottom:4px;  border-radius: 3px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.jobs-lower-wrapper div.buttons a img{margin-right: 4px;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper{width:95%;margin:1% 2.5%;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.data-left{display:inline-block;width: 82%;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.data-upper{position:relative;padding:5px 0px 5px 0px; margin-left:15px;display:inline-block;width:98%;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper span.upper-app-title{width:80%;display:inline-block;font-weight:bold;padding:1%;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper span.datecreated{width: 20%; display: inline-block; text-align: center;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.data-icons{padding: 3px 40px;margin: 5px 0px;display:inline-block; text-align: center;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.data-icons a{display: inline-block;}
+div#jsvm-vm-wrapper div.resume-save-search-wrapper div.data-icons img.icon-img{;padding:2px;display:inilne-block;}
+div#jsvm-vm-wrapper div.view-resume-wrapper{width: 100%; display: inline-block; }
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper{display: inline-block; width: 100%; padding: 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.img{width: 15%;height:140px; position: relative;float: left;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.img img{position:absolute;top:0px;right:0px;left:0px;bottom:0px;max-height:125px;margin:auto;max-width: 90%;display: block;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper{float: left; width: 85%;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper div.inner-upper{float: left; width: 95%; margin-left: 15px; position: relative;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper div.inner-upper span{float: left;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper div.inner-upper img{ float: left; position: absolute; right: 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper div.inner-lower{float: left; width: 95%; margin-left: 15px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper div.inner-lower div{margin-top: 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper div.inner-lower{float: left; width: 98%; margin-left: 15px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper div.inner-lower div.btn a.grayBtn{display: inline-block;padding:5px 10px;text-decoration: none;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.most-upper-wrapper div.right-upper-wrapper div.inner-lower div.btn span{padding: 7px 10px; margin-left: 5px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.main-heading{width: 100%; float: left; position: relative; margin-top: 10PX;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.main-heading img.edit-img{position: absolute; right: 10px; top: 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.innerHeading{display: inline-block; text-align: left; width: 90%; padding: 10px; margin-top: 5px; position: relative;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.innerHeading a img.edit{position: absolute; right: 32px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.innerHeading a img.close{position: absolute; right: 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.main-heading img.heading-img{padding: 2px; margin-left: 5px; float: left;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.main-heading span{margin-left: 5px; float: left; margin-top: 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.detail-wrapper{display: inline-block; width: 100%; text-align: center;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.detail{display: inline-block; text-align: left; width: 90%; padding: 10px; margin-top: 5px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.detail span.video{width: 90%; height: 100px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.btnSection{padding: 5px 10px; display: inline-block; width: auto; margin-left: 50px; margin-top: 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.resume-upper-div{display: inline-block; text-align: center; margin-top: 10px; width: 100%;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.resume-page{display: inline-block; text-align: left;  width: 90%; padding: 15px 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.skills-upper-div{display: inline-block; text-align: center; margin-top: 10px; width: 100%;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.skills-page{display: inline-block; text-align: left;  width: 90%; padding: 15px 10px;}
+div#jsvm-vm-wrapper div.view-resume-wrapper div.detail-blueBorder{display:inline-block; width: 90%; text-align: left; padding: 10px; margin-top: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper{display: inline-block; width: 100%; }
+div#jsvm-vm-wrapper div#view-job-wrapper div.top{display: inline-block; width:100%; padding: 20px; text-align: center;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.top div.inner-wrapper div{padding: 10px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.top div.inner-wrapper div.jobdetail span.get-text{padding: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.top div.inner-wrapper div.jobdetail span.get-text a{text-decoration:none;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.top div.inner-wrapper div.jobdetail span.city{padding: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.top div.inner-wrapper div.jobdetail span.agodays{padding: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.top div.inner-wrapper div.jobdetail span.get-text span.gold{padding: 1px 4px; background: #CC9900; border-radius: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.top div.inner-wrapper div.jobdetail span.get-text span.featured{padding: 1px 4px; background: #2993CF; border-radius: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.btn-div{display: inline-block; width: 100%; text-align: center; padding: 20px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.btn-div a.btn{display: inline-block; padding: 5px 15px; text-decoration: none; width: 150px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.heading1{display: inline-block; width:100%; padding: 7px;margin-top:25px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.heading2{display: inline-block; width:100%;margin-top:10px;padding-bottom:10px;margin-bottom:5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.detail-wrapper{display: inline-block; width: 95%; padding: 12px 5px;margin-left:5%;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.peragraph {display: inline-block; width: 100%; padding: 10px; margin: 5px 0px; }
+div#jsvm-vm-wrapper div#view-job-wrapper div.apply{display: inline-block;width: 100%; padding-top: 10px; padding-bottom: 30px; text-align: center;margin-top:20px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.apply a.apply-btn{display: inline-block; padding: 5px 10px; text-decoration: none;font-weight:bold;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.apply a.apply-btn:hover{cursor: pointer;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.fb-heading {display: inline-block; padding: 4px; text-align: center; width: 100%; background: #4F4F4F; }
+div#jsvm-vm-wrapper div#view-job-wrapper div.main{display: inline-block;width: 100%;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.left{display: inline-block;width: 75%; float: left;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right{display: inline-block;width: 25%; text-align: center; } 
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.companywrapper{padding:10px 10px 20px 10px;} 
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.company-img{display: inline-block; width:203px;height: 183px;position: relative;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.company-img img{max-height:100%;max-width: 100%; position:absolute;top:0px;right:0px;left:0px;bottom:0px;margin:auto;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.copmany-detail{display: inline-block;  width: 100%; text-align: left;padding-top: 10px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.copmany-detail span.address{padding-top: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.copmany-detail span.heading{display:block;font-weight:bold;margin-left:5px;padding-bottom: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.copmany-detail a.url{display:block; text-decoration: none;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.social a{display: inline-block; margin-top: 5px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.social{display: inline-block;text-align: left; padding:0px 10px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.social a img{height: 25px; width: 25px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.main div.right div.copmany-detail span.share{display: block; font-size: 16px; float: right; margin-right: 70px;}
+div#jsvm-vm-wrapper div#view-job-wrapper div.js_job_full_width_data{display: inline-block; width: 100%;}
+div.commentrow div.jsvm-vm-container-small{position: relative;float:left;}
+span#shortlist-stars{position: absolute;left: 0px;top: 0px;}
+div#jsvm-vm-listpopup span.popup-title img#popup_cross{float:right;cursor:pointer;margin-top: -7px;margin-right:-10px;}
+div#jsjob-search-popup span.popup-title img#popup_cross{float:right;cursor:pointer;margin-top: -7px;margin-right:-10px;}
+div#jsvm-vm-wrapper div.chck-box-email-text {padding-bottom: 15px;width: 97%;padding-left:5px;margin-left:20px;padding-top:5px;}
+/*Record not found in speacial case */
+div.js_job_error_in_speacial_case_messages_wrapper{width: 95%; margin-left: 2.5%; margin-top: 10px; font-weight: bold; font-size: 14px; display: inline-block; padding: 5px; border: 1px solid #A31F1F; color:#A31F1F;background: #ffffff;}
+div#jsst_breadcrumbs_parent {width:100%;float:left;border:1px solid #D5D5D5;padding:2px;margin-bottom:10px;background:#FCFCFC;}
+div#jsst_breadcrumbs_parent div{float: left;padding:5px;margin-left:5px;padding-left: 5px;border-left:1px solid #ababab;font-size:15px;}
+div#jsst_breadcrumbs_parent img{box-shadow: none;}
+div#jsst_breadcrumbs_parent div.home{width: 34px;height: 34px; padding:0px; display: inline-block;}
+div#jsst_breadcrumbs_parent div.home a{display: inline-block;}
+div#jsst_breadcrumbs_parent div.home img.homeicon{height: 30px; width: auto;margin-bottom: 0px;margin-top:2px;margin-left:2px;}
+div#jsst_breadcrumbs_parent div.links{display: inline-block;}
+div#jsst_breadcrumbs_parent div.links a.links{text-decoration: none;box-shadow: unset;}
+div#jsst_breadcrumbs_parent div.border-fix{display: inline-block;margin-left: 5px;margin-right: 5px;}
+div#jsst_breadcrumbs_parent div.border-fix img.img-fix{}
+div#jsst_breadcrumbs_parent div.lastlink{color: #343538; display: inline-block;}
+div#jsvm-vm-header-main-wrapper{float:left;width:100%;}
+div#jsvm-vm-header-main-wrapper a.headerlinks{text-decoration: none;float:left;padding:15px 20px;display:block;font-size:15px;}
+div#jsvm-vm-wrapper {font-size:14px;}
+div#jsvm-vm-wrapper div.department-content-data{width:95%;margin:1% 2.5%;}
+div#jsvm-vm-wrapper div.department-content-data div.data-left{display:inline-block;width: 82%;}
+div#jsvm-vm-wrapper div.department-content-data div.data-upper{position:relative;padding:10px 0px 10px 0px;margin-top:10px; margin-left:15px;display:inline-block;width:98%;}
+div#jsvm-vm-wrapper div.department-content-data span.upper-app-title{width:75%;display:inline-block;font-weight:bold;}
+div#jsvm-vm-wrapper div.department-content-data div.data-icons{width: 17%;float: right;padding: 0.8% 1%;margin: 2.55% 0%;display:inline-block;}
+div#jsvm-vm-wrapper div.department-content-data div.data-lower a{text-decoration:none;display:inline-block;}
+div#jsvm-vm-wrapper div.department-content-data div.data-icons a img.icon-img {display:inline-block;padding:3px;}
+div#jsvm-vm-wrapper div.department-content-data div.data-lower{padding:12px;width:95%;}
+div#jsvm-vm-wrapper div.department-content-data div.data-lower span.lower-text1{width:47%;display: inline-block;}
+div#jsvm-vm-wrapper div.department-content-data div.data-lower span.title{font-weight:bold;}
+div#jsvm-vm-wrapper div#department-name{width:80%;display:inline-block;padding:1%;margin:0% 10%;}
+div#jsvm-vm-wrapper div#department-company{width:80%;display:inline-block;padding:1%;margin:0% 10%;}
+div#jsvm-vm-wrapper div#department-disc{width:80%;display:block;padding: 1% 0% 5% 1%;float:left;margin:0% 10%;}
+div#jsvm-vm-wrapper span.view-department-title{font-weight: bold;margin-right:0.7%;display:inline-block;float: left;}
+div#jsvm-vm-wrapper span.view-department-title:last-child{width:12%;}
+div#jsvm-vm-wrapper span.wrapper-text1{width:88%;display:inline-block;text-align:left;}
+div#jsvm-vm-wrapper div.cover-letter-content-data{width:95%;margin:0.8% 2.5%;}
+div#jsvm-vm-wrapper div.cover-letter-content-data div.data-left{display:inline-block;width: 75%;}
+div#jsvm-vm-wrapper div.cover-letter-content-data div.data-upper{position:relative;padding:10px 0px 10px 0px; margin-left:15px;display:inline-block;width:98%;}
+div#jsvm-vm-wrapper div.cover-letter-content-data span.upper-app-title{display:inline-block;font-weight:bold;margin-right:2%;padding:1%;float:left;}
+div#jsvm-vm-wrapper div.cover-letter-content-data span.datecreated{float:right;margin-right:10px;padding:1%;}
+div#jsvm-vm-wrapper div.cover-letter-content-data div.data-icons{float: right;padding: 2px 1.8%;margin: 11px 0%;display:inline-block;padding-right:0.5%;}
+div#jsvm-vm-wrapper div.cover-letter-content-data div.data-icons img.icon-img{;padding:2px;display:inilne-block;}
+div#jsvm-vm-wrapper div#cover-letter-wrapper-title{width:80%;display:inline-block;padding:1%;margin:0% 10%;}
+div#jsvm-vm-wrapper div#cover-letter-wrapper-disc{width:80%;display:block;padding: 1% 0% 5% 1%;float:left;margin:0% 10%;}
+div#jsvm-vm-wrapper span.cover-letter-title{font-weight: bold;margin-right:0.7%;display:inline-block;float: left;}
+div#jsvm-vm-wrapper span.cover-letter-title:last-child{width:12%;}
+div#jsvm-vm-wrapper span.wrapper-text1{width:88%;display:inline-block;text-align:left;}
+div#jsvm-vm-wrapper  div#wrapper-content div.content-data div.data-icons img.icon-img{;padding:2px;display:inilne-block;}
+div#jsvm-vm-wrapper div.type-row-wrapper{width:100%;display:inline-block;}
+div#jsvm-vm-wrapper div.type-wrapper{padding: 10px;float: left;}
+div#jsvm-vm-wrapper div.type-wrapper div.jobs-by-type-wrapper{width: 100%;padding: 10px;float: left;}
+div#jsvm-vm-wrapper div.type-wrapper span.title{width:80%;float:left;padding-left:3%;text-overflow:ellipsis;overflow: hidden;white-space:nowrap;}
+div#jsvm-vm-wrapper div.type-wrapper span.totat-jobs{width:18%;float:left;text-align:right;padding-right:3%;} 	
+div#jsvm-vm-wrapper div#my-jobs-header{width:100%;display:inline-block;padding:0px;padding-bottom:10px;}
+div#jsvm-vm-wrapper div#my-jobs-header ul{list-style-type:none;float:left;width:100%;padding:0px;margin: 0px;}
+div#jsvm-vm-wrapper div#my-jobs-header ul li{float:left; width: calc(14.28% - 1px); margin-left:1px;  text-align:center;box-sizing: border-box;display:block;}
+div#jsvm-vm-wrapper div#my-jobs-header ul li a{text-decoration:none;display:block;padding: 2px 10px;}
+div#jsvm-vm-wrapper div#my-jobs-header ul li img#posted-img{display:inline-block;margin-right:3px;}
+div#jsvm-vm-wrapper div#my-jobs-header ul li:hover{display:block;}
+div#jsvm-vm-wrapper div.my-jobs-data{width:97%;display:inline-block;padding:6px 0px 0px 0px;margin:0% 1.5%;;font-size:15px;margin-bottom: 5px;}
+div#jsvm-vm-wrapper div.my-jobs-data span.fir {float:left; display:inline-block; margin: 0 9px; width:123px; text-align: center;margin-right: 14px;height: 111px;margin-bottom: 5px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper{display: inline-block;width: calc(100% - 146px);float:left;}
+div#jsvm-vm-wrapper div.my-jobs-data span.fir a{display: inline-block; position: relative;width: 100%; height: 100%;}
+div#jsvm-vm-wrapper div.my-jobs-data span.fir a img{position: absolute; margin: auto;top: 0;left: 0;right: 0;bottom: 0; max-width: 100%; max-height: 100%;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper{display:inline-block;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-upper{float:left;font-size:0.8em;width:97%;text-align: left;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-upper div.headingtext{margin-left:5px;width:73%;display:inline-block;font-size:16px;padding-top: 5px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-upper span.buttonu{display:inline-block;margin-left:10px;padding:2px;border-bottom:none;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower{float:left;font-size: 14px;text-align: left;padding:5px 0px 5px 0px;width:98%;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower div.big-upper-lower1 span.big-upper-lower1text{width:42%;display:inline-block;padding:5px 0px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower div.big-upper-lower1 span.big-upper-lower1text a{text-decoration:none;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower span.big-upper-lower2text{width:49%;display:inline-block;padding:10px 5px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower div.big-upper-lower2 span.big-upper-lower2text span.red{color: #E22828;font-weight:bold;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower div.big-upper-lower2 span.big-upper-lower2text span.green{color: #87D554;font-weight:bold;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower div.big-upper-lower2 {width:85%;float:left;display:inline-box;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper span.title {font-weight:bold;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper span.title a{text-decoration:none;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower {float:left;display:inline-block;width:100%;text-align:left;padding-left:20px;padding:4px 7px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower span.big-lower-left {display:inline-block;padding:7px;float:left;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower img.big-lower-img {;display:inline-block;margin: 0px 0px 1px 0px;height:23px;width:auto;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper span.bigupper-jobtotal{display:inline-block;margin:4px;padding:3px;float:right;margin-right:20px;border-radius: 7px}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons{float: right;padding: 2px 1.8%;display:inline-block;padding-right:0.5%;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons a{float: left;max-height: 32px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons img.icon-img{padding:2px;display:inilne-block;display: block;float: left;margin: 0px 2px;}
+div#jsvm-vm-wrapper span.title-gold{border-radius:5px;margin-left:10px;font-size:11px;color:#FFF !important;padding:1px 3px;background-color:#CC9900;}
+div#jsvm-vm-wrapper span.title-featured{border-radius:5px;margin-left:10px;font-size:11px;color:#FFF !important;padding:1px 3px;background-color:#2993CF;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons span.icons-gold{font-weight:bold;border-radius:0px 5px 5px 0px;font-size:11px;color:white;padding:1px 3px;background-color:#CC9900;display:inline-block;line-height: 16px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons div{display:inline-block;float:left;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons span.icons-featured{font-weight:bold;border-radius:0px 5px 5px 0px;font-size:11px;color:white;padding:1px 3px;background-color:#2993CF;display:inline-block;line-height: 16px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons span.icon-text-box{padding:4px 5px 4px;display:block;margin: 0px 1px;height: 32px;margin-left: 2px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons span.icon-text-box1{float:left;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons span.icons-resume{padding:3px 20px;float:left;font-size:14px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons span.icon-text-box img.plus-sign{height:18px;display:inline-block;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-big-lower div.big-lower-data-icons span.icon-text-box img.plus-sign1{height:18px;display:inline-block;}
+div#jsvm-vm-wrapper div.search-wrapper-content-data{width:95%;margin:1% 2.5%;}
+div#jsvm-vm-wrapper div.search-wrapper-content-data div.data-left{display:inline-block;width: 82%;}
+div#jsvm-vm-wrapper div.search-wrapper-content-data div.data-upper{position:relative;padding:5px 0px 5px 0px; margin-left:15px;display:inline-block;width:98%;}
+div#jsvm-vm-wrapper div.search-wrapper-content-data span.upper-app-title{width:80%;display:inline-block;font-weight:bold;padding:1%;width: 78%;}
+div#jsvm-vm-wrapper div.search-wrapper-content-data span.datecreated{width: 22%; display: inline-block; text-align: center;}
+div#jsvm-vm-wrapper div.search-wrapper-content-data div.data-icons{padding: 3px 10px;margin: 5px 0px;display:inline-block; text-align: center;width:17%;}
+div#jsvm-vm-wrapper div.search-wrapper-content-data div.data-icons a{display: inline-block;}
+div#jsvm-vm-wrapper div.search-wrapper-content-data div.data-icons img.icon-img{;padding:2px;display:inilne-block;}
+div#jsvm-vm-wrapper div#my-resume-header{width:100%;display:inline-block;padding:0px;margin-bottom:10px;}
+div#jsvm-vm-wrapper div#my-resume-header ul{list-style-type:none;float:left;width:100%;padding:0px;margin: 0px;}
+div#jsvm-vm-wrapper div#my-resume-header ul li{float:left; width: calc(25% - 1px);  text-align:center; margin-left:1px; box-sizing: border-box;display:inline-block;}
+div#jsvm-vm-wrapper div#my-resume-header ul li a{text-decoration:none;display:block;padding:2px 10px;}
+div#jsvm-vm-wrapper div#my-resume-header ul li img#posted-img{display:inline-block;margin-right:3px;}
+div#jsvm-vm-wrapper div#my-resme-header ul li:hover{display:block;}
+div#jsvm-vm-wrapper div.my-resume-data{width:100%;display:inline-block;padding:6px 0px 0px 0px;position:relative;font-size:15px;}
+div#jsvm-vm-wrapper div.my-resume-data span.fir {float: left; display: inline-block; width: 150px; margin: 0px 9px;height: 140px;margin-right: 14px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper{display: inline-block; width: calc(100% - 178px);}
+div#jsvm-vm-wrapper div.my-resume-data span.fir a{position: relative; width: 100%;display: block;height: 100%;}
+div#jsvm-vm-wrapper div.my-resume-data span.fir a img{position:absolute;top:0px;right:0px;left:0px;bottom:0px; margin:auto; max-height:100%;max-width: 100%;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper a{text-decoration:none;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-upper{float:left;font-size:0.8em;width:95%;text-align: left;display:inline-block; padding-top: 5px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-upper div.headingtext{display:inline;margin-left:1%;font-size:17px;text-overflow:ellipsis;overflow: hidden;white-space: nowrap;max-width:75%; }
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-upper span.buttonu{display:inline-block;float:right;border-bottom:0px ;margin: 2px 15px -0px 10px;padding: 4px 2px 4px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-upper span.datecreated{display:inline-block;float:right;margin-top:9px}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-lower{float:left;font-size:0.8em;text-align: left;padding:7px 0px 5px 0px;width:98%;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-lower div.big-upper-lower1 span.big-upper-lower1text{width:49%;display:inline-block;padding:2px 0px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-lower div.big-upper-lower2 span.big-upper-lower2text{width:49%;display:inline-block;padding:2px 0px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-lower div.big-upper-lower2 {width:100%;float:left;display:inline-box;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper span.title{font-weight:bold;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower {float:left;display:inline-block;width:100%;text-align:left;padding-left:20px;padding:4px 0px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower span.big-lower-left{display: inline-block;padding:8px 0px 6px 0px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower img.big-lower-img {display:inline-block;margin: 0px 2px 0px 18px;height:23px;width:auto;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper span.bigupper-jobtotal{display:inline-block;margin:4px;padding:3px;float:right;margin-right:20px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons img.icon-img{padding:3px;display:inilne-block}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons{float: right;padding: 2px 1.8%;display:inline-block;padding-right:0.5%;margin-right:7px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons div{display:inline-block;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper span.title-gold{display:inline-block;border-radius:5px;margin-left:10px;font-size:11px;color:white;padding:1px 3px;background-color:#CC9900;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper span.title-featured{display: inline-block;border-radius:5px;margin-left:10px;font-size:11px;color:white;padding:1px 3px;background-color:#2993CF;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons span.icons-gold{border-radius:0px 5px 5px 0px;font-size:11px;color:white;padding:1px 5px 1px 3px;background-color:#CC9900;display:inline-block;line-height:18px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons span.icons-featured{border-radius:0px 5px 5px 0px;font-size:11px;color:white;padding:1px 5px 1px 3px;background-color:#2993CF;display:inline-block;line-height:18px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons span.icon-text-box{padding:4px 5px 6px 5px;display:block;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons span.icon-text-box1{padding:0.5px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons span.icons-resume{padding:4px 15px 6px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons span.icon-text-box img.plus-sign{height:20;display:inline-block;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-icons span.icon-text-box img.plus-sign1{height:20;display:inline-block;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-lower span.lower-upper-title{width:70%;display:inline-block;padding:2px 0px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-text{float: right;padding: 1px 1% 0px 1%;display:inline-block;background-color:#FEA702;color: #FFF;position: relative;margin-top:8px;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-big-lower div.big-lower-data-text img#pending-img{position:absolute;top:0px;left:-15px;}
+div#jsvm-vm-wrapper div.message-content-data{width:95%;margin:1% 2.5%;display:inline-block;padding:12px;margin-bottom:0px;}
+div#jsvm-vm-wrapper div.message-content-data div.data-left{width:84%;float:left;padding-right:10px}
+div#jsvm-vm-wrapper div.message-content-data div.data-left span.title{font-weight:bold;}
+div#jsvm-vm-wrapper div.message-content-data div.data-left span.upper{width:100%;display:inline-block;padding:0px 0px 10px 0px;}
+div#jsvm-vm-wrapper div.message-content-data div.data-left span.lower{width:100%;display:inline-block;padding:10px 0px 0px 0px;}
+div#jsvm-vm-wrapper div.message-content-data div.data-left span.lower a{text-decoration:none;}
+div#jsvm-vm-wrapper div.message-content-data div.data-right a.text-right{display:inline-block;padding:7px 25px;margin-left:10px;text-decoration:none;}
+div#jsvm-vm-wrapper div.message-content-data div.data-right{display:inline-block;float: right;margin: 10px 0px;width:15%;text-align:center;}
+div#jsvm-vm-wrapper div.js-form-wrapper{width:90%;float:left;margin:0px 5%;padding:0px;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-title{width:100%;float:left;padding:0px;font-size:16px;padding-top: 12px;padding-bottom: 5px;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.neg-margin{margin-bottom:-30px;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value{width:100%;float:left;padding:0px 0px;font-size:14px;margin: 0px;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value label{display: inline-block;margin:0px;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select{display: inline-block;clear: unset;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value input[type="text"],
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select{width:100%;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select.sal{width:calc(50% - 5px) !important;float: left;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select.sal:nth-child(2n){margin-left:10px !important;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select.exp{width:calc(50% - 5px) !important;float:left;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select.exp:nth-child(2n){margin-left:10px !important;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select.edu{width:calc(50% - 5px) !important;float:left;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select.edu:nth-child(2n){margin-left:10px !important;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value input.exp{width:100%;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select.age{width:calc(50% - 5px) !important;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value select.age:nth-child(2n){margin-left:10px !important;}
+div#jsvm-vm-wrapper div.js-form-wrapper div.js-form-value input.pub{width:50% !important;}
+div#jsvm-vm-wrapper div.js-form-wrapper div#cover-letter-desc{padding-bottom:15px;margin-bottom:20px;}
+div#jsvm-vm-wrapper div.bottombutton.js-form{margin-top:20px;}
+div#jsvm-vm-wrapper div.credit-wrapper{padding: 20px 0px;width: 95%;margin: 0 2.5%;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data{width:100%;display:inline-block;font-size:16px !important;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-top{width:100%;display:inline-block;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-top span.top-left{width:75%;display:inline-block;position:relative;padding:15px 20px;font-weight:bold;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-top span.right-discount{float:right;display:inline-block;position:absolute;top:0px;right:0px;padding:2px 15px;border-radius:0px 0px 10px 10px;font-weight: normal;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-top span.top-right{display:inline-block;width:25%;float: right;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-top span.top-right span.discounted-amount{display:inline-block;font-weight:bold;padding:5px;text-decoration:line-through;text-decoration-color:red;margin-left:20px;margin-top:16px;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-top span.top-right span.net-amount{display:inline-block;font-weight:bold;padding:5px 25px;margin-right: 25px;float: right;margin-top: 20px;min-width:100px;text-align: center;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-middle {display:inline-block;width:100%;padding:10px 15px;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-middle span.middle-left{display:inline-block;float:left;font-weight:bold;min-height: 41px;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-middle a.js-jobs-buypackage{float:right;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-middle span.middle-right{display:inline-block;font-weight:bold;padding:5px 8px;float:right;margin-right: 5px;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-middle span.middle-right img{padding-right:3px;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.data-bottom {display:inline-block;width:97%;padding:10px 15px;margin:0px 1.5%;}
+div#jsvm-vm-wrapper div.credit-wrapper div.credit-content-data span.bottom-expiry {display:inline-block;width:100%;padding:10px 15px;color:#DA6556}
+
+
+
+
+
+div#jsvm-vm-wrapper div.purchase-history-wrapper{padding: 20px 0px;width: 95%;margin: 0 2.5%;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data{width:100%;display:inline-block;font-size:16px !important;padding:0px 0px;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-credit{padding: 15px 15px 10px 15px;font-weight:bold;float:left;width:100%}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-credit img{padding-right:5px;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-title{display:inline-block;padding: 18px 14px 14px;float:left;text-overflow: ellipsis;overflow: hidden;white-space: nowrap;float: left;font-weight: bold;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-created{padding:10px 12px;display:inline-block;min-width:150px;text-align:right;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-price{float:right;padding-top:15px;margin-top: 2px;text-align: center;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-price span.amount{display: inline-block;padding: 8px 25px;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-status{padding:10px 20px;display:inline-block;text-align:center;float: right;font-weight: bold;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-status.approved{background: #d9efe0;color:#009933;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-status.pending{background:#fff0e7;color: #ff6600;}
+div#jsvm-vm-wrapper div.purchase-header{width:100%;text-align:center;display:inline-block;padding-bottom: 15px;}
+div#jsvm-vm-wrapper div.purchase-header div.total{display:inline-block;width:25%;padding:10px;margin: 5px;border-radius:5px;}
+div#jsvm-vm-wrapper div.purchase-header div.total img{background-color:#70BA63;padding:10px;width:40%;float:left;border-radius:5px;}
+div#jsvm-vm-wrapper div.purchase-header div.spent{display:inline-block;width:25%;padding:10px;margin: 5px;border-radius:5px;}
+div#jsvm-vm-wrapper div.purchase-header div.spent img{background-color:#FF666F;padding:10px;width:40%;float:left;border-radius:5px;}
+div#jsvm-vm-wrapper div.purchase-header div.remaining{display:inline-block;width:25%;padding:10px;margin: 5px;border-radius:5px;}
+div#jsvm-vm-wrapper div.purchase-header div.remaining img{background-color:#FEB252;padding:10px;width:40%;float:left;border-radius:5px;}
+div#jsvm-vm-wrapper div.purchase-header span.number {font-weight:bold;display:inline-block;width:60%;text-align:left;float:left;font-size:25px;padding-left: 15px;padding-top: 15px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+div#jsvm-vm-wrapper div.purchase-header span.text{padding-left: 15px;;display:inline-block;width:60%;text-align:left;float:left;font-size:18px !important;padding-top: 5px;}
+div#jsvm-vm-wrapper div.page_heading span.expire {float:right;padding:5px;margin-bottom: -10px;margin-right: 25px;}
+
+
+
+
+
+
+
+div#jsvm-vm-wrapper div.log-header{width:95%;text-align:center;display:inline-block;padding-bottom: 15px;margin:0% 2.5%;margin-bottom:10px;}
+div#jsvm-vm-wrapper div.log-header div.total{display:inline-block;width:25%;padding:10px;margin: 5px;border-radius:5px;}
+div#jsvm-vm-wrapper div.log-header div.total img{background-color:#70BA63;padding:10px;width:40%;float:left;border-radius:5px;}
+div#jsvm-vm-wrapper div.log-header div.spent{display:inline-block;width:25%;padding:10px;margin: 5px;border-radius:5px;}
+div#jsvm-vm-wrapper div.log-header div.spent img{background-color:#FF666F;padding:10px;width:40%;float:left;border-radius:5px;}
+div#jsvm-vm-wrapper div.log-header div.remaining{display:inline-block;width:25%;padding:10px;margin: 5px;border-radius:5px;}
+div#jsvm-vm-wrapper div.log-header div.remaining img{background-color:#FEB252;padding:10px;width:40%;float:left;border-radius:5px;}
+div#jsvm-vm-wrapper div.log-header span.number {font-weight:bold;display:inline-block;width:60%;text-align:left;float:left;font-size:25px;padding-left: 15px;padding-top: 15px;}
+div#jsvm-vm-wrapper div.log-header span.text{padding-left: 15px;;display:inline-block;width:60%;text-align:left;float:left;font-size:18px !important}
+div#jsvm-vm-wrapper div.credit-log-wrapper{width:100%;margin:0.5% 0%;display:inline-block;padding:5px;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.date-time{padding:5px;width:15%;display:inline-block;text-align:center;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.action{padding:0px 10px;display:inline-block;text-align:center;border-radius:5px;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.desc{padding:5px;width:auto;display:inline-block;margin-top:5px;max-width:45%;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;vertical-align:middle;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.cost{padding:5px;width:10%;display:inline-block;float:right;text-align:center;font-weight:bold;min-width:100px;margin-top:3px;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.add{color:#ffffff;background-color:#70BA63;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.gold{color:#ffffff;background-color:#CC9900;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.featured{color:#ffffff;background-color:#2993CF;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.view{color:#ffffff;background-color:#AF64CC;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.share{color:#ffffff;background-color:#CB363D;}
+div#jsvm-vm-wrapper div.credit-log-wrapper span.apply{color:#ffffff;background-color:#3E4095;}
+div#jsvm-vm-wrapper div#send-message-wrapper {width:95%;margin:0% 2.5%;display:inline-block;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data {width:100%;display:inline-block; padding-top: 10px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.title{display:inline-block;font-weight:bold;}
+
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.top-data-img {float: left; display: inline-block; width: 100px; margin: 0px 9px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.top-data-img div{position: relative; height: 75px; width: 100%;display: block;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.top-data-img div img{position:absolute;top:0px;right:0px;left:0px;bottom:0px; margin:auto; max-height:100%;max-width: 100%;}
+
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.js-msg-left{float: left; display: inline-block; width: 100px; margin: 0px 9px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.js-msg-left div{position: relative; height: 75px; width: 100%;display: block;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.js-msg-left div img{position:absolute;top:0px;right:0px;left:0px;bottom:0px; margin:auto; max-height:100%;max-width: 100%;}
+
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.js-msg-right{display:inline-block; width: calc(100% - 118px);}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.js-msg-right.message-data{margin-top:0px;}
+
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.data-right-part{display: inline-block; width: calc(100% - 118px);}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.data-right-part a{text-decoration:none;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.data-right-part span.right-top{display:inline-block;width:90%;float:left;padding:10px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.data-right-part span.right-middle{display:inline-block;width:100%;float:left;padding:10px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.data-right-part span.right-bottom{display:inline-block;width:100%;float:left;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.data-right-part span.right-bottom span.right-bottom-left{display:inline-block;width:50%;float:left;padding:5px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.top-data span.data-right-part span.right-bottom span.right-bottom-right{display:inline-block;width:50%;float:left;padding:5px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-subject{display:inline-block;width:100%;padding: 10px 0px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-subject span.subject{width:100%;display:inline-block;font-weight:bold;padding:5px 0px;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-subject span.subject-text{padding:5px 10px;width:100%;display:inline-block;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history{display:inline-block;width:100%;}
+div#jsvm-vm-wrapper div#send-message-wrapper span.history-title{display:inline-block;width:100%;padding:5px 10px;margin:2% 0%;font-weight:bold;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-my{display:inline-block;width:100%;float:left; padding:10px 0px;}
+
+
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-data,
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-admin,
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-other{float:left;}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-my span.message-data span.message-title,
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-my span.message-admin span.message-title,
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-my span.message-other span.message-title{display:inline-block;padding:5px 10px;font-weight:bold;float:left;}
+
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-my span.message-created{display:inline-block;float:left;padding: 5px}
+div#jsvm-vm-wrapper div#send-message-wrapper div.message-history span.message-my span.message-desc{display:inline-block;width:100%;float:left;padding:10px 0px;}
+form#message_form div.js-form-wrapper.js-nomargin{margin:0px;width:100%;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper div.company-lower-wrapper-right span.icons-gold{border-radius:0px 5px 5px 0px;font-size:11px;color:white;padding:1px 5px 1px 3px;background-color:#CC9900;display:inline-block;line-height:18px;margin-top:4px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-lower-wrapper div.company-lower-wrapper-right span.icons-featured{border-radius:0px 5px 5px 0px;font-size:11px;color:white;padding:1px 5px 1px 3px;background-color:#2993CF;display:inline-block;line-height:18px;}
+div#jsvm-vm-wrapper form#jsvehiclemanagerform-search select{width:24%;}
+div#jsvm-vm-wrapper form#jsvehiclemanagerform-search text{width:24%;}
+div#jsvm-vm-wrapper a.action-links:hover{cursor:pointer;}
+div#jsvm-vm-wrapper div#comments{width:95%;position:relative;margin:0% 2.5%;display:inline-block;padding:15px;padding-top: 3px;}
+div#jsvm-vm-wrapper div#comments img#close-section{position: absolute;top: -1px;right: 0px;border: 1px solid #CCC;padding:2px; margin-top: 0px;}
+div#jsvm-vm-wrapper div#comments img#close-section:hover{cursor:pointer;}
+div#jsvm-vm-wrapper div#comments label{float: left;font-weight: bold;margin-top:8px;}
+div#jsvm-vm-wrapper div#comments label#comments-label{float: left;font-weight: bold;margin-top: 7px;}
+div#jsvm-vm-wrapper div#comments label#combo-label{float: left;font-weight: bold;margin-left: 270px;margin-top:18px;}
+div#jsvm-vm-wrapper div#comments textArea{width:40%;margin-left:1%;height:170px;margin-top: 7px;}
+div#jsvm-vm-wrapper div#comments input#save{background:none;background-color:#F0F0F0;color:#444442;border: 1px solid #D4D4D5;border-radius:3px;padding:2px 12px;}
+div#jsvm-vm-wrapper div#comments input#save-comments{background:none;background-color:#F0F0F0;color:#444442;border: 1px solid #D4D4D5;border-radius:3px;padding:5px 15px;margin-top:145px;margin-left:12px;}
+div#jsvm-vm-wrapper div#comments input#send{background:none;margin-left:1.2%;background-color:#F0F0F0;color:#444442;border: 1px solid #D4D4D5;border-radius:3px;padding:6px 14px;margin-top:167px; }
+div#jsvm-vm-wrapper div#comments div.email-feilds{width:25%;float:left;}
+div#jsvm-vm-wrapper div#comments div.email-feilds label{width:100%;float:left;padding:7px;margin:0px;padding-left:0px;}
+div#jsvm-vm-wrapper div#comments div.email-feilds input{width:100%;float:left;}
+div#jsvm-vm-wrapper div#comments textArea#email-body{width:40%;margin-left:2%;height:167px;;margin-top: 31px; display: inline-block;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div#job-applied-resume div.email-feilds div input#jobseeker,input#subject,input#sender {margin-bottom: 0px;}
+div#jsvm-vm-wrapper div#comments span.detail{display:inline-block;width:50%;float:left;padding:5px 0px;}
+div#jsvm-vm-wrapper div#comments span.detail span.heading{font-weight:bold;}
+div#jsvm-vm-wrapper select#combobox{display:inline-block;width:250px;margin:0px;margin-left:1%;margin-right:6px;height: 28px;margin-top: 15px; padding: 0px;}
+div#jsvm-vm-wrapper div#notification-ok{width:100%;display:inline-block;;padding:5px 10px;background-color:#DFF2BF;color:#3F8000;border:1px solid #3F8000;margin-right: 5px;}
+div#jsvm-vm-wrapper div#notification-ok img{padding-right:5px;}
+div#jsvm-vm-wrapper div#notification-not-ok{width:100%;display:inline-block;;padding:5px 10px;background-color:#FFBABA;color:#D7010D;border:1px solid #D7010D;}
+div#jsvm-vm-wrapper div#notification-not-ok img{padding-right:5px;}
+div#jsvm-vm-wrapper div#popup-main div#popup-bottom-part{width:100%;display:inline-block;padding: 10px 20px;}
+div#jsvm-vm-wrapper div#popup-main-outer{position: fixed;top: 25%;left: 30%;width: 50%;z-index: 9999;background-color: #FFF;display: inline-block;}
+div#jsvm-vm-wrapper div#popup-main{padding:15px;display:inline-block;}
+div#jsvm-vm-wrapper div#popup-main span#popup_coverletter_desc{width:100%;display:inline-block;padding-top:10px;}
+div#jsvm-vm-wrapper div#popup-main span.popup-top{width:100%;display:inline-block; }
+div#jsvm-vm-wrapper span#popup-coverletter_title{width: 95%;margin:0% 2.5%;display: inline-block;text-align: center;font-weight: bold;font-size: 1.5em;padding:8px;}
+div#jsvm-vm-wrapper div#popup-main span.popup-top span#popup_title{display:inline-block;font-size: 20px;font-weight: bold;padding: 20px;}
+div#jsvm-vm-wrapper div#popup-main span.popup-top img#popup_cross{float:right;padding:10px;}
+div#jsvm-vm-wrapper div#save-button{text-align:center;width:92%;margin:1% 4%;padding-top:15px;float:left;}
+div#jsvm-vm-wrapper div#popup-main div#popup-bottom-part{width:100%;display:inline-block;padding: 10px 20px;margin:0px;padding-top: 0px;}
+div#jsvm-vm-wrapper div#popup-main div#popup-bottom-part.center{text-align: center;}
+div#jsvm-vm-wrapper div#popup-main div#popup-bottom-part.center input.jsvm-vm-button{padding:5px 15px;border-radius: 4px;margin-top: 10px;}
+div#jsvm-vm-wrapper div#popup-main-outer{position: fixed;top: 15%;left: 25%;width: 50%;z-index: 9999;background-color: #FFF;display: inline-block;}
+div#jsvm-vm-wrapper div#popup-main{padding:15px;display:inline-block;width:100%;}
+div#jsvm-vm-wrapper div#popup-main span#popup_coverletter_desc{width:100%;display:inline-block;padding-top:10px;}
+div#jsvm-vm-wrapper div#popup-main span.popup-top{width:100%;display:inline-block;}
+div#jsvm-vm-wrapper span#popup-coverletter_title{width: 95%;margin:0% 2.5%;display: inline-block;text-align: center;font-weight: bold;font-size: 1.5em;padding:8px;}
+div#jsvm-vm-wrapper div#popup-main span.popup-top span#popup_title{display:inline-block;font-size: 20px;font-weight: bold;padding:10px 20px;}
+div#jsvm-vm-wrapper div#popup-main span.popup-top img#popup_cross{float:right;padding:6px;}
+div#jsvm-vm-wrapper div#popup-main span.popup-top img#popup_cross:hover{cursor:pointer;}
+div#jsvm-vm-wrapper span#popup_coverletter_title{width: 100%;display: inline-block;font-size: 1.5em;padding:6px;text-align:center;}
+div#jsvm-vm-wrapper span#popup_coverletter_title input{width: 100%;font-size:15px;}
+div.frontend{width:100%;display:inline-block !important;padding:5px 10px;font-size:1.4em;}
+div.frontend p{margin:0px;padding-left:25px;}
+div.error{background-color:#FFBABA;color:#D7010D;border:1px solid #D7010D;background-image: url('../images/user-unpublish.png'); background-repeat: no-repeat; background-position: left;background-origin:content-box;padding-left:8px;}
+div.updated{background-color:#DFF2BF;color:#3F8000;border:1px solid #3F8000;background-image: url('../images/user-publish.png'); background-repeat: no-repeat; background-position: left;background-origin:content-box;padding-left:8px;}
+div#jsvm-vm-wrapper div#notification-not-ok{width:100%;display:inline-block;padding:5px 10px;}
+div#applied-resume-ratting{display: inline-block;text-align: center; float: right;}
+ul.jsvm-vm-stars-small{height:22px;width:110px;padding:0!important;margin:0!important;}
+ul.jsvm-vm-stars li, ul.jsvm-vm-stars-small li{background-position:0!important;padding:0!important;margin:0!important;}
+ul.jsvm-vm-stars-small, ul.jsvm-vm-stars-small li a:hover, ul.jsvm-vm-stars-small li.current-rating{background-image:url('../images/star_small.png')!important;background-color:transparent!important;background-repeat:repeat-x!important;background-position:left -1000px;}
+ul.jsvm-vm-stars,ul.jsvm-vm-stars-small{background-position:left top;list-style-image:none;list-style-position:outside;list-style-type:none;margin:0pt;overflow:hidden;padding:0pt;position:relative;}
+ul.jsvm-vm-stars li a, ul.jsvm-vm-stars li.current-rating,ul.jsvm-vm-stars-small li a, ul.jsvm-vm-stars-small li.current-rating{border:medium none;cursor:pointer;left:0pt;outline-color:-moz-use-text-color;outline-style:none;outline-width:medium;overflow:hidden;position:absolute;text-indent:-1000em;top:0pt;}
+ul.jsvm-vm-stars-small li a, ul.jsvm-vm-stars-small li.current-rating{height:22px;line-height:22px;}
+ul.jsvm-vm-stars li a:hover,ul.jsvm-vm-stars-small li a:hover{background-position:left bottom!important;}
+li a.one-star{width:20%;padding:0;margin:0;z-index:6;}
+li a.two-stars{width:40%;padding:0;margin:0;z-index:5;}
+li a.three-stars{width:60%;padding:0;margin:0;z-index:4;}
+li a.four-stars{width:80%;padding:0;margin:0;z-index:3;}
+li a.five-stars{width:100%;padding:0;margin:0;z-index:1;}
+div#jsvm-vm-wrapper div#full_background{position: fixed;top: 0px;left: 0px;width: 100%;height: 100%;background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0%;z-index: 9998;}
+div#jsvm-vm-wrapper{position: relative;background: #FFFFFF;padding-top:10px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper div.company-detail-upper-left span.gold{display: inline-block;float: left;margin-left: 10px;margin-top: 3px;padding: 1px 6px;font-size: 12px;}
+div#jsvm-vm-wrapper div.company-wrapper div.company-upper-wrapper div.company-detail div.company-detail-upper div.company-detail-upper-left span.feature{display: inline-block;float: left;margin-left: 5px;padding: 1px 6px;background:#2993CF;color:#ffffff;border-radius: 5px;font-size: 12px;margin-top:3px;font-weight:bold;}
+div#jsvm-vm-wrapper div.page_heading a.additem{position:absolute;display: inline-block;padding:5px 8px;top:0px;right:0px;text-decoration: none;padding-left:30px;background:url(../images/add-circle.png) no-repeat 6px 8px;background-size:20px 20px;margin-right: 25px;}
+div#jsvm-vm-wrapper div.page_heading a.jsvm-vm-unsubscribe-job-alert{position:absolute;display: inline-block;padding:5px 8px;top:10px;right:0px;text-decoration: none;margin-right: 25px;color:red;border:1px solid red;}
+div#jsvm-vm-pagination{display: inline-block;width:100%;box-sizing:border-box;padding:5px 10px;text-align: center;margin-top:30px;font-size:14px;background:#FCFCFC;border:1px solid #DDDDDD;}
+div#jsvm-vm-pagination span.page-numbers{display: inline-block;padding:5px 10px;text-align: center;color:#4B4B4D;}
+div#jsvm-vm-pagination span.page-numbers.current{background: #F1F1F1;}
+div#jsvm-vm-pagination a.page-numbers{display: inline-block;padding:5px 10px;text-align: center;color:#4B4B4D;}
+div#jsvm-vm-pagination a.page-numbers.next{display: inline-block;padding:5px 15px;text-align: center;text-decoration: none;}
+div#jsvm-vm-pagination a.page-numbers.prev{display: inline-block;padding:5px 15px;text-align: center;text-decoration: none;}
+div#jsvm-vm-popup-background{position: fixed;top:0px;left:0px;width:100%;height: 100%;background-color: #000000; opacity: 0.7; z-index: 9998;display:none;}
+div#jsvm-vm-popup{box-sizing:border-box;position: fixed;top:50%;left:50%;width:50%;z-index: 9999;box-shadow: 0px 0px 20px #999;padding:0px 20px 10px 20px;display:none;transform: translate(-50%,-50%);}
+div#jsvm-vm-popup img.icon{position: absolute;left: -74px;margin-top: 84px;}
+div#jsvm-vm-popup span.popup-title{font-size: 20px;width: 100%;display: inline-block;padding:15px 20px;margin-left:-20px;box-sizing:content-box;font-weight:bold;position:relative;}
+div#jsvm-vm-popup span.popup-title img#popup_cross{position:absolute;right: 10px;top: 13px;cursor:pointer;}
+div#jsvm-vm-popup div.popup-row{width: 100%;display: inline-block;padding: 10px 50px;font-size: 13px;}
+div#jsvm-vm-popup div.popup-row:first-child{border-top: 1px solid #D3D3D3;}
+div#jsvm-vm-popup div.popup-row:last-child{border:none;}
+div#jsvm-vm-popup div.popup-row span.title{display: block;float:left;width:70%;font-weight: bold;text-align: left;}
+div#jsvm-vm-popup div.popup-row span.title input.checkboxes{display: inline-block;vertical-align:middle;margin-top: -4px;margin-right: 5px;}
+div#jsvm-vm-popup div.popup-row span.value{display: block;float:left;width:30%;text-align: right;}
+div#jsvm-vm-popup div.popup-row.button{text-align: right;}
+div#jsvm-vm-popup div.popup-row.button a{display: inline-block;margin-left:10px;padding:5px 30px;text-decoration: none;}
+div#jsvm-vm-wrapper div.viewcompany-upper-wrapper{width:100%;float:left;padding:20px;text-align: center;}
+div#jsvm-vm-wrapper div.viewcompany-upper-wrapper div.viewcompnay-name{width:100%;float:left;margin-bottom:20px;font-size:25px;font-weight: bold;}
+div#jsvm-vm-wrapper div.viewcompany-upper-wrapper div.viewcompnay-url{display: inline-block;margin-right:10px;padding-right:10px;font-size:14px;}
+div#jsvm-vm-wrapper div.viewcompany-upper-wrapper div.viewcompnay-url a{display: inline-block;}
+div#jsvm-vm-wrapper div.viewcompany-upper-wrapper div.viewcompnay-city{display: inline-block;font-size:14px;}
+div#jsvm-vm-wrapper div.viewcompany-upper-wrapper div.viewcompany-description{width:100%;float:left;/*max-height:200px;*/overflow: hidden;text-overflow:ellipsis;white-space:normal;margin-top:10px;font-size:16px;}
+div#jsvm-vm-wrapper div.viewcompany-lower-wrapper{width:100%;float:left;padding:40px;position: relative;}
+div#jsvm-vm-wrapper div.viewcompany-lower-wrapper div.viewcompany-logo{width:308px;float:left;min-height:200px;position: relative;height: 278px;}
+div#jsvm-vm-wrapper div.viewcompany-lower-wrapper div.viewcompany-logo img{position:absolute;top:0px;right:0px;bottom:0px;left:0px;margin:auto;max-height:100%;max-width:100%;}
+div#jsvm-vm-wrapper div.viewcompany-lower-wrapper div.viewcompany-data{width:100%;float:left;padding-left:20px;}
+div#jsvm-vm-wrapper div.viewcompany-lower-wrapper div.viewcompany-data.two_column{width:calc(100% - 308px);}
+div#jsvm-vm-wrapper div.viewcompany-lower-wrapper div.viewcompany-data div.data-row{width:100%;padding:10px;display: inline-block;font-size: 14px;}
+div#jsvm-vm-wrapper div.viewcompany-lower-wrapper div.viewcompany-data div.data-row span.title{font-weight: bold;display:inline-block;}
+div#jsvm-vm-wrapper div.viewcompany-lower-wrapper div.viewcompany-data a.contact-detail-button{display:inline-block;text-decoration: none;margin-top:10px;padding:10px 20px;}
+div#jsvm-vm-wrapper div.bottombutton{float:left;width:95%;padding:10px 0;margin:0px 2.5%;text-align: center;}
+div#jsvm-vm-wrapper div.bottombutton a{display:inline-block;text-decoration: none;margin-top:10px;padding:10px 20px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea{background:#ffffff !important;height:auto !important;max-height:450px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow{float:left;width:100%;position: relative;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow div.transparentbg{background: rgba(250,250,250,0.4);position: absolute;height: calc(100% - 40px);top: 40px;left: 0px;width: 100%;z-index:998;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow div.transparentbg.loading{    background-image: url(../images/load.gif);background-position: center;background-repeat: no-repeat;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewhalfwidth{float:left;width:50%;font-size:14px;padding:10px 10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewupper{float:left;width:100%;font-size:14px;margin-bottom:10px;padding-top: 10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewupper span.quickviewtitle{float:left;width:100%;font-size:20px;text-align: center;margin:10px 0px;font-weight:bold;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewupper span.quickviewcompanytitle{float:left;width:100%;font-size:18px;text-align: center;margin:10px 0px;margin-top: -5px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewupper span.quickviewcompanytitle span.quickviewgold{font-size:15px;text-align: center;padding:0px 5px;margin-left:10px;border-radius:4px;color:#ffffff;background:#CC9900;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewupper span.quickviewcompanytitle span.quickviewfeatured{font-size:15px;text-align: center;padding:0px 5px;margin-left:10px;color:#ffffff;background:#2993CF;border-radius: 4px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewupper span.quickviewhalfwidth{float:left;width:50%;padding:5px 10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewupper span.quickviewhalfwidth-right{float:left;width:50%;padding:5px 10px;text-align: right;margin-bottom: 10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower{float:left;width:100%;font-size:14px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower span.quickviewtitle{float:left;width:100%;font-size:20px;padding:5px 10px;margin: 10px 0px;font-weight:bold;margin-top:15px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewrow{float:left;width:90%;margin:0px 5%;padding:10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewrow-without-border{float:left;width:90%;margin:0px 5%;padding:10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewrow-without-border1{float:left;width:100%;padding:10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewrow-without-border1 p{padding:0px;margin:0px;padding: 10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewrow span.title{font-weight: bold;margin-right:10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewrow:last-child{border:none;padding-bottom:15px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow div.quickviewhalfwidth input[type="text"]{width:100%;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow div.quickviewfullwidth{width:100%;float:left;padding:10px;font-size:14px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow div.quickviewfullwidth textarea{width:100%;float:left;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewbutton{float:left;width:100%;padding:10px 10px;text-align:center;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallogintitle{float:left;width:70%;margin:0px 15%;padding:10px 10px;text-align:center;position: relative;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallinks{float:left;width:100%;padding:0px 10px 15px 10px;text-align:center;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallinks a.sc{display: inline-block;margin-right:10px;padding-right:8px;color:#ffffff;text-decoration: none; border-radius: 4px;} 
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallinks a.sc img{float:left;margin-right:5px; border-top-left-radius:4px; border-bottom-left-radius:4px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallinks a.sc img.js-linkd{margin-left: -1px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallinks a.sc.fb{background: url(../images/scico/fb-bg.png) repeat-x top left;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallinks a.sc.linkedin{background: url(../images/scico/in-bg.png) repeat-x top left; color:#646464; font-weight: bold; border:1px solid #ccc;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallinks a.sc.xing{background: url(../images/scico/xing-bg.png) repeat-x top left;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewbutton a.resumeaddlink{display: block;width:96%;margin:0px 2%;padding:8px 0px;text-align: center;font-size:15px;text-decoration: none;float:left;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewbutton a.resumeaddlink img{margin-right:5px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallogintitle hr.socialloginhr{position: absolute;width:100%;height:1px;top:50%;transform:translateY(-50%);left:0px;margin:0px;padding:0px;z-index: 10;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.sociallogintitle span.sociallogintext{display: inline-block;padding:5px 8px;background: #FFFFFF;position: relative;z-index: 11;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewbutton a.quickviewbutton{display: inline-block;margin:0px;padding:7px 25px;text-decoration: none;margin-left: 7px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewbutton a.quickviewbutton.login{min-width: 200px;margin-right:10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewlower div.quickviewbutton a.quickviewbutton.applyvisitor{min-width: 200px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.commentrow{float:left;width:100%;font-size:14px;padding:10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.commentrow label{float:left;width:100%;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.commentrow label.rate{float:left;width:auto;margin-right:10px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.commentrow textarea{float:left;width:100%;margin-bottom:10px;}
+div#jsvm-vm-listpopup span.no-resume-span{float:left;width:100%;display:inline-block;padding:6px 8px; }
+div#jsvm-vm-listpopup a.no-resume-link{float:left;width:100%;display:inline-block;padding-left:5px;padding-top:2px;text-decoration:underline;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow div.quickviewhalfwidth label{padding-left:2px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea select{height: 35px;width:100%;}
+div#jsvm-vm-listpopup div.job-alert-popup div.js-form-title{font-size: 14px;}
+div#jsvm-vm-listpopup div.job-alert-popup input#emailaddress{height: 35px;width:100%;font-size:13px;}
+div#jsvm-vm-listpopup div.job-alert-popup div#save-button{text-align: center;padding:15px;font-size:12px;}
+div#jsvm-vm-listpopup div#notification-ok{width:100%;display:inline-block;;padding:5px 10px;background-color:#DFF2BF;color:#3F8000;border:1px solid #3F8000;margin-right: 5px;text-align:left;position: relative;z-index:999;}
+div#jsvm-vm-listpopup div#notification-ok label{float:left;}
+div#jsvm-vm-listpopup div#notification-ok button.applynow-closebutton{float: right;margin: 0px;padding: 4px 10px 5px 6px;border: 1px solid #c22e26;border-radius: 0px;background: #ffffff;color: #c22e26;}
+div#jsvm-vm-listpopup div#notification-ok button.applynow-closebutton:hover{float: right;margin: 0px;padding: 4px 10px 5px 6px;border: 1px solid #c22e26;border-radius: 0px;background: #ffffff;color: #c22e26;}
+div#jsvm-vm-listpopup div#notification-ok button.applynow-closebutton:after{background: unset;}
+div#jsvm-vm-listpopup div#notification-ok img{padding-right:5px;}
+div#jsvm-vm-listpopup div#notification-not-ok{width:100%;display:inline-block;;padding:5px 10px;background-color:#FFBABA;color:#D7010D;border:1px solid #D7010D;text-align:left;position: relative;z-index: 999;}
+div#jsvm-vm-listpopup div#notification-not-ok button.applynow-closebutton{float: right;margin: 0px;padding: 4px 10px 5px 6px;border: 1px solid #c22e26;border-radius: 0px;background: #ffffff;color: #c22e26;}
+div#jsvm-vm-listpopup div#notification-not-ok button.applynow-closebutton:hover{float: right;margin: 0px;padding: 4px 10px 5px 6px;border: 1px solid #c22e26;border-radius: 0px;background: #ffffff;color: #c22e26;}
+div#jsvm-vm-listpopup div#notification-not-ok button.applynow-closebutton:after{background: unset;}
+div#jsvm-vm-listpopup div#notification-not-ok label{float:left;}
+div#jsvm-vm-listpopup div#notification-not-ok img{padding-right:5px;}
+div#jsvm-vm-wrapper span.goldnew{position: relative;display:inline-block;}
+div#jsvm-vm-wrapper span.goldnew span.goldnew-onhover{font-size: 14px;display: block;position: absolute;border: 1px solid #6A6767;padding: 4px 7px;top: -38px;left: -100%;background-color: #FFEECF;white-space: nowrap;font-weight:normal;color:#444442;}
+div#jsvm-vm-wrapper span.goldnew span.goldnew-onhover img{display: block;position: absolute;padding: 4px 7px;top: 25px;left: 36%;white-space: nowrap;}
+div#jsvm-vm-wrapper span.featurednew span.featurednew-onhover{font-size: 14px;display: block;position: absolute;border: 1px solid #6A6767;padding: 4px 7px;top: -38px;left: -65%;background-color: #FFEECF;white-space: nowrap;font-weight:normal;color:#444442;}
+div#jsvm-vm-wrapper span.featurednew span.featurednew-onhover img{display: block;position: absolute;padding: 4px 7px;top: 25px;left: 37%;white-space: nowrap;}
+div#jsvm-vm-wrapper span.featurednew{position: relative;display:inline-block;}
+div#jsvm-vm-wrapper span.featurednew:hover{cursor:pointer;}
+div#jsvm-vm-wrapper span.goldnew:hover{cursor: pointer;}
+div.mce-container-body{border:1px solid #eaeaea;}
+div#input-text-joblink{float: left;width: 100%;margin-top:9px;padding:0px;display: none;}
+div#js-jobs-wrapper {display: inline-block;width: 96%;margin: 0 2%; margin-bottom: 9px;}
+div#js-jobs-wrapper div.js-toprow{display: inline-block; width: 100%;padding: 10px 10px 10px 0px;float: left;}
+div#js-jobs-wrapper div.js-toprow div.js-image{display: inline-block; width: 123px;height: 111px; float: left; text-align: center; margin: 0px 9px;margin-right: 14px;}
+div#js-jobs-wrapper div.js-toprow div.js-data{display: inline-block; width: calc(100% - 146px);}
+div#js-jobs-wrapper div.js-toprow div.js-image a{display: inline-block; width: 100%;height: 100%; position: relative; background: #fff; }
+div#js-jobs-wrapper div.js-toprow div.js-image a img{max-height: 100%; max-width: 100%; margin: auto; left: 0;top: 0;right: 0;bottom: 0;position: absolute;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row{display: inline-block; width: 100%;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title{font-size: 17px;padding: 0px; font-weight: bold;overflow: hidden;white-space: nowrap;text-overflow:ellipsis;float:left;width:auto;max-width:70%;padding-top: 5px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-title span.js-status{font-size: 11px;color: #FFFFFF;border-radius: 3px;padding: 1px 3px;margin-left: 3px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype{text-align: right;margin-top: 5px;float:right;width:auto;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-first-row span.js-jobtype span.js-type{margin-left: 15px; padding: 3px 10px;display:inline-block;padding-bottom:2px; }
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-midrow{padding-left: 0px;padding-top: 10px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-midrow a.js-companyname{text-decoration: none;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row{display: inline-block; width: 100%;padding-top: 15px;font-size: 14px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.joblisting-rightalign{float:right;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.joblisting-rightalign img{margin-left:5px;margin-top:-6px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields{padding-left: 0px;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields span{display: inline-block;max-width: 50%;overflow: hidden;white-space: nowrap;text-overflow:ellipsis;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields span.js-bold{font-weight: bold;}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields span.get-text{}
+div#js-jobs-wrapper div.js-toprow div.js-data div.js-second-row div.js-fields span.js-totaljobs{float: right;padding: 2px 5px;border-radius: 5px;}
+div#js-jobs-wrapper div.js-bottomrow{width: 100%;float: left;padding: 12px 0 10px 0;font-size: 15px;}
+div#js-jobs-wrapper div.js-bottomrow img.location{margin-right: 5px;}
+div#js-jobs-wrapper div.js-bottomrow div.js-address{font-size: 15px;float:left;width:auto;}
+div#js-jobs-wrapper div.js-bottomrow div.js-actions{text-align: right;float:right;width:auto;}
+div#js-jobs-wrapper div.js-bottomrow div.js-actions a.js-button{padding: 5px 7px;margin-right: 4px;}
+div#js-jobs-wrapper div.js-bottomrow div.js-actions a.js-btn-apply{padding: 7px 13px; font-size: 14px;text-decoration: none;}
+div#js-jobs-wrapper span.bg-feature{background: #2993CF;}
+div#js-jobs-wrapper span.bg-gold{background: #CC9900;}
+div#js-jobs-wrapper span.bg-new{background: #3C9906;}
+/*popup css*/
+div#jsjob-popup-background{display: none; position: fixed;top:0px;left:0px;width:100%;height: 100%;background: rgba(0,0,0,0.8);z-index: 9998;}
+div#jsjob-search-popup,div#jsvm-vm-listpopup{display: none; box-sizing:border-box;position: fixed;top:50%;left:50%;width:60%;background: #ffffff;z-index: 9999;box-shadow: 0px 0px 20px #999;padding: 12px 15px;transform:translate(-50%,-50%);}
+div#jsjob-search-popup span.popup-title,
+div#jsvm-vm-listpopup span.popup-title{display: block;width:100%;padding:15px;font-size:16px;font-weight:bold;}
+div#jsjob-search-popup div.jsvm-vm-searchwrapper{display: inline-block;width: 100%;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow span.jobtitle{float:left;width:99.98%;padding:8px 2%;font-size:16px;margin-bottom: 10px;font-weight: bold;}
+div#jsjob-search-popup div.jsjob-contentarea,
+div#jsvm-vm-listpopup div.jsjob-contentarea{float:left;height: 450px; display: inline-block; width: 100%; background: #fafafa;border:1px solid #d4d4d5;padding-top: 10px;overflow-y:auto;}
+div#jsvm-vm-listpopup div.jsjob-contentarea{padding-top:0px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow div.quickviewrow span.visitor-message{float:left;width:96%;margin:0px 2%;padding:10px;font-size:14px;margin-bottom:20px;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.quickviewrow div.quickviewrow span.visitor-message img{margin-right:10px;}
+div#jsjob-search-popup div.jsjob-refine-wrapper{margin-bottom: 10px;}
+div#jsjob-search-popup div.js-searchform-title{font-size: 14px;padding: 0; padding-bottom: 5px;}
+div#jsjob-search-popup div.js-searchform-value {padding: 0;}
+div#jsjob-search-popup div.js-searchform-value input,select{width: 100%;}
+div#jsjob-search-popup div.js-searchform-value input{background: #fff;}
+div#jsjob-search-popup div.js-searchform-value select.sal{width: calc(25% - 5px) !important;float:left;}
+div#jsjob-search-popup div.js-searchform-value select.sal:nth-child(2n){margin-left:5px;}
+div#jsjob-search-popup div.js-searchform-value select.exp{width: 50%;}
+div#jsvm-vm-refine-actions{width: 90%;margin-left: 5%; display: inline-block; border-top:1px solid #d4d4d5;padding:10px; text-align: center;}
+div#jsvm-vm-showmore{background: #d7d7d7;border:1px solid #d4d4d5;padding:6px; text-align: center; cursor: pointer;font-size: 14px;}
+span#jsjob-popup-closebtn{float: right;cursor: pointer;}
+/*shoaib*/
+div#jsvm-vm-wrapper div.category-row-wrapper div.category-wrapper,
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.category-wrapper{position:relative;}
+div#jsvm-vm-wrapper div.category-row-wrapper div.category-wrapper a,
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.category-wrapper a{float:left;width:100%;}
+div#jsvm-vm-wrapper div.category-row-wrapper div.category-wrapper div.jsvm-vm-subcategory-wrapper,
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.category-wrapper div.jsvm-vm-subcategory-wrapper{position: absolute;top:80%;left:10px;right:10px;height:auto;z-index: 9999;padding:10px 15px;float: none;width:auto;}
+div#jsvm-vm-wrapper div.category-row-wrapper div.category-wrapper div.jsvm-vm-subcategory-wrapper div.showmore-wrapper,
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.category-wrapper div.jsvm-vm-subcategory-wrapper div.showmore-wrapper{float:left;width: 100%;margin-top:10px;text-align: center;}
+div#jsvm-vm-wrapper div.category-row-wrapper div.category-wrapper div.jsvm-vm-subcategory-wrapper div.showmore-wrapper a.showmorebutton,
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.category-wrapper div.jsvm-vm-subcategory-wrapper div.showmore-wrapper a.showmorebutton{display: inline-block;padding:10px 20px;text-decoration: none;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper{float:left;width:100%;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.category-wrapper{padding: 10px; float: left;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.jobs-by-categories-wrapper{width:100%; padding: 10px; float: left;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.jobs-by-categories-wrapper span.title{width:80%; float: left;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;}
+div#jsvm-vm-listpopup div.jsjob-contentarea div.jsvm-vm-subcategory-wrapper div.jobs-by-categories-wrapper span.totat-jobs{width:20%; float: left; text-align: right;} 	
+div#jsvm-vm-wrapper span#range-edu-one{float:right;margin-right: 55px;}
+div#jsvm-vm-wrapper span#range-edu{float:right;margin-right: 55px;}
+div#jsvm-vm-wrapper span#range-exp{float:right;margin-right: 55px;}
+div#jsvm-vm-wrapper span#range-one{float:right;margin-right: 55px;}
+div#jsvm-vm-wrapper span#range-edu-one a{cursor:pointer}
+div#jsvm-vm-wrapper span#range-edu a{cursor:pointer}
+div#jsvm-vm-wrapper span#range-exp a{cursor:pointer}
+div#jsvm-vm-wrapper span#range-one a{cursor:pointer}
+
+/* Resume */
+div#resume-wrapper{float:left;width:100%;}
+div#resume-wrapper div.resume-top-section{float:left;width:100%;padding: 20px;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-4 img{border-radius: 50%;padding:10px;display: block;margin: 0 auto;min-height: 200px;width:200px;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-8 span.resume-tp-name{float: left;width:100%;padding:10px 0px;font-size:20px;font-weight: bold;margin-bottom: 10px;position: relative;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-8 span.resume-tp-name div#job-info-sociallink{float: right;width:unset;position: absolute;top:5px;right:0px;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-8 span.resume-tp-name div#job-info-sociallink.editform{right:46px;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-8 span.resume-tp-name div#job-info-sociallink a{background: unset;border:unset;padding:0;margin:0;margin-right:5px;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-8 span.resume-tp-name a.personal_section_edit{position: absolute;top:10px;right:10px;background: none;border:0px;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-8 span.resume-tp-apptitle{float: left;width:100%;padding:10px 0px;font-size:14px;}
+div#resume-wrapper div.resume-section-title{padding:0px 10px;font-size:16px;font-weight: bold;float:left;width:100%;margin-bottom: 40px;}
+div#resume-wrapper div.resume-section-title a{float:right;margin-top:5px;}
+div#resume-wrapper div.resume-section-title a img{background: none;}
+div#resume-wrapper div.resume-section-title img{margin-right: 10px;}
+div#resume-wrapper div.resume-row-wrapper{float:left;width:50%;}
+div#resume-wrapper div.resume-row-wrapper div.row-title{display:inline-block;margin-right:2%;font-weight: bold;float:left;}
+div#resume-wrapper div.resume-row-wrapper div.row-value{display: inline-block;float:left;}
+div#resume-wrapper div.resume-row-wrapper div.row-value img#rs_photo.rs_photo{height: 200px;padding:10px;background: #ffffff;border-radius: 50%;width: 200px;}
+div#resume-wrapper div.section_wrapper{float:left;width:100%;padding:0px 20px 20px 20px;margin-bottom: 20px;}
+div#resume-wrapper div.section_wrapper div.resume-row-wrapper-wrapper{float:left;width:96%;margin:0 2%;padding:10px 5px 10px 5px;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view{float:left;width:100%;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-title{margin-top:10px;float:left;text-align: right;padding-right:10px;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-value{padding-left:10px;margin-top:10px;float:left;width:85%;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-value.video{width:100%;padding:20px 10px;text-align: center;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-title.attachments{margin-top:25px;font-weight: bold;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-value.attachments{margin-bottom:10px;padding:10px;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-value.attachments a.file{position: relative;width:127px;float:left;margin-right:2px;border-radius: 4px;height:30px;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-value.attachments a.file span.filename{position: absolute;top:3px;left:2px;width:100px;overflow: hidden;text-overflow:ellipsis;white-space: nowrap;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-value.attachments a.file span.fileext{position: absolute;top:3px;left:73px;width:0px;}
+div#resume-wrapper div.section_wrapper div.resume-row-full-view div.row-value.attachments a.file img.filedownload{position: absolute;top:3px;left:102px;}
+div#resume-wrapper div.section_wrapper div.resume-heading-row{float:left;width:100%;padding:10px 5px;font-weight: bold;position:relative;}
+div#resume-wrapper div.section_wrapper div.resume-heading-row a.edit{position: absolute;top:11px;right:35px;}
+div#resume-wrapper div.section_wrapper div.resume-heading-row a.delete{position: absolute;top:10px;right:10px;}
+div#resume-wrapper div.resume-moreoption{display: none;}
+div#resume-wrapper span.resume-moreoptiontitle{float:left;clear:both;padding:5px 10px;text-transform: uppercase;font-weight: bold;border-radius: 4px;cursor:pointer;margin-top:25px;}
+div#resume-wrapper span.resume-moreoptiontitle img{margin-left:5px;margin-top:-3px;}
+div#resume-wrapper div.resume-section-data{padding:20px;float:left;width: 100%;margin-top:10px;}
+div#resume-wrapper div.resume-heading-row span.resume-employer-position{display: inline-block;margin-left:10px;font-size:12px;padding:2px 8px;border-radius: 4px;}
+div#resume-wrapper div.resume-heading-row span.resume-employer-dates{margin-left:10px;font-weight: normal;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-8 a{float:left;padding:5px;margin-right:5px;text-decoration: none;}
+div#resume-wrapper div.resume-top-section div.js-col-lg-8 a.downloadall img{margin-right:5px;}
+div#resume-wrapper div.resume-map{float: left;width:96%;margin:5px 2% 0px 2%;}
+div#resume-wrapper div.resume-map div.row-title{padding:5px;float: left;width:100%;margin-top:10px;cursor: pointer;}
+div#resume-wrapper div.resume-map div.row-value{padding:10px;float: left;width:100%;}
+div#resume-wrapper div.resume-map div.row-title img{margin-right: 10px;}
+div#resume-wrapper div.resume-map-edit{float: left;width:100%;margin:5px 0px;}
+div#resume-wrapper div.resume-map-edit div.row-title{display:inline-block;margin-right:2%;font-weight: bold;float:left;}
+div#resume-wrapper div.resume-map-edit div.row-value{padding:10px 0px;float: left;width:100%;}
+div#resume-wrapper div.resume-map-edit div.row-value div.map{padding:10px;float: left;width:100%;margin-top:10px;}
+div#resume-wrapper div.section_wrapper.form{position: relative;padding-top:40px;}
+div#resume-wrapper div.section_wrapper.form div.formsectionheading{position:absolute;left:0px;right:0px;top:0px;padding: 10px;font-weight: bold;}
+div#resume-wrapper div.section_wrapper.form div.formsectionheading img{margin-right: 10px;}
+div#resume-wrapper a.add{float:left;margin-left:15px;padding: 5px 10px;font-weight: bold;margin-bottom: 20px;cursor: pointer;text-decoration: none;}
+div#resume-wrapper div.resume-row-wrapper.form{float:left;width:100%;padding-top:20px;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-title{font-weight: normal;margin-bottom: 5px;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-title span {
+    width: 1%;
+}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value input,
+div#resume-wrapper div.resume-row-wrapper.form div.row-value select{border-radius: 4px;padding:5px;}
+div.resume-row-wrapper.form div.row-title{float:left;width:100%;margin-bottom:5px;}        
+div.resume-row-wrapper.form div.row-value{float:left;width:100%;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value select.salarystart{float:left;width:34%;margin:0px;margin-right:1%;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value select.salaryend{float:left;width:34%;margin:0px;margin-right:1%;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value select.salarytype{float:left;width:14%;margin:0px;margin-right:1%;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value select.currency{float:left;width:15%;margin:0px;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value input[type="radio"]{width:auto;margin-right:10px;margin-top:4px;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value label#forvideotype{width:auto;margin-right:10px;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value #video{margin-top:10px;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value input,
+div#resume-wrapper div.resume-row-wrapper.form div.row-value select,
+div#resume-wrapper div.resume-row-wrapper.form div.row-value textarea{width:100%;margin:0px;padding:0px 5px;height:30px;font-size:16px;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value textarea{height: 70px;padding: 10px;}
+div.resume-map-edit div.row-value input[type="text"]{width:47.5% !important;margin:0px;padding:0px 5px;height:30px;font-size:16px;}
+div#jsvm-vm-wrapper form#company_form div.js-form-value input[type="text"],
+div#jsvm-vm-wrapper form#company_form div.js-form-value select{padding:0px 5px;margin:0px;width:100%;height:30px;font-size:16px;}
+div#jsvm-vm-wrapper form#resume_form div.js-form-value input[type="text"],
+div#jsvm-vm-wrapper form#resume_form div.js-form-value select{padding:0px 5px;margin:0px;width:100%;height:30px;font-size:16px;}
+div#jsvm-vm-wrapper form#job_form div.js-form-value input[type="text"],
+div#jsvm-vm-wrapper form#job_form div.js-form-value select{padding:0px 5px;margin:0px;width:100%;height:30px;font-size:16px;}
+div.resume-map-edit div.row-value input[type="text"]:first-child{margin-right:5%;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value div#resumefileswrapper{padding:5px;width:100%;float:left;position: relative;padding-right:36px;min-height: 45px;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value div#resumefileswrapper a.file{float:left;margin-right:5px;padding:5px;text-decoration: none;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value div#resumefileswrapper span.resume-selectfiles{position: absolute;top:1px;right:1px;padding:9px 10px;cursor:pointer;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value input.threefields{width:32%;margin:0px;margin-right:1%;float:left;}
+div#resume-wrapper div.resume-row-wrapper.form div.row-value input.threefields:last-child{width:34%;margin-right:0;}
+div#resume-wrapper div.resume-section-button{float:left;text-align:center;margin-top:30px;padding-top:15px;width:100%;border-top:1px solid #645456;}
+div#resume-wrapper div.resume-section-button input{margin-right:10px;}
+div#resume-files-popup-wrapper{position: fixed;top:15%;left:25%;width:50%;height:65%;z-index: 9999;}
+div#resume-files-popup-wrapper div.resume-filepopup-lowersection-wrapper{float:left;width:100%;position: relative;min-height: 50px;}
+div#resume-files-popup-wrapper div.resume-filepopup-lowersection-wrapper div.allowedfiles{position: absolute;top:5px;left:0px;}
+div#resume-files-popup-wrapper div.resume-filepopup-lowersection-wrapper div.allowedextension{position: absolute;top:5px;right:0px;}
+div#resume-files-popup-wrapper div.resume-filepopup-lowersection-wrapper div.allowedsize{position: absolute;top:20px;left:0px;}
+div#resume-files-popup-wrapper span.close-resume-files{float:left;width:100%;padding:10px;position: relative;font-size:16px;}
+div#resume-files-popup-wrapper span.close-resume-files img{position: absolute;top:5px;right:5px;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper{float:left;width:100%;padding:2% 20px;height:84%;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span.clickablefiles{float:left;width:100%;padding:5px 20px;text-align: center;font-size:15px;margin:10px 0px;cursor: pointer;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span.clickablefiles img{margin-right:5px;}
+div#black_wrapper_jobapply{background:rgba(0,0,0,.8);position:fixed;width:100%;height:100%;top:0px;right:0px;z-index: 9998;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span.headingpopup{float:left;width:100%;padding:7px 10px;font-size:15px;margin-bottom:10px;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span#resume-files-selected{float:left;width:100%;padding:10px;font-size:14px;height:55%;overflow-y:auto;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span#resume-files-selected div.resumefileselected{float:left;width:100%;margin-bottom:5px;padding:3px 5px;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span#resume-files-selected div.resumefileselected span.filename{float:left;margin-top:3px;margin-right:5px;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span#resume-files-selected div.resumefileselected span.filesize{float:left;margin-top:3px;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span#resume-files-selected div.resumefileselected button{float:right;padding:3px 10px;border-radius: 4px;}
+div#resume-files-popup-wrapper div.resumepopupsectionwrapper span#resume-files-selected div.error_msg{float:left;width:100%;margin:2px 0px 5px 0px;}
+div#jsresume-tags-wrapper{float:left;width:100%;}
+div#jsresume-tags-wrapper span.jsresume-tags-title{float:left;width:100%;padding:5px 10px;font-size:16px;}
+div#jsresume-tags-wrapper div.tags-wrapper-border{float:left;width:100%;padding:15px;}
+div#jsresume-tags-wrapper div.tags-wrapper-border a.jsjob_tags_a{padding:5px 8px;border-radius: 8px;border:1px solid #D4D4D5;background: #DDDDDD;color:#4F4F4F;margin-right:10px;text-decoration: none;}
+/* ratelist */
+div#jsvm-vm-wrapper div.rate-list-item{width:40%;margin: 2% 5%;float:left;display:inline-block;position:relative;}
+div#jsvm-vm-wrapper div.rate-list-item img.rate-list-img{position:absolute;display:inline-block;top: 5px;left: 5px;}
+div#jsvm-vm-wrapper div.rate-list-item span.rate-list-top{width:100%;display:inline-block;padding:15px;padding-left:100px;font-weight:bold;}
+div#jsvm-vm-wrapper div.rate-list-item span.rate-list-bottom{width:100%;display:inline-block;padding:15px;padding-left:100px;}
+div#jsvm-vm-wrapper div.rate-list-item span.rate-list-bottom span.bold{font-weight:bold;}
+div#jsvm-vm-wrapper div.rate-list-item span.rate-list-bottom-right{display:inline-block;position:absolute;right:-1px;bottom:12px;padding:5px;font-weight:bold;font-size:0.8em;}
+div#resume-wrapper div.resume-section-button input{padding:5px 15px;min-width:110px;border-radius: 4px;}
+div#resume-wrapper div.resume-map-edit div.row-title{font-weight: normal;}
+div#job-applied-resume-jobtitle{margin-top:15px;padding:5px 10px;float:left;width:95%;margin-left:2.5%;}
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-lower.listing-fields div.custom-field-wrapper{width: 41%;float: left;display: inline-block;padding: 5px; }
+div#jsvm-vm-wrapper div.jsvm-vm-shorlisted-wrapper div.data-bigupper div.big-upper-lower.listing-fields div.custom-field-wrapper span.js-bold{font-weight: bold;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower.listing-fields div.custom-field-wrapper{width: 33%;float: left;display: inline-block;padding: 5px;min-width: 300px;padding-top: 10px;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper div.big-upper-lower.listing-fields div.custom-field-wrapper span.js-bold{font-weight: bold;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower.listing-fields div.custom-field-wrapper{width: 41%;float: left;display: inline-block;padding: 5px; padding-top: 10px;}
+div#jsvm-vm-wrapper div#my-applied-jobs-wrraper div#my-applied-jobs-list div.jobs-upper-wrapper div.job-detail div.job-detail-lower.listing-fields div.custom-field-wrapper span.js-bold{font-weight: bold;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower.listing-fields div.custom-field-wrapper{width: 50%;float: left;display: inline-block;padding: 5px;padding-top: 10px; }
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower.listing-fields div.custom-field-wrapper span.js-bold{font-weight: bold;}
+div#jsvm-vm-wrapper div#resume-list-wrraper div#resume-list div.resume-upper-wrapper div.resume-detail div.resume-detail-lower.listing-fields div.custom-field-wrapper span.get-text{width: auto;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-lower.listing-fields div.custom-field-wrapper{width: 50%;float: left;display: inline-block;padding: 5px; }
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-lower.listing-fields div.custom-field-wrapper span.js-bold{font-weight: bold;}
+div#jsvm-vm-wrapper div.my-resume-data div.data-bigupper div.big-upper-lower.listing-fields div.custom-field-wrapper span.get-text{width: auto;}
+div#jsvm-vm-wrapper div.custom-listing span.custom-label-text{font-weight: bold;}
+div#jsvm-vm-wrapper div.custom-listing span.custom-desc-text{}
+div#jsvm-vm-popup.loginpopup{top:50%;width:460px;left:50%;transform:translate(-50%,-50%);}
+div#jsvm-vm-popup.loginpopup div.loginintocomment{position:relative;text-decoration: line-through;text-align: center;}
+div#jsvm-vm-popup.loginpopup div.loginintocomment hr.loginhr{position: absolute;width:100%;height:2px;top:51%;left:0px;margin:0px;padding:0px;z-index: 10;background: unset !important;}
+div#jsvm-vm-popup.loginpopup div.loginintocomment span.logintext{background: #FFFFFF;display: inline-block;padding:5px 8px;position: relative;z-index: 11;font-size: 15px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name{padding:0px 10px;margin:0px;border: unset;}
+div#jsvm-vm-popup.loginpopup div.popup-row.button{text-align: center;background: unset;padding:10px 0px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.button a.sociallogin{display: inline-block;margin:0px;margin-right:5px;padding:0px;padding-right:5px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.button a.sociallogin.facebook{background: url(../images/scico/fb-bg.png);color:#FFFFFF;}
+div#jsvm-vm-popup.loginpopup div.popup-row.button a.sociallogin.linkedin{background: url(../images/scico/in-bg.png);color:#646464;}
+div#jsvm-vm-popup.loginpopup div.popup-row.button a.sociallogin.xing{background: url(../images/scico/xing-bg.png);color:#FFFFFF;}
+div#jsvm-vm-popup.loginpopup div.popup-row.button a.sociallogin img{margin-right:5px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name div.login-heading{margin-top:10px;margin-bottom:5px;font-size:15px;font-weight: bold;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name p.login-username{margin:0px;margin-bottom: 5px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name p.login-password{margin:0px;margin-bottom: 5px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name p.login-remember{margin:10px 0px 10px 0px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name p.login-submit{margin:0px;margin-bottom: 20px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name input#user_login{width:100%;height:auto;font-weight: normal;font-size:18px;margin:0px;padding-left:5px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name input#user_pass{width:100%;height:auto;font-weight: normal;font-size:18px;margin:0px;padding-left:5px;}
+div#jsvm-vm-popup.loginpopup div.popup-row.name input#wp-submit{width:100%;max-width: auto;margin-bottom: 0px;}
+div.companies.filterwrapper{width:100%;float:left;text-align: center;padding:15px 0px;margin-bottom: 10px; margin-top: -5px;}
+div.companies.filterwrapper form{width:80%;float:left;margin:10px 10%;display: block;}
+div.companies.filterwrapper form input#jsvm-vm-company{float:left;width:260px;margin-right:10px;padding:7px; margin-bottom: 0px;}
+div.companies.filterwrapper form span.filterlocation{float:left;display:inline-block;width:260px;margin-right:10px;position: relative;}
+div.companies.filterwrapper form span.filterlocation img{position: absolute;top:0px;left:0px;padding:4px;background: #ffffff;}
+div.companies.filterwrapper form span.filterlocation ul.jsvm-vm-input-list-jsvm{width:100%;padding:3px;padding-left:30px;}
+div.companies.filterwrapper form input#jsvm-vm-go{float:left;width:10%;margin-right:10px;outline: unset;padding:8px;border-radius:0px; }
+div.companies.filterwrapper form input#jsvm-vm-reset{float:left;width:10%;outline: unset;padding:8px;border-radius:0px;}
+a#showmorejobs{float:left;clear: both;padding:5px 15px;font-weight: bold;font-size:15px;text-decoration: none;}
+div.js-form-wrapper-newlogin{display: inline-block; float: left; width: 80%; margin: 10px 10%;  padding-right: 20px;}
+div.js-form-wrapper-newlogin div.js-dataarea{display: inline-block;float: left;width:  calc(100% - 170px);}
+div.js-form-wrapper-newlogin div.js-imagearea{display: inline-block;float: left;text-align: center; width: 130px; height: 130px; margin: 20px; position: relative;}
+div.js-form-wrapper-newlogin div.js-imagearea div.js-img{ position: relative; display: inline-block;width: 100%; height: 100%;}
+div.js-form-wrapper-newlogin div.js-imagearea div.js-img img#jsjobslogin{position: absolute; margin: auto; top: 0px; bottom: 0px; right: 0px; left: 0px; max-width: 75%; max-height: 75%;}
+div.js-form-wrapper-newlogin div.js-dataarea div.js-form-heading{font-weight: bold; font-size: 19px; padding: 15px 0px 10px 0px;}
+div.js-form-wrapper-newlogin div.js-dataarea div.js-form-title{font-size: 15px; padding: 10px 0px 10px 0px;}
+div.js-form-wrapper-newlogin div.js-dataarea div.js-form-value{padding: 0px 0px 10px 0px;}
+div.js-form-wrapper-newlogin div.js-dataarea div.js-form-value select{height: 32px;}
+div#jsvm-vm-wrapper div.js-form-wrapper-newlogin div.js-dataarea input#save{border: none; outline: none; background: #79b22b; color: #ffffff; padding: 10px 25px; height: 35px; line-height: 15px; margin: 5px 0px 15px 0px;}
+/* registration form */
+div#jsvm-vm-wrapper form#jsvm_registration_form{text-align: center; padding:0px 25px;}
+div#jsvm-vm-wrapper form#jsvm_registration_form fieldset{border:none;}
+div#jsvm-vm-wrapper form#jsvm_registration_form fieldset p{width: 100%;display: inline-block;text-align: left;}
+div#jsvm-vm-wrapper form#jsvm_registration_form fieldset label{width: 100%;display: inline-block;text-align: left;}
+div#jsvm-vm-wrapper form#jsvm_registration_form fieldset input{width: 100%;display: inline-block;}
+div#jsvm-vm-wrapper form#jsvm_registration_form fieldset input#save{width: auto;}
+div#jsvm-vm-wrapper form#jsvm_registration_form fieldset div#save{text-align: center; display:inline-block; width: 92%; margin:2% 4%; padding-top: 15px;float: left;}
+/*stats*/
+div#jsvm-vm-wrapper div.js-topstats{display: inline-block;width: 100%; float: left; padding: 10px 0px;}
+div#jsvm-vm-wrapper div.js-topstats div.js-mainwrp{padding: 0px 7px;}
+/*div#jsvm-vm-wrapper div.js-topstats div.js-mainwrp:first-child{padding-left: 0px;}
+div#jsvm-vm-wrapper div.js-topstats div.js-mainwrp:last-child{padding-right: 0px;}*/
+div#jsvm-vm-wrapper div.js-topstats div.tprow{display: inline-block;width: 100%;float: left;padding: 0px 15px; margin-bottom: 12px;}
+div#jsvm-vm-wrapper div.js-topstats div.tprow img{width: 30%;float: left;padding: 10px 10px 10px 0px;}
+div#jsvm-vm-wrapper div.js-topstats div.tprow div.js-headtext{display: inline-block;padding-top: 30px;width: 60%;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+div#jsvm-vm-wrapper div.js-topstats div.tprow div.js-count{float: right;padding-top: 30px;font-weight: bold;font-size: 15px;width: 10%;}
+div#jsvm-vm-wrapper div.js-topstats div.resume div.js-count{color: #d37509;}
+div#jsvm-vm-wrapper div.js-topstats div.coverletter div.js-count{color: #4a2ad5;}
+div#jsvm-vm-wrapper div.js-topstats div.appliedjobs div.js-count{color: #AA3C94;}
+div#jsvm-vm-wrapper div.js-topstats div.company div.js-count{color: #86C544;}
+div#jsvm-vm-wrapper div.js-topstats div.totaljob div.js-count{color: #4a2ad5;}
+div#jsvm-vm-wrapper div.js-topstats div.activejob div.js-count{color: #C63538;}
+div.jsvm-vm-bottom-wrapper{display: inline-block;float: left;width: 92%; margin-left: 4%; margin-right: 4%;}
+/* Listing Table */
+table#js-table{border-spacing:0 6px; border-collapse: separate; border-bottom: none;width: 100%;}
+table#js-table caption {background-image: none;}
+table#js-table thead.stats{display: inline-block;width: 100%;float: left;}
+table#js-table thead.stats tr{display: inline-block;width: 100%;float: left;}
+table#js-table thead.stats tr th{display: inline-block; float: left; padding: 6px;}
+table#js-table thead.stats tr th img{margin-right: 10px;}
+table#js-table thead.stats tr th.title{width: 60%;}
+table#js-table thead.stats tr th.expired{width: 20%;background: #FFF4F4;}
+table#js-table thead.stats tr th.publish{width: 20%;background: #F1F8F3;}
+table#js-table thead.stats tr th.center{text-align: center;}
+table#js-table tbody.stats tr td{text-align: left;display: inline-block;float: left;padding: 5px 10px;margin: 0px;}
+table#js-table tbody.stats tr td.title{width: 60%;}
+table#js-table tbody.stats tr td.expired{width: 20%;font-weight: bold;background: #FFF4F4;}
+table#js-table tbody.stats tr td.publish{width: 20%;font-weight: bold;background: #F1F8F3;}
+table#js-table tbody.stats tr td.center{text-align: center;}
+div#jsvm-vm-wrapper div.js-login-wrapper{display: inline-block; width: 90%; margin-left: 5%; margin-right: 5%; float: left; padding: 35px 15px; margin-top: 25px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-ourlogin{display: inline-block; width: 55%; float: left; padding: 0px 25px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.login-heading{font-size: 18px; margin-bottom: 15px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-ourlogin form#loginform-custom p{display: inline-block;width: 100%;float: left; margin-bottom: 10px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-ourlogin form#loginform-custom p label{display: inline-block;width: 100%;float: left;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-ourlogin form#loginform-custom p input.input{display: inline-block;width: 100%;float: left;background: #FFFFFF;padding: 10px;height: unset;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-ourlogin form#loginform-custom p.login-submit input#wp-submit{width: 100%;padding: 10px 0px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-seprator{display: inline-block; width: 50px; float: left;padding: 50px 10px 0px 10px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-seprator div.js-text{margin-left: -5px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-seprator div.js-vline{height: 65px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-sociallogin{display: inline-block; width: calc(45% - 50px); float: left; padding-right: 25px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-sociallogin a.sociallogin{display: inline-block; float: left; width: 100%; margin-bottom: 15px; background: #FFF; text-decoration: none; font-weight: bold; font-size: 14px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-sociallogin a.sociallogin img{margin: -1px; margin-right: 10px;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-sociallogin a.facebook{border: 2px solid #355699; color: #355699;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-sociallogin a.linkedin{border: 2px solid #0077B5; color: #0077B5;}
+div#jsvm-vm-wrapper div.js-login-wrapper div.js-sociallogin a.xing{border: 2px solid #00605E; color: #00605E;}
+div.js-jobs-resume-apply-now-visitor{background: rgba(249,249,249,0.9); padding: 12px;}
+div.js-jobs-resume-apply-now-visitor div.js-jobs-resume-apply-now-text{color: #242424; display: inline-block; float: left;width: 60%; padding-top: 7px;}
+div.js-jobs-resume-apply-now-visitor div.js-jobs-resume-apply-now-button{display: inline-block;float: right;width: 40%; text-align: right;}
+div.js-jobs-resume-apply-now-visitor div.js-jobs-resume-apply-now-button input{padding: 7px 17px;text-align: right; font-weight: bold;}
+div.js-jobs-resume-apply-now-visitor div.js-jobs-resume-apply-now-button input#jsvm-vm-cancel-btn{border: 1px solid #CCCCCC;color: #575757;background: #FFFFFF;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper{float:left;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper.comp40{width:40%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper.comp100{width:100%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper.data60{width:60%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper.data100{width:100%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper a img{max-width:100%;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper span#jsvm_module_data_fieldtitle{float:left;margin-right:10px;font-weight: bold;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper span#jsvm_module_data_fieldvalue{float:left;}
+div#jsvm_module_wrapper div#jsvm_module_wrap div#jsvm_module_data_fieldwrapper span#jsvm_module_data_fieldvalue a{text-decoration: none;}
+input#searchname{display: block;float:left;width:70%;margin-right:10px;}
+div#resume-wating.loading{display: none;position: fixed;height: 100%;width: 100%;top:0px;left:0px;background: rgba(250,250,250,.4);background-image: url(../images/load.gif);background-position: center;background-repeat: no-repeat;z-index:9999;}
+div#jsvm-vm-popup div.loading{position: absolute;top:0px;left:0px;z-index: 99;background: rgba(250,250,250,.4);background-image: url(../images/load.gif);background-repeat: no-repeat;background-position: center;width:100%;height:100%;}
+div#jsvm-vm-wrapper div.purchase-history-wrapper div.purchase-history-data span.data-parts{display: inline-block;width: 100%;}
+
+a#appliedresume_tabnarmalsearch{cursor: pointer;}
+form#job_form_search label.pageform{float: left;margin-top: 10px;margin-right:10px; }
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper span.get-status-text{font-weight: bold;}
+div#jsvm-vm-wrapper div.my-jobs-data div.data-bigupper span.get-status-text.green{color: #008000;}
+div#jsvm_appliedresume_tab_search{display: inline-block; float: left; width: 94%; margin: 0px 3%;}
+div#jsvm_appliedresume_tab_search div input.search-field{padding-bottom:0px; margin-bottom:10px;}
+div#jsvm_appliedresume_tab_search div select.search-field{padding-bottom:0px; margin-bottom:10px;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper input.search-field.inputbox{display: inline-block; width: 100%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper select.search-field.inputbox{display: inline-block; width: 100%;}
+div#jsvm-vm-wrapper div#job-applied-resume-wrapper div.jsvm-vm-button-search{text-align: center; padding-top: 15px;}
+
+div.big-lower-data-text img{float:left;}
+div.big-lower-data-text.pending span{display: inline-block;background: #FEA702;padding: 2px 3px;height: 23px;color:#ffffff;}
+div.big-lower-data-text.reject span{display: inline-block;background: #ED3237;padding: 2px 3px;height: 23px;color:#ffffff;}
+table th.title img.table-image{height:20px !important;}
+
+div.row-value input[name="latitude"]{float:left;margin-right:20px;}
+form#resume_form_search label.pageform{display: block;width:100%;}
+form#job_form_search label.pageform{display: block;width:100%;}
+div#jsvm-vm-wrapper input#save{padding:10px 20px;}
+div#jsjob-search-popup form#job_form div.js-searchform-value input[type="text"],
+div#jsjob-search-popup form#job_form div.js-searchform-value select{padding:0px 5px;margin:0px;height:30px;font-size:14px;box-sizing:border-box;width:100%;}
+div#jsvm-vm-wrapper img#jsvm-vm-loading-icon{display: block;margin:0 auto;margin-bottom: 15px;}
+div.resumefieldvalueform > div > input[type="text"]{padding: 6px 7px;}
+
+
+div#jssection_address div.section_wrapper div.outermapdiv {
+    width: 100%;
+    position: relative;
+    z-index: 99999;
+    bottom: 260px;
+    left: -5px;
+}
+div#jssection_address div.section_wrapper div.outermapdiv div.map {
+    height: 216px;
+    left: 13px;
+    position: absolute;
+    overflow: true;
+    top: 0px;
+    visibility: hidden;
+    width: 578px;
+    top: -19px;
+}
+div#jssection_address div.section_wrapper div.outermapdiv div.map div.map_container {
+    z-index: 1000;
+    position: relative;
+    background: #000;
+    width: 100%;
+    height: 100%;
+}
+div.section_wrapper div.jssection_hide{display: none;}
+div#resume-wrapper div.jsresume_addnewbutton{display: block; float: left; cursor: pointer; padding: 8px 15px; font-size: 13px;    margin: 0 0 6px 9px;}
+div#resume-wrapper div.jsresume_addnewbutton div.jsresume_plus{display: inline-block; font-size: 16px; margin-right: 5px;}
+
+
+/*sectionShowHide*/
+div#resume-wrapper div.jssectionwrapper div.jssection_hide{display: none;}
+div#resume-wrapper div.jsresume_addnewbutton{display: block; float: left; cursor: pointer; padding: 5px 15px; font-size: 13px;}
+div#resume-wrapper div.jsresume_addnewbutton div.jsresume_plus{display: inline-block; font-size: 16px; margin-right: 5px;}
+div#resume-wrapper div.jssectionwrapper{display: block; width: 100%; float: left; margin: 10px 0px; padding-top: 15px; padding-bottom: 10px; position: relative;}
+div#resume-wrapper div.jssectionwrapper:last-child{border: none;}
+div#resume-wrapper div.jssectionwrapper img.jsdeleteimage{position: absolute;top: 15px;right: 10px;cursor: pointer;}
+div#resume-wrapper div.jssectionwrapper div.jsundo img.jsundoimage{cursor: pointer; position: absolute;top: 0px; left: 0px; right: 0px; bottom: 0px; margin: auto;}
+div#resume-wrapper div.jssectionwrapper div.jsundo{display: none;}
+div#resume-wrapper div.jssectionwrapper div.jsundodiv{ float: left; position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin: auto; z-index: 999;}
+
+
+div#jsvehiclemanager-add-vehicle-wrap fieldset{border:none;}
+
+
+
+
+
+
+

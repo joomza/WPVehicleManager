@@ -1,0 +1,4147 @@
+msgid "Control Panel"
+msgstr "계기반"
+
+msgid "Dashboard"
+msgstr "판매자 목록"
+
+msgid "Seller List"
+msgstr "도시 별 판매자"
+
+msgid "Sellers By City"
+msgstr "레지스터"
+
+msgid "Register"
+msgstr "내 통계"
+
+msgid "My Stats"
+msgstr "판매자 정보"
+
+msgid "Seller Info"
+msgstr "내 차량"
+
+msgid "My Vehicles"
+msgstr "차량"
+
+msgid "Vehicles"
+msgstr "차량 세부 정보"
+
+msgid "Vehicle Detail"
+msgstr "차량 검색"
+
+msgid "Search Vehicle"
+msgstr "명단 차량"
+
+msgid "Shortlisted Vehicles"
+msgstr "차량 비교"
+
+msgid "Compare Vehicles"
+msgstr "차량에서"
+
+msgid "From Vehicle"
+msgstr "자동차 제조사 별"
+
+msgid "Vehicles By Make"
+msgstr "조건 별 차량"
+
+msgid "Vehicles By Condition"
+msgstr "도시 별 차량"
+
+msgid "Vehicles By City"
+msgstr "평가 목록"
+
+msgid "Rate List"
+msgstr "크레딧 로그"
+
+msgid "Credits Log"
+msgstr "크레딧 팩"
+
+msgid "Credits Pack"
+msgstr "구매 내역"
+
+msgid "Purchase History"
+msgstr "차량 경고"
+
+msgid "Vehicle Alert"
+msgstr "유형별 차량"
+
+msgid "Vehicles By Types"
+msgstr "로그인"
+
+msgid "Login"
+msgstr "을 더한"
+
+msgid "Plus"
+msgstr "같음"
+
+msgid "Equals"
+msgstr "마이너스"
+
+msgid "Minus"
+msgstr "고르다"
+
+msgid "Select"
+msgstr "지우다"
+
+msgid "Delete"
+msgstr "다운로드"
+
+msgid "Download"
+msgstr "관리자"
+
+msgid "Admin"
+msgstr "최신 정보"
+
+msgid "Update"
+msgstr "정보"
+
+msgid "Information"
+msgstr "활동 기록"
+
+msgid "Activity Logs"
+msgstr "승인 대기열"
+
+msgid "Approval Queue"
+msgstr "주문 필드"
+
+msgid "Fields ordering"
+msgstr "차량 경고"
+
+msgid "Vehicle alerts"
+msgstr "구성"
+
+msgid "Configurations"
+msgstr "크론 작업"
+
+msgid "Cron Job"
+msgstr "지불 방법 구성"
+
+msgid "Payment Methods Configurations"
+msgstr "모형으로 만든다."
+
+msgid "Makes By Models"
+msgstr "~한다."
+
+msgid "Makes"
+msgstr "사용자"
+
+msgid "Users"
+msgstr "패키지"
+
+msgid "Packages"
+msgstr "크레딧"
+
+msgid "Credits"
+msgstr "크레딧 로그"
+
+msgid "Credits log"
+msgstr "차량 종류"
+
+msgid "Vehicle Types"
+msgstr "연료 종류"
+
+msgid "Fuel Types"
+msgstr "마일리지"
+
+msgid "Mileages"
+msgstr "모델 년"
+
+msgid "Model years"
+msgstr "변속기"
+
+msgid "Transmissions"
+msgstr "실린더"
+
+msgid "Cylinders"
+msgstr "정황"
+
+msgid "Conditions"
+msgstr "통화"
+
+msgid "Currencies"
+msgstr "보고서"
+
+msgid "Reports"
+msgstr "전체 보고서"
+
+msgid "Overall Reports"
+msgstr "전반적인 통계"
+
+msgid "Overall Stats"
+msgstr "제작 및 모델링"
+
+msgid "Makes and models"
+msgstr "차량 수출"
+
+msgid "Vehicle Exports"
+msgstr "이메일 템플릿"
+
+msgid "Email Templates"
+msgstr "옵션"
+
+msgid "Options"
+msgstr "새로운 자동차 관리"
+
+msgid "New Vehicle Admin"
+msgstr "새로운 차량"
+
+msgid "New Vehicle"
+msgstr "새로운 차량 방문자"
+
+msgid "New Vehicle Visitor"
+msgstr "차량 상태"
+
+msgid "Vehicle Status"
+msgstr "차량 삭제"
+
+msgid "Delete Vehicle"
+msgstr "크레딧 구매 관리자"
+
+msgid "Credits Purchase Admin"
+msgstr "크레딧 구매"
+
+msgid "Credits Purchase"
+msgstr "크레딧 만기"
+
+msgid "Credits Expire"
+msgstr "신규 판매자 등록"
+
+msgid "Register New Seller"
+msgstr "친구에게 알리기"
+
+msgid "Tell A Friend"
+msgstr "제안하기"
+
+msgid "Make An Offer"
+msgstr "시운전 일정 계획"
+
+msgid "Schedule Test Drive"
+msgstr "판매자에게 보내는 메시지"
+
+msgid "Message To Seller"
+msgstr "국가"
+
+msgid "Country"
+msgstr "지불하지 않고 계속 진행하십시오."
+
+msgid "Proceed Without Paying"
+msgstr "발하다"
+
+msgid "Proceed"
+msgstr "총 크레딧"
+
+msgid "Total Credits"
+msgstr "액션 크레딧"
+
+msgid "Credit for action"
+msgstr "만료"
+
+msgid "Expire in"
+msgstr "일"
+
+msgid "Days"
+msgstr "계속되는 크레딧"
+
+msgid "Credits remaining after proceed"
+msgstr "취소"
+
+msgid "Cancel"
+msgstr "지불을 계속하십시오."
+
+msgid "Proceed With Paying"
+msgstr "불충분 한 크레딧"
+
+msgid "Insufficient Credits"
+msgstr "구매 크레딧"
+
+msgid "Buy credits"
+msgstr "더하다"
+
+msgid "Add"
+msgstr "차량"
+
+msgid "Vehicle"
+msgstr "에 추가"
+
+msgid "Add to"
+msgstr "추천"
+
+msgid "featured"
+msgstr "차량"
+
+msgid "vehicle"
+msgstr "차량 이름"
+
+msgid "Vehicle name"
+msgstr "오류 파일 크기가 너무 큼"
+
+msgid "Error file size too large"
+msgstr "오류 파일 확장명 불일치"
+
+msgid "Error file extension mismatch"
+msgstr "오류 wp 파일 확장명 불일치"
+
+msgid "Error wp file extension mismatch"
+msgstr "더 이상 차량 없음"
+
+msgid "No More Vehicles"
+msgstr "연비"
+
+msgid "Fuel Consumption"
+msgstr "자세히보기"
+
+msgid "CC"
+msgstr "자세히보기"
+
+msgid "Show More"
+msgstr "추천"
+
+msgid "Featured"
+msgstr "만나다"
+
+msgid "See"
+msgstr "사진들"
+
+msgid "Photos"
+msgstr "판매 된"
+
+msgid "Sold"
+msgstr "고속도로"
+
+msgid "Highway"
+msgstr "외관 색상"
+
+msgid "Exterior Color"
+msgstr "스톡 번호"
+
+msgid "Stock Number"
+msgstr "위치"
+
+msgid "Location"
+msgstr "관심 목록"
+
+msgid "Shortlist"
+msgstr "비교 목록에 추가"
+
+msgid "Add To Compare"
+msgstr "오늘 차량 통계"
+
+msgid "Today Vehicles Stats"
+msgstr "총 차량 통계"
+
+msgid "Total Vehicles Stats"
+msgstr "지난 주 상위 5 대 자동차"
+
+msgid "Last Week Top Five Vehicle By Makes"
+msgstr "새로 도착한 차량"
+
+msgid "Newly Arrived Vehicles"
+msgstr "신규 등록 사용자"
+
+msgid "Newly Registered Users"
+msgstr "차량 추가"
+
+msgid "Add Vehicle"
+msgstr "숏리스트 차량"
+
+msgid "Shortlist Vehicles"
+msgstr "도시 별 차량"
+
+msgid "Vehicle By Cities"
+msgstr "판매자 목록"
+
+msgid "Sellers List"
+msgstr "사용자 이름 / 비밀번호가 잘못되었습니다."
+
+msgid "Username / password is incorrect"
+msgstr "차량 관리자 페이지"
+
+msgid "Vehicle manager pages"
+msgstr "에 대한 단축 코드 만들기"
+
+msgid "Create shortcode for"
+msgstr "차량 관리자"
+
+msgid "vehicle manager"
+msgstr "페이지들"
+
+msgid "pages"
+msgstr "페이지 선택"
+
+msgid "Select page"
+msgstr "메시지"
+
+msgid "Message"
+msgstr "주요 차량"
+
+msgid "Featured vehicle"
+msgstr "세부 정보 페이지 선택"
+
+msgid "Select detail page"
+msgstr "슬라이딩 스타일"
+
+msgid "Sliding style"
+msgstr "전체 슬라이드"
+
+msgid "Whole Slide"
+msgstr "단일 슬라이드"
+
+msgid "Single Slide"
+msgstr "슬라이드 속도"
+
+msgid "Slide speed"
+msgstr "차량 수"
+
+msgid "Number of vehicles"
+msgstr "표제"
+
+msgid "Heading"
+msgstr "기술"
+
+msgid "Description"
+msgstr "최신 차량"
+
+msgid "Newest vehicle"
+msgstr "최신 차량"
+
+msgid "newest vehicle"
+msgstr "스타일"
+
+msgid "Style"
+msgstr "차량 검색"
+
+msgid "Vehicle search"
+msgstr "차량 검색"
+
+msgid "vehicle search"
+msgstr "차량 검색 스타일"
+
+msgid "Vehicle search style"
+msgstr "표제"
+
+msgid "Title"
+msgstr "배경 이미지"
+
+msgid "Background image"
+msgstr "배경 이미지 선택"
+
+msgid "Select background image"
+msgstr "이미지 선택"
+
+msgid "Select image"
+msgstr "차량 목록"
+
+msgid "List Vehicles"
+msgstr "차량 검색"
+
+msgid "Search Vehicles"
+msgstr "내 프로필"
+
+msgid "My Profile"
+msgstr "도시 별 차량"
+
+msgid "Vehicles by City"
+msgstr "도시 별 판매자"
+
+msgid "Sellers by City"
+msgstr "유형별 차량"
+
+msgid "Vehicles by Type"
+msgstr "자동차 제조사 별"
+
+msgid "Vehicles by Make"
+msgstr "판매자 세부 정보"
+
+msgid "Seller Detail"
+msgstr "크레딧 요율표"
+
+msgid "Credits Rate List"
+msgstr "차량 경고"
+
+msgid "Vehicle alert"
+msgstr "고맙습니다"
+
+msgid "Thank you"
+msgstr "오류"
+
+msgid "Error"
+msgstr "작업 사용자 역할을 설정해야합니다."
+
+msgid "You must set jobs user role"
+msgstr "recaptcha 답변이 잘못되었습니다."
+
+msgid "Invalid recaptcha answer"
+msgstr "이미 사용중인 이름입니다"
+
+msgid "Username already taken"
+msgstr "잘못된 사용자 이름"
+
+msgid "Invalid username"
+msgstr "사용자 이름을 입력하십시오."
+
+msgid "Please enter a username"
+msgstr "이메일이 잘못되었습니다."
+
+msgid "Invalid email"
+msgstr "이미 등록 된 이메일"
+
+msgid "Email already registered"
+msgstr "비밀번호를 입력하십시오."
+
+msgid "Please enter a password"
+msgstr "비밀번호가 일치하지 않습니다"
+
+msgid "Passwords do not match"
+msgstr "차량 관리자 크레딧"
+
+msgid "Vehicle Manager Credits"
+msgstr "패키지 선택"
+
+msgid "Select Package"
+msgstr "콤보 패키지"
+
+msgid "Package combo"
+msgstr "사용자가 구입할 수 있도록 신용 팩을 선택하십시오."
+
+msgid "Select credits pack so that user can purchase them."
+msgstr "차량 관리자"
+
+msgid "Vehicle Manager"
+msgstr "통화"
+
+msgid "Currency"
+msgstr "모델"
+
+msgid "Models"
+msgstr "차량 유형"
+
+msgid "Vehicle types"
+msgstr "이메일 템플릿"
+
+msgid "Email templates"
+msgstr "이메일 옵션"
+
+msgid "Email options"
+msgstr "현장 주문 차량"
+
+msgid "Field ordering Vehicle"
+msgstr "지불 방법"
+
+msgid "Payment methods"
+msgstr "국가"
+
+msgid "Countries"
+msgstr "주"
+
+msgid "States"
+msgstr "도시"
+
+msgid "Cities"
+msgstr "활동 로그"
+
+msgid "Activity Log"
+msgstr "지불 방법 설정"
+
+msgid "Payment Methods Configuration"
+msgstr "메시지"
+
+msgid "Messages"
+msgstr "시스템 오류"
+
+msgid "System Error"
+msgstr "공유지"
+
+msgid "Common"
+msgstr "설치 후 설치"
+
+msgid "Post Installation"
+msgstr "일치하는 결과를 찾을 수 없음"
+
+msgid "Could not find any matching results"
+msgstr "죄송합니다 ..."
+
+msgid "Oops..."
+msgstr "기록을 찾을 수 없습니다"
+
+msgid "No record found"
+msgstr "이 페이지에 액세스하려면 로그인하십시오"
+
+msgid "To Access This Page Please Login"
+msgstr "제어판으로 돌아 가기"
+
+msgid "Back to control panel"
+msgstr "로그인하지 않았습니다."
+
+msgid ""
+"Registration is disabled by admin, please contact to system administrator"
+msgstr "충분한 크레딧이 없습니다."
+
+msgid "You are not logged in"
+msgstr "방문자가이 작업을 수행 할 수 없습니다."
+
+msgid "You do not have sufficient credits"
+msgstr "너는 허가받지 않았다"
+
+msgid "Visitor not allowed to perform this action"
+msgstr "먼저 목록에서 선택하십시오."
+
+msgid "You are not allowed"
+msgstr "알 수 없는"
+
+msgid "Please first make a selection from the list"
+msgstr "잘못된 요청"
+
+msgid "Unknown"
+msgstr "성공적으로 저장되었습니다."
+
+msgid "Invalid request"
+msgstr "저장되지 않았다."
+
+msgid "has been successfully saved"
+msgstr "시스템에서 성공적으로 제거되었습니다."
+
+msgid "has not been saved"
+msgstr "이미 삭제되었습니다."
+
+msgid "has been successfully removed from our system"
+msgstr "레코드가 없습니다."
+
+msgid "has been successfully deleted"
+msgstr "삭제되지 않았습니다."
+
+msgid "Record not exist"
+msgstr "게시되었습니다."
+
+msgid "has not been deleted"
+msgstr "거래가 성공적으로 확인되었습니다."
+
+msgid "has been successfully published"
+msgstr "거래가 성공적으로 확인되지 않았습니다."
+
+msgid "transaction has been successfully verified"
+msgstr "거래가 성공적으로 확인되지 않았습니다."
+
+msgid "transaction has been successfully unverified"
+msgstr "거래가 성공적으로 확인되지 않았습니다."
+
+msgid "transaction has not been successfully verified"
+msgstr "게시되지 않았습니다."
+
+msgid "transaction has not been successfully unverified"
+msgstr "성공적으로 게시되지 않았다."
+
+msgid "has not been published"
+msgstr "아직 출판되지 않았다."
+
+msgid "has been successfully unpublished"
+msgstr "필드가 성공적으로 요구되었습니다."
+
+msgid "has not been unpublished"
+msgstr "필드가 필요하지 않습니다."
+
+msgid "Fields has been successfully required"
+msgstr "입력란이 필요하지 않습니다."
+
+msgid "Field has not been required"
+msgstr "필드가 성공적으로 요구되지 않았습니다."
+
+msgid "Fields has not been required"
+msgstr "필드가 필요하지 않습니다."
+
+msgid "Fields has been successfully not required"
+msgstr "입력란은 필수 항목이 아닙니다."
+
+msgid "Field has not been not required"
+msgstr "필드 주문이 성공적으로 완료되었습니다."
+
+msgid "Fields has not been not required"
+msgstr "필드 주문 오류"
+
+msgid "Field order up successfully"
+msgstr "필드 주문이 성공적으로 끝났습니다."
+
+msgid "Field order up error"
+msgstr "거절 당했다."
+
+msgid "Field order down successfully"
+msgstr "작업이 성공적으로 적용되었습니다."
+
+msgid "has been rejected"
+msgstr "작업 적용 오류"
+
+msgid "Job applied successfully"
+msgstr "거절 당하지 않았다."
+
+msgid "Error in applying job"
+msgstr "승인되었습니다."
+
+msgid "has not been rejected"
+msgstr "아직 승인되지 않았다."
+
+msgid "has been approved"
+msgstr "기본값으로 설정되었습니다."
+
+msgid "has not been approved"
+msgstr "게시되지 않은 입력란은 기본값으로 설정할 수 없습니다."
+
+msgid "has been set as default"
+msgstr "기본값으로 설정되지 않았습니다."
+
+msgid "Unpublished field cannot set default"
+msgstr "상태가 업데이트되었습니다."
+
+msgid "has not been set as default"
+msgstr "업데이트되지 않았습니다."
+
+msgid "status has been updated"
+msgstr "사용 중 삭제할 수 없음"
+
+msgid "has not been updated"
+msgstr "이미있다"
+
+msgid "in use cannot deleted"
+msgstr "파일 유형 오류"
+
+msgid "already exist"
+msgstr "파일 크기 에러"
+
+msgid "File type error"
+msgstr "사용 가능하게되었습니다."
+
+msgid "File size error"
+msgstr "사용 중지됨"
+
+msgid "has been enabled"
+msgstr "판매 된 것으로 표시되었습니다."
+
+msgid "has been disabled"
+msgstr "판매 된 것으로 표시되지 않았습니다."
+
+msgid "has been marked as sold"
+msgstr "광고 만기"
+
+msgid "has not been marked as sold"
+msgstr "주소 데이터"
+
+msgid ""
+"Credits pack successfully saved and unpublished.You should also disable "
+"package from woo commerce if have"
+msgstr "연료 유형"
+
+msgid "Ad-Expiry"
+msgstr "조건"
+
+msgid "Address Data"
+msgstr "실린더"
+
+msgid "Fuel type"
+msgstr "연식"
+
+msgid "Condition"
+msgstr "전달"
+
+msgid "Cylinder"
+msgstr "하다"
+
+msgid "Model year"
+msgstr "차량 유형"
+
+msgid "Transmission"
+msgstr "모델"
+
+msgid "Make"
+msgstr "시티"
+
+msgid "Vehicle type"
+msgstr "들"
+
+msgid "Model"
+msgstr "금 차량"
+
+msgid "City"
+msgstr "지불 내역"
+
+msgid "Field"
+msgstr "지불 방법 설정"
+
+msgid "Gold vehicle"
+msgstr "상태"
+
+msgid "Payment History"
+msgstr "파는 사람"
+
+msgid "Payment Method Configuration"
+msgstr "구성"
+
+msgid "State"
+msgstr "이메일 템플릿"
+
+msgid "Seller"
+msgstr "꼬리표"
+
+msgid "Configuration"
+msgstr "기록"
+
+msgid "Email Template"
+msgstr "에스"
+
+msgid "Tag"
+msgstr "사용량"
+
+msgid "record"
+msgstr "사용자"
+
+msgid "s"
+msgstr "너무 이른"
+
+msgid "Mileage"
+msgstr "다음 것"
+
+msgid "User"
+msgstr "귀하의 텍스트 필드를 추가하십시오."
+
+msgid "Previous"
+msgstr "크레딧이 부족합니다.이 작업을 수행 할 수 없습니다."
+
+msgid "Next"
+msgstr "계속해서 이용 약관을 수락하십시오."
+
+msgid "Please add your text field for the "
+msgstr "모든 필수 입력란에 답변하지 않았습니다."
+
+msgid "You have insufficient credits, you can not perform this action"
+msgstr "광고 만료"
+
+msgid "Please Accept Terms And Conditions So You Can Proceed"
+msgstr "관리자"
+
+msgid "You have not answered all required fields"
+msgstr "새로운 것을 추가했다."
+
+msgid "Ad-Expiries"
+msgstr "기존을 편집하다"
+
+msgid "Administrator"
+msgstr "기록 삭제"
+
+msgid "added a new"
+msgstr "알 수 없는"
+
+msgid "edited a existing"
+msgstr "연료 유형"
+
+msgid "delete a record"
+msgstr "모델 년도"
+
+msgid "unknown"
+msgstr "삭제 된"
+
+msgid "Fuel Type"
+msgstr "신분증"
+
+msgid "Model Year"
+msgstr "사용자 이름"
+
+msgid "Deleted a"
+msgstr "참조 용"
+
+msgid "ID"
+msgstr "만들어진"
+
+msgid "User Name"
+msgstr "설정"
+
+msgid "Reference For"
+msgstr "광고 만기"
+
+msgid "Created"
+msgstr "구성"
+
+msgid "Settings"
+msgstr "신용 팩"
+
+msgid "Ad Expiry"
+msgstr "제출"
+
+msgid "Config"
+msgstr "정렬 기준"
+
+msgid "Credit Packs"
+msgstr "년"
+
+msgid "Submit"
+msgstr "달"
+
+msgid "Sort by"
+msgstr "주"
+
+msgid "Year"
+msgstr "일"
+
+msgid "Month"
+msgstr "새로운 걸 더하다"
+
+msgid "Week"
+msgstr "게시"
+
+msgid "Day"
+msgstr "널리 알려지지 않은"
+
+msgid "Add New"
+msgstr "삭제 하시겠습니까?"
+
+msgid "Publish"
+msgstr "유효 기간 값"
+
+msgid "Unpublished"
+msgstr "유형 선택"
+
+msgid "Are you sure to delete"
+msgstr "상태 선택"
+
+msgid "Expiry value"
+msgstr "상태 선택"
+
+msgid "Select type"
+msgstr "수색"
+
+msgid "Select Status"
+msgstr "다시 놓기"
+
+msgid "Select status"
+msgstr "광고 가치"
+
+msgid "Search"
+msgstr "유형"
+
+msgid "Reset"
+msgstr "태만"
+
+msgid "Ad-Value"
+msgstr "게시 됨"
+
+msgid "Type"
+msgstr "주문"
+
+msgid "Default"
+msgstr "동작"
+
+msgid "Published"
+msgstr "게시되지 않음"
+
+msgid "Ordering"
+msgstr "편집하다"
+
+msgid "Action"
+msgstr "유효 기간 값"
+
+msgid "Not Published"
+msgstr "예"
+
+msgid "Edit"
+msgstr "아니"
+
+msgid "Expiry Value"
+msgstr "구하다"
+
+msgid "Yes"
+msgstr "차량 목록"
+
+msgid "No"
+msgstr "비교"
+
+msgid "Save"
+msgstr "지난 주 통계"
+
+msgid "Vehicle List"
+msgstr "그래프"
+
+msgid "Compare"
+msgstr "총 차량"
+
+msgid "Last Week Stats"
+msgstr "주요 차량"
+
+msgid "Graph"
+msgstr "짧은 명단"
+
+msgid "Total Vehicles"
+msgstr "기타"
+
+msgid "Featured Vehicles"
+msgstr "조건 별 차량"
+
+msgid "Short Listed Vehicles"
+msgstr "윤곽"
+
+msgid "Misc"
+msgstr "도시 별 판매자"
+
+msgid "Vehicle By Condition"
+msgstr "타임 스탬프"
+
+msgid "Profile"
+msgstr "모두보기"
+
+msgid "Seller By City"
+msgstr "구매 내역"
+
+msgid "Time stamp"
+msgstr "통계"
+
+msgid "View All"
+msgstr "새로운 차량"
+
+msgid "Purchase History"
+msgstr "중고차"
+
+msgid "Stats"
+msgstr "새로운 차량 만들기"
+
+msgid "New Vehicles"
+msgstr "제조사 별 중고 차량"
+
+msgid "Used Vehicles"
+msgstr "유형별 차량"
+
+msgid "New Vehicles By Make"
+msgstr "대부분의 차량보기"
+
+msgid "Used Vehicles By Make"
+msgstr "기타"
+
+msgid "Vehicles By Type"
+msgstr "기록 저장 중 오류가 발생했습니다. 다시 시도하십시오."
+
+msgid "Most View Vehicles"
+msgstr "새 상태를 저장하는 동안 오류가 발생했습니다."
+
+msgid "Others"
+msgstr "국가를 찾을 수 없음"
+
+msgid "Error in saving records please try again"
+msgstr "이름"
+
+msgid "Error while saving new state"
+msgstr "상태 선택"
+
+msgid "Country not found"
+msgstr "위도"
+
+msgid ""
+"Location format is not correct please enter city in this format city name, "
+"country name"
+msgstr "경도"
+
+msgid "Name"
+msgstr "주"
+
+msgid "Select state"
+msgstr "개월"
+
+msgid "Latitude"
+msgstr "연령"
+
+msgid "Longitude"
+msgstr "주요 차량"
+
+msgid "Weeks"
+msgstr "최저한의"
+
+msgid "Months"
+msgstr "최고"
+
+msgid "Years"
+msgstr "승인 됨"
+
+msgid "Featured Vehicle"
+msgstr "거부 됨"
+
+msgid "Minimum"
+msgstr "모두 보이기"
+
+msgid "Maximum"
+msgstr "추천 기능 표시"
+
+msgid "Approved"
+msgstr "텍스트 필드"
+
+msgid "Rejected"
+msgstr "텍스트 영역"
+
+msgid "Show all"
+msgstr "확인란"
+
+msgid "Show featured"
+msgstr "날짜"
+
+msgid "Text Field"
+msgstr "쓰러지 다"
+
+msgid "Text Area"
+msgstr "이메일 주소"
+
+msgid "Check Box"
+msgstr "요구"
+
+msgid "Date"
+msgstr "판매자에게 보낸 메시지"
+
+msgid "Drop Down"
+msgstr "만든 날짜"
+
+msgid "Email Address"
+msgstr "이메일"
+
+msgid "Call"
+msgstr "차량 제공"
+
+msgid "Messages Sent To Sellers"
+msgstr "전화 번호"
+
+msgid "Created Date"
+msgstr "제공 가격"
+
+msgid "Email"
+msgstr "댓글"
+
+msgid "Vehicle Offers"
+msgstr "차량 테스트 드라이브"
+
+msgid "Phone Number"
+msgstr "전화"
+
+msgid "Offered Price"
+msgstr "시각"
+
+msgid "Comments"
+msgstr "색깔"
+
+msgid "Vehicle Test Drives"
+msgstr "조건 별 차량"
+
+msgid "Phone"
+msgstr "데이터 디렉토리를 비울 수 없습니다."
+
+msgid "Time"
+msgstr "데이터 디렉토리가 올바르지 않습니다."
+
+msgid "Color"
+msgstr "데이터 디렉토리에 쓸 수 없습니다."
+
+msgid "Vehicles by condition"
+msgstr "DD-mm-yyyy"
+
+msgid "Data directory can not empty."
+msgstr "mm / dd / yyyy"
+
+msgid "Data directory is not proper."
+msgstr "yyyy-mm-dd"
+
+msgid "Data directory is not writable."
+msgstr "쇼 버튼 만"
+
+msgid "dd-mm-yyyy"
+msgstr "자동 팝업 표시"
+
+msgid "mm/dd/yyyy"
+msgstr "양자 모두"
+
+msgid "yyyy-mm-dd"
+msgstr "보여 주다"
+
+msgid "Only Show Button"
+msgstr "숨는 장소"
+
+msgid "Show Auto Popup"
+msgstr "미터"
+
+msgid "Both"
+msgstr "킬로미터"
+
+msgid "Show"
+msgstr "마일즈"
+
+msgid "Hide"
+msgstr "해상 마일"
+
+msgid "Meters"
+msgstr "왼쪽 맞춤"
+
+msgid "Kilometers"
+msgstr "오른쪽 정렬"
+
+msgid "Miles"
+msgstr "왼쪽 상단"
+
+msgid "Nautical Miles"
+msgstr "오른쪽 상단"
+
+msgid "Left align"
+msgstr "중간 왼쪽"
+
+msgid "Right align"
+msgstr "중간 오른쪽"
+
+msgid "Top Left"
+msgstr "왼쪽 하단"
+
+msgid "Top Right"
+msgstr "오른쪽 하단"
+
+msgid "Middle Left"
+msgstr "왼쪽 상단"
+
+msgid "Middle Right"
+msgstr "왼쪽 아래"
+
+msgid "Bottom Left"
+msgstr "오른쪽 상단"
+
+msgid "Bottom Right"
+msgstr "오른쪽 아래"
+
+msgid "Left Top"
+msgstr "사이트 설정"
+
+msgid "Left Bottom"
+msgstr "가격"
+
+msgid "Right Top"
+msgstr "차량 세팅"
+
+msgid "Right Bottom"
+msgstr "이메일 설정"
+
+msgid "Site Settings"
+msgstr "RSS 설정"
+
+msgid "Pricing"
+msgstr "Google지도 및 애드 센스"
+
+msgid "Vehicle setting"
+msgstr "소셜 로그인"
+
+msgid "Email setting"
+msgstr "소셜 공유"
+
+msgid "RSS setting"
+msgstr "회원 링크"
+
+msgid "Google Map and Adsense"
+msgstr "방문자 링크"
+
+msgid "Social Login"
+msgstr "방문객"
+
+msgid "Social Sharing"
+msgstr "Recaptcha"
+
+msgid "Member Links"
+msgstr "빵 부스러기"
+
+msgid "Visitor Links"
+msgstr "데이터 디렉토리"
+
+msgid "Visitor"
+msgstr "시스템에서이 폴더의 모든 사용자 파일을 업로드합니다."
+
+msgid "Recaptcha"
+msgstr "날짜 형식"
+
+msgid "Breadcrumbs"
+msgstr "새 사용자에게 패키지 자동 지정"
+
+msgid "Data directory"
+msgstr "새 사용자에게 무료 패키지 할당"
+
+msgid "System will upload all user files in this folder"
+msgstr "자동 패키지 무료 승인"
+
+msgid "Date format"
+msgstr "자동 새 사용자의 무료 패키지 승인"
+
+msgid "Auto assign package to new user"
+msgstr "한 번만 무료 패키지를 구입하십시오."
+
+msgid "Auto assign free package to new user"
+msgstr "사용자는 한 번만 무료 패키지를 구입할 수 있습니다."
+
+msgid "Auto approve free package"
+msgstr "사용자가 차량을 추가 할 수 있습니다."
+
+msgid "Auto approve free package of new new user"
+msgstr "자동차 기본 만료일"
+
+msgid "Purchase free package only once"
+msgstr "기본 페이지"
+
+msgid "User can purchase free package only once"
+msgstr "차량 서재응"
+
+msgid "User can add vehicle"
+msgstr "하다"
+
+msgid "Vehicle default expiry in days"
+msgstr "모델"
+
+msgid "Default page"
+msgstr "연식"
+
+msgid ""
+"Select JS Vehicle Manager default page, on action system will redirect on "
+"selected page. If not select default page, email links and support icon "
+"might not work."
+msgstr "기본 페이지 매김 크기"
+
+msgid "Vehicle SEO"
+msgstr "페이지 당 표시 할 최대 레코드 수"
+
+msgid ""
+"Vehicle seo options are make, model, modelyear, vehicletype, condition, "
+"location"
+msgstr "기본 반지름 유형"
+
+msgid "make"
+msgstr "기본 반경 유형"
+
+msgid "model"
+msgstr "기본 주소 표시 스타일"
+
+msgid "model year"
+msgstr "사용자가 도시를 추가 할 수 있습니다."
+
+msgid "Default pagination size"
+msgstr "도시 필드에 대한 최대 레코드"
+
+msgid "Maximum number of records show per Page"
+msgstr "도시 필드에 대한 최대 레코드보기"
+
+msgid "Default radius type"
+msgstr "허용 된 업로드 파일 크기"
+
+msgid "Default Radius Type"
+msgstr "KB 단위의 파일 크기"
+
+msgid "Default address display style"
+msgstr "허용 된 확장 유형"
+
+msgid "User can add city"
+msgstr "업로드 파일에 허용되는 파일 확장명 유형"
+
+msgid "Maximum record for city field"
+msgstr "브로셔 파일 형식 업로드"
+
+msgid "Show maximum records for city field"
+msgstr "예를 들어"
+
+msgid "Allowed upload file size"
+msgstr "사용자 등록 재 지정"
+
+msgid "File size in kb"
+msgstr "새 사용자 등록 리디렉션 페이지"
+
+msgid "Allowed extensions type"
+msgstr "가격 표기법"
+
+msgid "Allowed file extensions types for upload files"
+msgstr "통화 기호 위치"
+
+msgid "Upload file types for brochure"
+msgstr "시스템에서 사용 가능한 통화는 다음에서 관리 할 수 ​​있습니다."
+
+msgid "For example"
+msgstr "이리"
+
+msgid "User register redirect"
+msgstr "소수점 이후의 가격 번호"
+
+msgid "New user register redirect page"
+msgstr "가격 소수 구분 기호"
+
+msgid "Price Notations"
+msgstr "가격 천 단위 구분 기호"
+
+msgid "Currency symbol position"
+msgstr "차량 설정"
+
+msgid "The available currencies in the system can be managed from"
+msgstr "판매 된 차량 표시"
+
+msgid "here"
+msgstr "차량 목록에 판매 된 차량을 표시하십시오."
+
+msgid "Price number after decimal Point"
+msgstr "특색 지어진 차량보기"
+
+msgid "Price decimal separator"
+msgstr "차량 목록에 특색있는 차량 표시"
+
+msgid "Price thousand separator"
+msgstr "차량 경보 제한"
+
+msgid "Vehicle Settings"
+msgstr "사용자에 대한 최대 차량 알림"
+
+msgid "Show sold vehicles"
+msgstr "차량 경고 동작 버튼"
+
+msgid "Show sold vehicles in vehicle listing"
+msgstr "차량 검색 후 차량 경고 표시 유형 표시"
+
+msgid "Show featured vehicles"
+msgstr "차량 경고 팝업 지연"
+
+msgid "Show featured vehicles in vehicle listings"
+msgstr "팝업 지연 (초)"
+
+msgid "Limit vehicle alerts"
+msgstr "차량 당 최대 이미지"
+
+msgid "Maximum vehicles alerts for user"
+msgstr "차량 당 최대 업로드 이미지"
+
+msgid "Vehicle alert action button"
+msgstr "차량 자동 승인"
+
+msgid "Show vehicle alert display type after search vehicle"
+msgstr "차량 자동 승인"
+
+msgid "Vehicle alert popup delay"
+msgstr "주요 차량 자동 승인"
+
+msgid "Popup delay in seconds"
+msgstr "특색 지어진 차량의 수"
+
+msgid "Maximum images per vehicle"
+msgstr "차량 목록에 특색있는 차량 수 표시"
+
+msgid "Maximum upload images per vehicle"
+msgstr "행당 차량 유형"
+
+msgid "Vehicle auto approve"
+msgstr "차량 이미지에 워터 마크 추가"
+
+msgid "Vehicle Auto Approve"
+msgstr "워터 마크 추가 여부 선택"
+
+msgid "Featured vehicle auto approve"
+msgstr "워터 마크 이미지"
+
+msgid "Number of featured vehicles"
+msgstr "워터 마크로 사용하려는 이미지 선택"
+
+msgid "Show number of featured vehicles in vehicle listings"
+msgstr "워터 마크 위치"
+
+msgid "Vehicle type per row"
+msgstr "워터 마크 위치 선택"
+
+msgid "Add Watermark To Vehicle Images"
+msgstr "방문자 설정"
+
+msgid "Select Whether To Add Watermark Or Not"
+msgstr "방문자가 차량을 추가 할 수 있습니다."
+
+msgid "Watermark Image"
+msgstr "방문자 추가 차량 리디렉션 페이지"
+
+msgid "Select The Image You Want To Use As Watermark"
+msgstr "방문자가 새 차량을 추가 할 때 방문자를 리디렉션 할 위치"
+
+msgid "Watermark Position"
+msgstr "PDF"
+
+msgid "Select Position Of Watermark"
+msgstr "인쇄"
+
+msgid "Visitors Settings"
+msgstr "상세 검색 태그 위치"
+
+msgid "Visitor can add vehicle"
+msgstr "판매자 이미지"
+
+msgid "Visitor add vehicle redirect page"
+msgstr "구글지도"
+
+msgid "Where to redirect visitor when visitor adds a new vehicle"
+msgstr "기본 경도"
+
+msgid "PDF"
+msgstr "기본 경도"
+
+msgid "Print"
+msgstr "기본 위도"
+
+msgid "Refine Search Tag Position"
+msgstr "기본 위치 찾기"
+
+msgid "Seller Image"
+msgstr "Google지도 API 키"
+
+msgid "Google Map"
+msgstr "API 키 가져 오기"
+
+msgid "Default longitude"
+msgstr "애드 센스"
+
+msgid "Default Longitude"
+msgstr "Google이 목록 차량에 추가 표시"
+
+msgid "Default latitude"
+msgstr "Google 애드 센스 고객 ID"
+
+msgid "Default Latitude"
+msgstr "Google 애드 센스 슬롯 ID"
+
+msgid "Google map API key"
+msgstr "Google은 차량 수 이후에 쇼를 추가합니다."
+
+msgid "Get API key from"
+msgstr "Google에서 너비 추가"
+
+msgid "Adsense"
+msgstr "구글은 높이를 더한다."
+
+msgid "Show google adds in list vehicle"
+msgstr "Google은 맞춤 CSS를 추가합니다."
+
+msgid "Google adsense client id"
+msgstr "보낸 사람 전자 메일 주소"
+
+msgid "Google adsense slot id"
+msgstr "기본 발신자 이메일"
+
+msgid "Google adds show after number of vehicles"
+msgstr "이메일 발신자 이름"
+
+msgid "Google adds width"
+msgstr "기본 전자 메일 보낸 사람 이름"
+
+msgid "Google adds height"
+msgstr "관리자 이메일 주소"
+
+msgid "Google adds custom css"
+msgstr "관리자 이메일"
+
+msgid "Sender email address"
+msgstr "RSS"
+
+msgid "Default sender email"
+msgstr "차량 RSS"
+
+msgid "Email sender name"
+msgstr "웹 마스터"
+
+msgid "Default Email Sender Name"
+msgstr "피드의 제목을 제공해야합니다."
+
+msgid "Admin email address"
+msgstr "피드에 대한 설명을 제공해야합니다."
+
+msgid "Admin Email"
+msgstr "저작권"
+
+msgid "RSS"
+msgstr "숨기려면 비워 둡니다."
+
+msgid "Vehicle RSS"
+msgstr "차량 이미지 표시"
+
+msgid "Webmaster"
+msgstr "피드에 차량 이미지 표시"
+
+msgid "Must provide title for feed"
+msgstr "편집자"
+
+msgid "Must provide description for feed"
+msgstr "피드 콘텐츠 문제에 사용 된 편집기를 숨기려면 비워 둡니다."
+
+msgid "Copyright"
+msgstr "살기위한 시간"
+
+msgid "Leave blank to hide"
+msgstr "사료 공급 시간"
+
+msgid "Show vehicle image"
+msgstr "웹 마스터"
+
+msgid "Show vehicle image in feeds"
+msgstr "기술 문제에 사용 된 웹 마스터를 숨기려면 비워 둡니다."
+
+msgid "Editor"
+msgstr "차량 상태 표시"
+
+msgid "Leave blank to hide editor used for feed content issue"
+msgstr "피드의 조건에 따라 차량을 분류합니다."
+
+msgid "Time to live"
+msgstr "페이스 북"
+
+msgid "Time to live for feed"
+msgstr "페이스 북으로 로그인"
+
+msgid "Web master"
+msgstr "Facebook 사용자는 js 차량 관리자로 로그인 할 수 있습니다."
+
+msgid "Leave blank to hide webmaster used for technical issue"
+msgstr "API 키"
+
+msgid "Show Vehicle Condition"
+msgstr "API 키는 Facebook 앱에 필요합니다."
+
+msgid "Categorize vehicle by condition in feeds"
+msgstr "비밀"
+
+msgid "Facebook"
+msgstr "링크드 인"
+
+msgid "Login with facebook"
+msgstr "linkedin으로 로그인"
+
+msgid "Facebook user can login in js vehicle manager"
+msgstr "Linkedin 사용자는 js 차량 관리자에 로그인 할 수 있습니다."
+
+msgid "API Key"
+msgstr "linkedin 앱에는 API 키가 필요합니다."
+
+msgid "API key is required for facebook app"
+msgstr "싱"
+
+msgid "Secret"
+msgstr "Xing으로 로그인"
+
+msgid "Linkedin"
+msgstr "싱 사용자는 js 차량 관리자에 로그인 할 수 있습니다."
+
+msgid "Login with linkedin"
+msgstr "xing 앱에는 API 키가 필요합니다."
+
+msgid "Linkedin user can login in js vehicle manager"
+msgstr "소셜 미디어"
+
+msgid "API key is required for linkedin app"
+msgstr "텀블러 점유율"
+
+msgid "Xing"
+msgstr "Facebook 공유"
+
+msgid "Login with Xing"
+msgstr "Google 공유"
+
+msgid "Xing user can login in js vehicle manager"
+msgstr "Blogger 공유"
+
+msgid "API key is required for xing app"
+msgstr "Instagram 공유"
+
+msgid "Social Media"
+msgstr "링크드 인 공유"
+
+msgid "Tumbler share"
+msgstr "Digg 공유"
+
+msgid "Facebook share"
+msgstr "Twitter 공유"
+
+msgid "Google share"
+msgstr "Pintrest 공유"
+
+msgid "Blogger share"
+msgstr "사용자 톱 메뉴 링크"
+
+msgid "Instagram share"
+msgstr "자동차 제조사 별"
+
+msgid "Linkedin share"
+msgstr "사용자 대시 보드 링크"
+
+msgid "Digg share"
+msgstr "로그 아웃"
+
+msgid "Twitter share"
+msgstr "방문자 톱 메뉴 링크"
+
+msgid "Pintrest share"
+msgstr "방문자 대시 보드 링크"
+
+msgid "User Top Menu Links"
+msgstr "차량 로그인 메시지 추가"
+
+msgid "Vehicle By Make"
+msgstr "판매자 수"
+
+msgid "User Dashboard Links"
+msgstr "나라 이름"
+
+msgid "Logout"
+msgstr "도시 별 차량"
+
+msgid "Visitor Top Menu Links"
+msgstr "차량 수"
+
+msgid "Visitor Dashboard Links"
+msgstr "구매자가 판매자에게 연락 할 수 있음"
+
+msgid "Add Vehicle Login Message"
+msgstr "모델 연도의 위치"
+
+msgid "Seller Count"
+msgstr "공개 키"
+
+msgid "Country Name"
+msgstr "비공개 키"
+
+msgid "Vehicle By City"
+msgstr "방문자 활성화"
+
+msgid "Vehicle Count"
+msgstr "Recaptcha 사용 안 함"
+
+msgid "Buyer Can Contact Seller"
+msgstr "판매자에게 문의"
+
+msgid "Position Of Model Year"
+msgstr "차량 형태"
+
+msgid "Public Key"
+msgstr "등록 양식"
+
+msgid "Private Key"
+msgstr "Webcrown.org"
+
+msgid "Visitor Enable"
+msgstr "Wget"
+
+msgid "Disable Recaptcha"
+msgstr "컬"
+
+msgid "Contact To Seller"
+msgstr "PHP 스크립트"
+
+msgid "Vehicle Form"
+msgstr "웹 사이트"
+
+msgid "Registration Form"
+msgstr "권장 실행 스크립트는 하루에 한 번"
+
+msgid "Webcrown.org"
+msgstr "다음을 사용하여 백업 작업 구성"
+
+msgid "Wget"
+msgstr "Cronjob의 이름"
+
+msgid "Curl"
+msgstr "로그인"
+
+msgid "Php Script"
+msgstr "크론 지역"
+
+msgid "Website"
+msgstr "새 Cron 버튼 클릭"
+
+msgid "Recommended run script once a day"
+msgstr "아래에 입력해야 할 것을 찾을 것입니다"
+
+msgid "Configuration Of A Backup Job With"
+msgstr "인터페이스"
+
+msgid "Name Of Cron Job"
+msgstr "제한 시간"
+
+msgid "Log In To"
+msgstr "백업이 완료되지 않으면 180 초"
+
+msgid "In The Cron Area"
+msgstr "그것을 늘리십시오."
+
+msgid "Click On The New Cron Button"
+msgstr "대부분의 사이트는 180 또는 600의 설정으로 작동합니다."
+
+msgid "Below You will Find What You Have To Enter At"
+msgstr "훨씬 더 비용 효율적."
+
+msgid "Interface"
+msgstr "실행하려는 URL"
+
+msgid "Timeout"
+msgstr "이 비워두기"
+
+msgid "180 sec If The Backup Does Not Complete"
+msgstr "암호"
+
+msgid "Increase It"
+msgstr "실행 시간"
+
+msgid "Most Sites Will Work With A Setting Of 180 Or 600 Here"
+msgstr "그 밖의 옵션보다 아래의 눈금"
+
+msgid ""
+"If You Have A Very Big Site Which Takes More Than 5 Minutes To Back Itself Up"
+msgstr "언제 그리고 얼마나 자주 Cron 작업을 실행할지 선택하십시오."
+
+msgid ""
+"You Might Consider Using Akeeba Backup Professional And The Native Cli Cron "
+"Job Instead"
+msgstr "알리미"
+
+msgid "As Its Much More Cost-effective."
+msgstr "이미 경고 메소드를 설정 한 경우"
+
+msgid "Url You Want To Execute"
+msgstr "마지막으로 제출 단추를 클릭하여 Cron 작업 설정을 완료하십시오."
+
+msgid "Leave This Blank"
+msgstr "Wget 대부분의 호스트를 사용하는 Cron 스케줄링"
+
+msgid "Password"
+msgstr "컬 사이트 그라운드와 기타 다른 호스트를 사용하는 크론 스케줄링"
+
+msgid "Execution Time"
+msgstr "또는"
+
+msgid "Thats The Grid Below The Other Options"
+msgstr "사용자 지정 PHP 스크립트 실행"
+
+msgid "Select When And How Often You Want Your Cron Job To Run."
+msgstr "죄송합니다"
+
+msgid "Alerts"
+msgstr "백업이 작동하지 않습니다."
+
+msgid "If You Have Already Set Up Alert Methods In"
+msgstr "나만의 스크립트 및 타사 서비스와 함께 사용하기위한 URL"
+
+msgid ""
+"We Recommend Choosing An Alert Method Here And Not Checking The only On "
+"Error So That You Always Get A Notification When The Backup Cron Job Runs"
+msgstr "상태 있음"
+
+msgid "Finally Click On The Submit Button To Finish Setting Up Your Cron Job."
+msgstr "도시가있다."
+
+msgid "Cron Scheduling Using Wget most Hosts"
+msgstr "비용"
+
+msgid "Cron Scheduling Using Curl siteground And A Few Other Hosts"
+msgstr "만료"
+
+msgid "Or"
+msgstr "지위"
+
+msgid "Custom Php Script To Run"
+msgstr "액션"
+
+msgid "Sorry"
+msgstr "만료일을 정의 할 수 있습니다. 즉"
+
+msgid "    The Backup Did Not Work."
+msgstr "차량은 30 일 후에 만료됩니다."
+
+msgid "Url For Use With Your Own Scripts And Third Party Services"
+msgstr "추천 차량은 30 일 후에 만료됩니다."
+
+msgid "Has states"
+msgstr "액션 선택"
+
+msgid "Has cities"
+msgstr "일 만료"
+
+msgid "Cost"
+msgstr "기한이 만료됩니다."
+
+msgid "Expiry"
+msgstr "얼마나 많은 크레딧이 필요한가"
+
+msgid "Status"
+msgstr "유효하지 않은 입력"
+
+msgid "Action For"
+msgstr "추천 기능에 추가되었습니다."
+
+msgid ""
+"Configure your credit system. How much credits required for action. if you "
+"don't enter any credit. it will be free"
+msgstr "새 차량"
+
+msgid "You can define expiry date of action. i.e"
+msgstr "추가 완료"
+
+msgid "Vehicle will be expire in 30 days"
+msgstr "관리자"
+
+msgid "Featured Vehicle will be expire in 30 days"
+msgstr "신용 중고"
+
+msgid "Select action"
+msgstr "시작 날짜"
+
+msgid "Expire in Days"
+msgstr "종료"
+
+msgid "will be expire"
+msgstr "액션 온"
+
+msgid "How much credits required for"
+msgstr "날짜와 시간"
+
+msgid "Invalid Entry"
+msgstr "합계"
+
+msgid "added to featured successfully"
+msgstr "지출"
+
+msgid "New vehicle"
+msgstr "남은"
+
+msgid "added successfully"
+msgstr "크레딧 시작"
+
+msgid "By Admin"
+msgstr "크레딧 끝내기"
+
+msgid "Credit Used"
+msgstr "시작 가격"
+
+msgid "Start Date"
+msgstr "최종 가격"
+
+msgid "End"
+msgstr "떨어져서"
+
+msgid "Action On"
+msgstr "양"
+
+msgid "Date and Time"
+msgstr "할인은 더 높지 않을 수 있고 그 후에 가격"
+
+msgid "Total"
+msgstr "두 할인 날짜를 모두 선택하십시오."
+
+msgid "Spent"
+msgstr "할인 값을 입력하십시오"
+
+msgid "Remaining"
+msgstr "할인 시작일이 할인 종료일보다 큼"
+
+msgid "Start Credits"
+msgstr "가격"
+
+msgid "End Credits"
+msgstr "통화 선택"
+
+msgid "Start Price"
+msgstr "할인"
+
+msgid "End Price"
+msgstr "할인 유형"
+
+msgid "off"
+msgstr "할인 시작일"
+
+msgid "Amount"
+msgstr "할인 종료일"
+
+msgid "Discount Cannot Be Higher Then Price"
+msgstr "할인 메시지"
+
+msgid "Please Select Both Discount Dates"
+msgstr "일 안에 패키지 만료"
+
+msgid "Please Enter Discount Value"
+msgstr "구입처"
+
+msgid "Discount Start Date Is Greater Than Discount End Date"
+msgstr "지금 구입"
+
+msgid "Price"
+msgstr "만료일"
+
+msgid "Select currency"
+msgstr "통화"
+
+msgid "Discount"
+msgstr "상징"
+
+msgid "Discount Type"
+msgstr "암호"
+
+msgid "Discount Start Date"
+msgstr "사용자 입력란"
+
+msgid "Discount End Date"
+msgstr "라디오 버튼"
+
+msgid "Discount Message"
+msgstr "종속 필드"
+
+msgid "Package Expire in Days"
+msgstr "파일 업로드"
+
+msgid "Buy With"
+msgstr "다중 선택"
+
+msgid "Buy Now"
+msgstr "텍스트 에디터"
+
+msgid "Expire Days"
+msgstr "필드 유형"
+
+msgid " Currency "
+msgstr "입력란 유형 선택"
+
+msgid "Symbol"
+msgstr "부모 필드"
+
+msgid "Code"
+msgstr "분야 명"
+
+msgid "User Field"
+msgstr "필드 제목"
+
+msgid "Radio Button"
+msgstr "목록에 표시"
+
+msgid "Dependent Field"
+msgstr "목록에 표시 선택"
+
+msgid "upload file"
+msgstr "섹션"
+
+msgid "Multi Select"
+msgstr "섹션 선택"
+
+msgid "Text Editor"
+msgstr "읽기 전용"
+
+msgid "Field Type"
+msgstr "읽기 전용 선택"
+
+msgid "Select field type"
+msgstr "사용자 게시"
+
+msgid "Parent Field"
+msgstr "게시 선택"
+
+msgid "Field Name"
+msgstr "방문자가 게시 함"
+
+msgid "Field Title"
+msgstr "게시 된 방문자 선택"
+
+msgid "Show on listing"
+msgstr "사용자 검색"
+
+msgid "Select show on listing"
+msgstr "사용자 검색 선택"
+
+msgid "Section"
+msgstr "방문자 검색"
+
+msgid "Select section"
+msgstr "방문자 검색 선택"
+
+msgid "Read Only"
+msgstr "필수"
+
+msgid "Select read only"
+msgstr "필수 선택"
+
+msgid "User Published"
+msgstr "필드 크기"
+
+msgid "Select published"
+msgstr "자바 스크립트"
+
+msgid "Visitor Published"
+msgstr "최대 길이"
+
+msgid "Select visitor published"
+msgstr "열"
+
+msgid "User Search"
+msgstr "행"
+
+msgid "Select user search"
+msgstr "새 값을 추가하려면 아래 표를 사용하십시오."
+
+msgid "Visitor Search"
+msgstr "샘플 텍스트"
+
+msgid "Select visitor search"
+msgstr "값을 추가"
+
+msgid "Required"
+msgstr "값"
+
+msgid "Select required"
+msgstr "사용자 필드"
+
+msgid "Field Size"
+msgstr "사용자 필드 추가"
+
+msgid "Java Script"
+msgstr "필요 없음"
+
+msgid "Max Length"
+msgstr "실린더"
+
+msgid "Columns"
+msgstr "대기중인"
+
+msgid "Rows"
+msgstr "제거됨"
+
+msgid "Use The Table Below To Add New Values"
+msgstr "추천을 위해 거부 됨"
+
+msgid "Sample Text"
+msgstr "추천을 위해 승인 됨"
+
+msgid "Add Value"
+msgstr "추천을 위해 삭제됨"
+
+msgid "Value"
+msgstr "보류중인 보류 중"
+
+msgid "User Fields"
+msgstr "차량 대기열"
+
+msgid "Add User Field"
+msgstr "꾸러미 세부 사항"
+
+msgid "Not Required"
+msgstr "방문자 차량"
+
+msgid " Cylinders "
+msgstr "제목"
+
+msgid "Pending"
+msgstr "신체"
+
+msgid "Removed"
+msgstr "매개 변수"
+
+msgid "rejected for featured"
+msgstr "판매자 이름"
+
+msgid "approved for featured"
+msgstr "차량 제목"
+
+msgid "removed for featured"
+msgstr "차량 위치"
+
+msgid "pending for featured"
+msgstr "차량 상태"
+
+msgid ""
+"Due to rejection of vehicle you have not permission to see vehicle detail"
+msgstr "자동차 크레딧"
+
+msgid ""
+"Due to pending status of vehicle you have not permission to see vehicle "
+"detail"
+msgstr "차량 링크"
+
+msgid "Vehicles Queue"
+msgstr "차량 승인 또는 거부"
+
+msgid "Package Detail"
+msgstr "패키지 이름"
+
+msgid "Visitor Vehicle"
+msgstr "패키지 가격"
+
+msgid "Subject"
+msgstr "패키지 구매 일"
+
+msgid "Body"
+msgstr "패키지 링크"
+
+msgid "Parameters"
+msgstr "내 대시 보드 링크"
+
+msgid "Seller name"
+msgstr "알림 기준과 일치하는 차량 목록"
+
+msgid "Vehicle title"
+msgstr "발신자 이름"
+
+msgid "Vehicle location"
+msgstr "귀하의 웹 사이트 이름"
+
+msgid "Vehicle status"
+msgstr "발신자 메시지"
+
+msgid "Vehicle credits"
+msgstr "고객 이름"
+
+msgid "Vehicle link"
+msgstr "고객 이메일 주소"
+
+msgid "Vehicle approve or reject"
+msgstr "고객 모바일 번호"
+
+msgid "Package name"
+msgstr "고객이 제공 한 가격"
+
+msgid "Package price"
+msgstr "고객 메시지"
+
+msgid "Package purchase date"
+msgstr "드라이브 날짜 테스트"
+
+msgid "Package link"
+msgstr "드라이브 시간 테스트"
+
+msgid "My dashboard link"
+msgstr "발신자가 보낸 메시지"
+
+msgid "Vehicles list that match your alert criteria"
+msgstr "이메일 템플릿 옵션"
+
+msgid "Sender name"
+msgstr "방문 판매자"
+
+msgid "Your website name"
+msgstr "새 차량 추가"
+
+msgid "Sender message"
+msgstr "이메일을 보내"
+
+msgid "Customer name"
+msgstr "이메일을 보내지 마라."
+
+msgid "Customer Email Address"
+msgstr "여러 가지 잡다한"
+
+msgid "Customer mobile no"
+msgstr "크레딧 팩 구입"
+
+msgid "Customer offered price"
+msgstr "만료 크레딧 팩"
+
+msgid "Customer message"
+msgstr "상위 필드 선택"
+
+msgid "Test Drive Date"
+msgstr "입력란 수정"
+
+msgid "Test Drive Time"
+msgstr "방문자가 게시 됨"
+
+msgid "Message from sender"
+msgstr "이용 약관 페이지"
+
+msgid "Email Templates Options"
+msgstr "목록에 표시"
+
+msgid "Visitor Seller"
+msgstr "많은"
+
+msgid "Add new vehicle"
+msgstr "현장 주문"
+
+msgid "Send email"
+msgstr "사용자 게시"
+
+msgid "Do not send email"
+msgstr "게시되지 않은 사용자"
+
+msgid "Miscellaneous"
+msgstr "방문자 게시"
+
+msgid "Purchase Credits Pack"
+msgstr "방문객 미공개"
+
+msgid "Expire Credits Pack"
+msgstr "사용자 상태 선택"
+
+msgid "Select parent field"
+msgstr "방문자 상태 선택"
+
+msgid "Edit Field"
+msgstr "게시 취소 할 수 없습니다."
+
+msgid "Visitor published"
+msgstr "필요하지 않음"
+
+msgid "Terms And Conditions Page"
+msgstr "파일 업로드"
+
+msgid "Show On Listing"
+msgstr "편집 섹션에서는 섹션을 변경할 수 없습니다."
+
+msgid "Advanced"
+msgstr "차량 옵션"
+
+msgid "Field Ordering"
+msgstr "날짜"
+
+msgid "User Publish"
+msgstr "모든 차량"
+
+msgid "User Unpublished"
+msgstr "활성 차량"
+
+msgid "Visitor Publish"
+msgstr "만료 된 차량"
+
+msgid "Visitor Unpublished"
+msgstr "자동차가 만든다"
+
+msgid "Select user status"
+msgstr "자동차 판매"
+
+msgid "Select visitor status"
+msgstr "만료 된 차량"
+
+msgid "Cannot unpublished"
+msgstr "그래프를 표시 할 데이터가 충분하지 않습니다."
+
+msgid "Cannot required"
+msgstr "활성 차량"
+
+msgid "Upload File"
+msgstr "Dir은 쓰기 가능하지 않습니다."
+
+msgid "Section cannot be changeable in edit case"
+msgstr "서버에 연결할 수 없습니다."
+
+msgid "Vehicle Option"
+msgstr "언어가 설치되지 않았습니다."
+
+msgid "Dates"
+msgstr "언어 디렉토리에 쓸 수 없습니다."
+
+msgid "All vehicles"
+msgstr "필요한 언어가 설치되지 않았지만 비슷한 언어 [s]가 설치되었습니다."
+
+msgid "Active vehicles"
+msgstr "귀하의 시스템에서 발견되었습니다."
+
+msgid "Expired vehicles"
+msgstr "언어 코드"
+
+msgid "Vehicle By Makes"
+msgstr "빈 값"
+
+msgid "Sold Vehicles"
+msgstr "파일에 쓸 수 없습니다."
+
+msgid "Expired Vehicles"
+msgstr "파일 다운로드 성공"
+
+msgid "Not enough data to show graph"
+msgstr "시스템이 최신 버전입니다."
+
+msgid "Active Vehicles"
+msgstr "새 버전을 사용할 수 있습니다."
+
+msgid "Dir is not writable"
+msgstr "서버에 연결할 수 없습니다."
+
+msgid "Unable to connect to server"
+msgstr "총 차량"
+
+msgid "Language is not installed"
+msgstr "통계"
+
+msgid "Language directory is not writable"
+msgstr "차량 분야"
+
+msgid "Required language is not installed but similar language[s] like"
+msgstr "시스템 오류"
+
+msgid "is found in your system"
+msgstr "번역"
+
+msgid "Language code"
+msgstr "지불 방법"
+
+msgid "Empty values"
+msgstr "테마"
+
+msgid "File is not writable"
+msgstr "최신 차량"
+
+msgid "File Downloaded Successfully"
+msgstr "이메일 템플릿"
+
+msgid "Your System Is Up To Date"
+msgstr "연료 유형"
+
+msgid "New Version Is Available"
+msgstr "보고서 및 내보내기"
+
+msgid "Unable Connect To Server"
+msgstr "수출"
+
+msgid "Total vehicles"
+msgstr "지원하다"
+
+msgid "Statistics"
+msgstr "선적 서류 비치"
+
+msgid "Vehicle Fields"
+msgstr "법정"
+
+msgid "System Errors"
+msgstr "구성 요소 세부 정보"
+
+msgid "Translations"
+msgstr "작성자"
+
+msgid "Payment Methods"
+msgstr "회사"
+
+msgid "Themes"
+msgstr "플러그인"
+
+msgid "Newest Vehicles"
+msgstr "번역"
+
+msgid "Email template"
+msgstr "유효한"
+
+msgid "Fuel types"
+msgstr "Contorl 패널"
+
+msgid "Reports and Export"
+msgstr "짧은 코드"
+
+msgid "Export"
+msgstr "이 단축 번호는 차량 목록 페이지입니다."
+
+msgid "Support"
+msgstr "차량 검색"
+
+msgid "Documentation"
+msgstr "이 단축 번호는 차량 검색 페이지 용입니다."
+
+msgid "Forum"
+msgstr "이 단축 코드는 차량 페이지 추가를위한 것입니다."
+
+msgid "Component Details"
+msgstr "이 단축 번호는 내 차량을위한 것입니다."
+
+msgid "Created By"
+msgstr "이 단축 코드는 contorl 패널 용입니다."
+
+msgid "Company"
+msgstr "이 단축 코드는 차량 비교 페이지입니다."
+
+msgid "Plugins"
+msgstr "이 단축 번호는 선정 된 차량 목록 페이지입니다."
+
+msgid "Version"
+msgstr "이 단축 번호는 도시 페이지 별 차량용 단축 코드입니다."
+
+msgid "Active"
+msgstr "이 단축 코드는 유형별 차량 페이지입니다."
+
+msgid "Control Panel"
+msgstr "이 단축 코드는 차량용 페이지입니다."
+
+msgid "Shortcode"
+msgstr "이 단축 번호는 판매자 목록 페이지입니다."
+
+msgid "This shortcode is for vehicle listing page"
+msgstr "이 단축 번호는 도시 페이지 별 판매자 용입니다."
+
+msgid "Vehicle Search"
+msgstr "이 단축 코드는 크레딧 팩 페이지입니다."
+
+msgid "This shortcode is for vehicle Search page"
+msgstr "이 단축 코드는 크레딧 요율 목록 페이지입니다."
+
+msgid "This shortcode is for add vehicle page"
+msgstr "이 단축 코드는 purcase 기록 페이지입니다."
+
+msgid "This shortcode is for my vehicles"
+msgstr "이 단축 코드는 크레딧 로그 페이지입니다."
+
+msgid "This shortcode is for control panel"
+msgstr "차량 경고"
+
+msgid "This shortcode is for compare vehicles page"
+msgstr "이 단축 코드는 차량 경고 페이지 용입니다."
+
+msgid "This shortcode is for shortlisted vehicles listing page"
+msgstr "이 단축 코드는 로그인 페이지 용입니다."
+
+msgid "This shortcode is for vehicles by city page"
+msgstr "Dir 유효성 검사 안함"
+
+msgid "This shortcode is for vehicles by types page"
+msgstr "Temp 디렉터리가 유효하지 않음"
+
+msgid "This shortcode is for vehicles by makes page"
+msgstr "테이블 만들기 유효성 검사 안 함"
+
+msgid "This shortcode is for sellers listing page"
+msgstr "레코드를 삽입하지 않음"
+
+msgid "This shortcode is for sellers by city page"
+msgstr "레코드 업데이트 유효성 검사 안 함"
+
+msgid "This shortcode is for credits pack page"
+msgstr "레코드 삭제 검증 안함"
+
+msgid "This shortcode is for credits rate list page"
+msgstr "드롭 테이블 미확인"
+
+msgid "This shortcode is for purchase history page"
+msgstr "다운로드 한 파일이 유효하지 않음"
+
+msgid "This shortcode is for credits log page"
+msgstr "CURL이 유효하지 않음"
+
+msgid "Vehicle Alerts"
+msgstr "GD lib 유효성을 검사하지 않음"
+
+msgid "This shortcode is for vehicles alerts page"
+msgstr "ZIP lib 검증 안함"
+
+msgid "This shortcode is for login page"
+msgstr "활성화 키를 입력하고 시작을 누르십시오."
+
+msgid "Dir Not Validate"
+msgstr "열쇠 기억하기"
+
+msgid "Temp directory Not Validate"
+msgstr "몇 분이 걸릴 수 있습니다."
+
+msgid "Create table Not Validate"
+msgstr "이 작업에는 몇 분이 걸릴 수 있습니다."
+
+msgid "insert record Not Validate"
+msgstr "프리셋 테마"
+
+msgid "update record Not Validate"
+msgstr "색상 선택기"
+
+msgid "delete record Not Validate"
+msgstr "색상 1"
+
+msgid "drop table Not Validate"
+msgstr "톱 메뉴 표제 배경"
+
+msgid "file downloaded Not Validate"
+msgstr "색상 2"
+
+msgid "CURL Not Validate"
+msgstr "맨 위 헤더 행 색상"
+
+msgid "GD lib Not Validate"
+msgstr "버튼 가리개"
+
+msgid "ZIP lib Not Validate"
+msgstr "제목 텍스트"
+
+msgid "Please Insert Activation Key And Press Start"
+msgstr "색상 3"
+
+msgid "Remember Key"
+msgstr "콘텐츠 배경색"
+
+msgid "It may take few minutes"
+msgstr "색상 4"
+
+msgid "This may take few minutes"
+msgstr "콘텐츠 텍스트 색상"
+
+msgid "Preset Theme"
+msgstr "색상 5"
+
+msgid "Color Chooser"
+msgstr "테두리 색상"
+
+msgid "Color 1"
+msgstr "윤곽"
+
+msgid "Top menu heading background"
+msgstr "색상 6"
+
+msgid "Color 2"
+msgstr "버튼 색상"
+
+msgid "Top header line color"
+msgstr "색상 7"
+
+msgid "Button Hover"
+msgstr "위쪽 머리글 텍스트 색"
+
+msgid "Heading text"
+msgstr "색상 8"
+
+msgid "Color 3"
+msgstr "테마"
+
+msgid "Content Background Color"
+msgstr "내 차량 관리자"
+
+msgid "Color 4"
+msgstr "더하다"
+
+msgid "Content Text Color"
+msgstr "중고차"
+
+msgid "Color 5"
+msgstr "내 차량"
+
+msgid "Border color"
+msgstr "BMW 4"
+
+msgid "Lines"
+msgstr "시리즈"
+
+msgid "Color 6"
+msgstr "$"
+
+msgid "Button Color"
+msgstr "1,200,000"
+
+msgid "Color 7"
+msgstr "04-10-2016"
+
+msgid "Top header text color"
+msgstr "40"
+
+msgid "Color 8"
+msgstr "KM"
+
+msgid "Theme"
+msgstr "30"
+
+msgid "My vehicle manager"
+msgstr "위치:"
+
+msgid "Add "
+msgstr "Gujranwala, Punjab Pakistan"
+
+msgid "Used Vehicle"
+msgstr "외장 컬러 :"
+
+msgid "My Vehicle"
+msgstr "푸른"
+
+msgid "BMW 4"
+msgstr "새로운"
+
+msgid " SERIES"
+msgstr "자동화 됨"
+
+msgid "$"
+msgstr "CNG"
+
+msgid "1,20,000"
+msgstr "1200"
+
+msgid "04-10-2016"
+msgstr "1.2"
+
+msgid "40"
+msgstr "검은"
+
+msgid "KM"
+msgstr "민트"
+
+msgid "30"
+msgstr "빨간"
+
+msgid "Location:"
+msgstr "아쿠아"
+
+msgid "Gujranwala, Punjab Pakistan"
+msgstr "청바지"
+
+msgid "Exterior Color:"
+msgstr "잔디"
+
+msgid "Blue"
+msgstr "그레이프 프루트"
+
+msgid "New"
+msgstr "라벤더"
+
+msgid "Automated"
+msgstr "차량 관리자 번역 가져 오기"
+
+msgid "CNG"
+msgstr "번역 가져 오기"
+
+msgid "1200"
+msgstr "번역 선택"
+
+msgid "1.2"
+msgstr "번역에 기여"
+
+msgid "Black"
+msgstr "수동 다운로드"
+
+msgid "Mint"
+msgstr "계정에 로그인하십시오."
+
+msgid "Red"
+msgstr "사용자 이름"
+
+msgid "Aqua"
+msgstr "나에게 로그인 유지"
+
+msgid "Blue Jeans"
+msgstr "심벌 마크"
+
+msgid "Grass"
+msgstr "허용 된 확장"
+
+msgid "Grape fruit"
+msgstr "허용 된 파일 크기"
+
+msgid "Lavender"
+msgstr "하다"
+
+msgid "Get Vehicle Manager Translations"
+msgstr "차량 제작 및 모델"
+
+msgid "Get Translations"
+msgstr "모델 선택"
+
+msgid "Select Translation"
+msgstr "모델 년차 별 차량"
+
+msgid ""
+"When WordPress language change to ro, JS Vehicle Manager language will auto "
+"change to ro"
+msgstr "PayPal 설정"
+
+msgid "Contribute In Translation"
+msgstr "Woocommerce 설정"
+
+msgid "Manual Download"
+msgstr "PayPal 사용"
+
+msgid "Login to your account"
+msgstr "사용자 이름"
+
+msgid "Username"
+msgstr "서명"
+
+msgid "keep me login"
+msgstr "로고 URL"
+
+msgid "Logo"
+msgstr "URL 취소"
+
+msgid "Allowed extension"
+msgstr "URL에 알리기"
+
+msgid "File size allowed"
+msgstr "시험 모드"
+
+msgid " Make "
+msgstr "언어"
+
+msgid "Vehicles Make And Model"
+msgstr "언어 코드를 입력하십시오 : 예 : EN"
+
+msgid "Select Model"
+msgstr "사용"
+
+msgid "Vehicles by Model Years"
+msgstr "설치 성공"
+
+msgid "PayPal Settings"
+msgstr "JS Vehicle Manager가 성공적으로 설치되었습니다."
+
+msgid "Woocommerce Settings"
+msgstr "JS 차량 관리자 사이트 설정"
+
+msgid "PayPal Enabled"
+msgstr "기본 만료일"
+
+msgid "User name"
+msgstr "보낸 사람 전자 메일 주소"
+
+msgid "Signature"
+msgstr "기본 발신자 이메일 주소"
+
+msgid "Logo URL"
+msgstr "Emial 발신자 이름"
+
+msgid "Cancel Url"
+msgstr "기본 메일 발신자 이름"
+
+msgid "Notify Url"
+msgstr "관리자 Emial 주소"
+
+msgid "Test Mode"
+msgstr "날짜 형식"
+
+msgid "Language"
+msgstr "주소 표시 스타일"
+
+msgid "Please enter language code i.e: EN"
+msgstr "사용자가 차량을 추가 할 수 있습니다."
+
+msgid "Enabled"
+msgstr "사용자가 새 차량을 추가 할 수 있습니다."
+
+msgid "Installation Successful"
+msgstr "방문자는 차량을 추가 할 수 있습니다."
+
+msgid "JS Vehicle Manager successfully install"
+msgstr "방문객은 새로운 차량을 추가 할 수 있습니다."
+
+msgid "JS Vehicle Manager Site Settings"
+msgstr "프런트 엔드에서 생성 된 자동차 자동 승인"
+
+msgid "Default Expiry in days"
+msgstr "샘플 사용자 데이터"
+
+msgid "Sender Email Address"
+msgstr "샘플 데이터 가져 오기"
+
+msgid "Default sender email address"
+msgstr "왼쪽 상단"
+
+msgid "Email Sender Name"
+msgstr "오른쪽 상단"
+
+msgid "Default email sender name"
+msgstr "왼쪽 중간"
+
+msgid "Admin Email address"
+msgstr "중간 오른쪽"
+
+msgid "Date Format"
+msgstr "왼쪽 하단"
+
+msgid "Address Display Style"
+msgstr "오른쪽 하단"
+
+msgid "User Can Add Vehicle"
+msgstr "JS 작업 설정"
+
+msgid "User can add new vehicle"
+msgstr "일반"
+
+msgid "Visitor Can Add Vehicle"
+msgstr "고용주"
+
+msgid "Visitor can add new vehicle"
+msgstr "구직자"
+
+msgid "Auto approve vehicle created from front end"
+msgstr "샘플 데이터"
+
+msgid "Sample User Data"
+msgstr "샘플 데이터"
+
+msgid "Import sample data"
+msgstr "샘플 데이터 삽입"
+
+msgid "Top left"
+msgstr "구직자"
+
+msgid "Top right"
+msgstr "구직자 메뉴"
+
+msgid "Middle left"
+msgstr "고용주 메뉴"
+
+msgid "Middle right"
+msgstr "끝"
+
+msgid "Bottom left"
+msgstr "뒤로"
+
+msgid "Bottom right"
+msgstr "닫기"
+
+msgid "JS Jobs Settings"
+msgstr "DD MM YYYY"
+
+msgid "General"
+msgstr "MM DD YYYY"
+
+msgid "Employer"
+msgstr "YYYY MM DD"
+
+msgid "Job seeker"
+msgstr "시스템 슬러그"
+
+msgid "Sample data"
+msgstr "기본 페이지 선택"
+
+msgid "Sample Data"
+msgstr "기본 페이지를 선택하지 않으면 전자 메일 링크 및 지원 아이콘이 작동하지 않을 수 있습니다."
+
+msgid "Insert Sample Data"
+msgstr "관리자는이 주소로 이메일 알림을 받게됩니다."
+
+msgid "Job Seeker"
+msgstr "시스템 전자 메일 주소"
+
+msgid "Job Seeker Menu"
+msgstr "전자 메일을 보내는 데 사용할 전자 메일 주소"
+
+msgid "Employer Menu"
+msgstr "이름에서 보낸 이메일"
+
+msgid "Finish"
+msgstr "이메일에 사용될 발신자 이름"
+
+msgid "Back"
+msgstr "빵 부스러기 표시"
+
+msgid "Close"
+msgstr "빵 부스러기를 선택하십시오"
+
+msgid "DD MM YYYY"
+msgstr "탐색 경로에 탐색 표시"
+
+msgid "MM DD YYYY"
+msgstr "기본 날짜 형식"
+
+msgid "YYYY MM DD"
+msgstr "날짜 형식 선택"
+
+msgid "System slug"
+msgstr "플러그인의 날짜 형식"
+
+msgid "Select default page"
+msgstr "구직자 구성"
+
+msgid ""
+"Select JS Jobs default page, on action system will redirect on selected page"
+msgstr "구직자 기본 역할"
+
+msgid "If not select default page, email links and support icon might not work"
+msgstr "이 역할은 새로운 구직자에게 자동 할당됩니다."
+
+msgid "Admin will receive email notifications on this address"
+msgstr "방문객은 직업에 지원할 수 있습니다."
+
+msgid "System email address"
+msgstr "아이콘 위치 검색"
+
+msgid "Email address that will be used to send emails"
+msgstr "작업 목록 페이지의 검색 아이콘 위치"
+
+msgid "Email from name"
+msgstr "자동 승인 재개"
+
+msgid "Sender name that will be used in emails"
+msgstr "직업 짧은 목록"
+
+msgid "Show breadcrumbs"
+msgstr "작업 목록 페이지의 작업 목록 단축 설정 효과"
+
+msgid "Select breadcrumbs"
+msgstr "친구에게 말하기"
+
+msgid "Show navigation in breadcrumbs"
+msgstr "친구에게 작업 목록 페이지에 미치는 영향을 설정하도록하십시오."
+
+msgid "Default date format"
+msgstr "작업 새로 작성"
+
+msgid "Select date format"
+msgstr "새로운 태그가 몇 일 동안 표시되는지"
+
+msgid "Date format for plugin"
+msgstr "고용주 구성"
+
+msgid "Job Seeker Configuration"
+msgstr "고용주 지역 활성화"
+
+msgid "Job Seeker default role"
+msgstr "그렇지 않으면 프런트 엔드 고용주 영역에 액세스 할 수 없습니다."
+
+msgid "This role will auto assign to new job seeker"
+msgstr "고용주로 사용자 등록 허용"
+
+msgid "Visitor can apply to job"
+msgstr "사용자 등록에 미치는 영향"
+
+msgid "Search icon position"
+msgstr "고용주 기본 역할"
+
+msgid "Position for search icon on jobs listing page"
+msgstr "이 역할은 자동으로 새 고용주에게 할당됩니다."
+
+msgid "Resume auto approve"
+msgstr "고용주는 구직자 영역을 볼 수 있습니다."
+
+msgid "Job short list"
+msgstr "방문자는 일자리를 게시 할 수 있습니다."
+
+msgid "Job short list setting effects on job listing pages"
+msgstr "회사 자동 승인"
+
+msgid "Tell a friend"
+msgstr "작업 자동 승인"
+
+msgid "Tell a friend setting effects on jobs listing page"
+msgstr "금화 사용"
+
+msgid "Mark Job New"
+msgstr "골드 작업은 플러그인에서 허용됩니다."
+
+msgid "How many days system show New tag"
+msgstr "추천 작업 사용"
+
+msgid "Employer Configuration"
+msgstr "주요 작업은 플러그인에서 허용됩니다."
+
+msgid "Enable Employer Area"
+msgstr "요청한 페이지를 사용할 수 없습니다. 시스템 관리자에게 문의하십시오."
+
+msgid "If no then front end employer area is not accessible"
+msgstr "거래 번호"
+
+msgid "Allow user register as employer"
+msgstr "결제 정보 업데이트 오류"
+
+msgid "Effects on user registration"
+msgstr "지불이 확인되었습니다."
+
+msgid "Employer default role"
+msgstr "지불이 확인되지 않았습니다."
+
+msgid "This role will auto assign to new employer"
+msgstr "주문을 찾을 수 없음"
+
+msgid "Employer can view job seeker area"
+msgstr "Woocommerce 제품을 찾을 수 없습니다. 시스템 관리자에게 문의하십시오."
+
+msgid "Visitor can post job"
+msgstr "선택 크레딧 팩"
+
+msgid "Company auto approve"
+msgstr "사용자 선택"
+
+msgid "Job auto approve"
+msgstr "거래 상태"
+
+msgid "Enable gold job"
+msgstr "승인하다"
+
+msgid "Gold jobs are allowed in plugin"
+msgstr "사용자 선택"
+
+msgid "Enable featured job"
+msgstr "만료일"
+
+msgid "Featured jobs are allowed in plugin"
+msgstr "유료 금액"
+
+msgid "Requested page is not available contact system Administrator"
+msgstr "구입 날짜"
+
+msgid "Transaction number"
+msgstr "구매 내역 세부 정보"
+
+msgid "Update payment information error"
+msgstr "지불 자명"
+
+msgid "Payment has been verified"
+msgstr "수취인 이메일 주소"
+
+msgid "Payment has not been verified"
+msgstr "지불 자 주소"
+
+msgid "Order not found"
+msgstr "지불 자 연락처"
+
+msgid "Woocommerce product not found, please contact to system Administrator"
+msgstr "금액 지급"
+
+msgid "Select credits pack"
+msgstr "지불 게이트웨이"
+
+msgid "Select User"
+msgstr "구입 날짜"
+
+msgid "Transaction Status"
+msgstr "패키지 만료"
+
+msgid "Approve"
+msgstr "차량 수출"
+
+msgid "Select users"
+msgstr "조건 별 차량"
+
+msgid "Expiry Date"
+msgstr "차량 유형별"
+
+msgid "Paid Amount"
+msgstr "변속기로 차량"
+
+msgid "Purchase Date"
+msgstr "연료 유형별 차량"
+
+msgid "Purchase History Details"
+msgstr "에서"
+
+msgid "Payer name"
+msgstr "에"
+
+msgid "Payer email address"
+msgstr "차량 이미지"
+
+msgid "Payer address"
+msgstr "만들고 모델"
+
+msgid "Payer contact number"
+msgstr "에서 날짜"
+
+msgid "Amount paid"
+msgstr "날짜"
+
+msgid "Payment gateway"
+msgstr "만들기를 선택하십시오."
+
+msgid "Purchase date"
+msgstr "모델 선택"
+
+msgid "Package expiry"
+msgstr "내쉬다"
+
+msgid "Vehicle Export"
+msgstr "차량 유형별 차량"
+
+msgid "Vehicles By Conditions"
+msgstr "연료 유형별 차량"
+
+msgid "Vehicle By types"
+msgstr "전송에 의한 차량"
+
+msgid "Vehicle By Transmissions"
+msgstr "자동차가 만드는 것"
+
+msgid "Vehicle By Fuel types"
+msgstr "변속기로 차량"
+
+msgid "From"
+msgstr "연료 유형별 차량"
+
+msgid "To"
+msgstr "액티브 추천"
+
+msgid "Vehicle Images"
+msgstr "차량 만료"
+
+msgid "Makes And Models"
+msgstr "오늘의 통계"
+
+msgid "Date From"
+msgstr "추천 판매"
+
+msgid "Date To"
+msgstr "만료 된"
+
+msgid "Select make"
+msgstr "그래프로 표시"
+
+msgid "Select model"
+msgstr "그래프를 작성하고 모델화합니다."
+
+msgid "Expire"
+msgstr "모델 별 차량"
+
+msgid "vehicle by vehicle types"
+msgstr "도시 별 차량"
+
+msgid "Vehicles by fuel types"
+msgstr "종료일"
+
+msgid "Vehicles by transmission"
+msgstr "만들기를 선택하십시오."
+
+msgid "Vehicles By Makes"
+msgstr "유형 선택"
+
+msgid "Vehicles By Transmission"
+msgstr "조건 선택"
+
+msgid "Vehicles By Fuel types"
+msgstr "조건 선택"
+
+msgid "Active Featured"
+msgstr "세포"
+
+msgid "Expire Vehicles"
+msgstr "웹 링크"
+
+msgid "Today Stats"
+msgstr "판매자"
+
+msgid "Sold Featured"
+msgstr "새 판매자"
+
+msgid "Expired"
+msgstr "게시 취소"
+
+msgid "Show in graph"
+msgstr "웹 링크"
+
+msgid "Makes and models graph"
+msgstr "새 차량 추가"
+
+msgid "Vehicles By Models"
+msgstr "중고차 추가"
+
+msgid "Vehicles By Cities"
+msgstr "꾸러미"
+
+msgid "End Date"
+msgstr "새로운 주"
+
+msgid "Select Make"
+msgstr "오류 로그"
+
+msgid "Select Type"
+msgstr "전망"
+
+msgid "Select Condition"
+msgstr "페이스 북 사용자"
+
+msgid "Select condition"
+msgstr "Linkedin 사용자"
+
+msgid "Cell"
+msgstr "싱 사용자"
+
+msgid "Weblink"
+msgstr "귀하는 다음 계정으로 로그인했습니다."
+
+msgid "Sellers"
+msgstr "계속하려면 역할을 선택하십시오."
+
+msgid "New Seller"
+msgstr "로그 아웃되었습니다."
+
+msgid "Unpublished"
+msgstr "차량"
+
+msgid "Web Link"
+msgstr "잘못된 보안 문자"
+
+msgid "Add New Vehicle"
+msgstr "최대 파일 크기"
+
+msgid "Add Used Vehicle"
+msgstr "유튜브 비디오 링크"
+
+msgid "Package"
+msgstr "삽입 된 HTML"
+
+msgid "New State"
+msgstr "검색어를 입력하십시오"
+
+msgid "Error Log"
+msgstr "결과 없음"
+
+msgid "View"
+msgstr "수색"
+
+msgid "Facebook user"
+msgstr "뭔가 잘못 됐어."
+
+msgid "Linkedin user"
+msgstr "지오 코드가 다음과 같은 이유로 인해 성공하지 못했습니다."
+
+msgid "Xing user"
+msgstr "유저 프로필"
+
+msgid "You are logged in as "
+msgstr "사용 안함"
+
+msgid "Please select your role to continue"
+msgstr "주소"
+
+msgid "You are logged out"
+msgstr "주요 차량"
+
+msgid "vehicles"
+msgstr "지도"
+
+msgid "Invalid captcha"
+msgstr "없음"
+
+msgid "Maximum file size"
+msgstr "비디오"
+
+msgid "Youtube video Link"
+msgstr "판매자 차량 표시"
+
+msgid "Embedded html"
+msgstr "확실하게 제거 하시겠습니까?"
+
+msgid "Type In A Search Term"
+msgstr "새 프로필"
+
+msgid "No Results"
+msgstr "사용자 삭제"
+
+msgid "Searching"
+msgstr "우리 시스템의 데이터 만"
+
+msgid ""
+"Location Format Is Not Correct Please Enter City In This Format City Name "
+"Country Name Or City Name State Name Country Name"
+msgstr "wp에서 사용자 및 해당 데이터 삭제"
+
+msgid "Something got wrong"
+msgstr "모두 선택"
+
+msgid "Geocode was not successful for the following reason"
+msgstr "데이터 삭제"
+
+msgid "User Profile"
+msgstr "WP 사용자 삭제"
+
+msgid "Disable"
+msgstr "지저귀다"
+
+msgid "Address"
+msgstr "구글 플러스"
+
+msgid "Featured vehicles"
+msgstr "Pintrest"
+
+msgid "Map"
+msgstr "인스 타 그램"
+
+msgid "None"
+msgstr "Reddit"
+
+msgid "Video"
+msgstr "프로필보기"
+
+msgid "Show Seller Vehicles"
+msgstr "%에스"
+
+msgid "Are you sure to remove"
+msgstr "판매자 정보"
+
+msgid "New Profile"
+msgstr "합계"
+
+msgid "Delete user"
+msgstr "판매자 정보"
+
+msgid "data only from our system"
+msgstr "로드 중"
+
+msgid "Delete user and their data also from wp"
+msgstr "문자 보내"
+
+msgid "Select All"
+msgstr "조건에 따라"
+
+msgid "Delete Data"
+msgstr "유형별"
+
+msgid "Delete WP User"
+msgstr "연식"
+
+msgid "Twitter"
+msgstr "도시 별"
+
+msgid "Google Plus"
+msgstr "~에 의해"
+
+msgid "Pintrest"
+msgstr "모델 별"
+
+msgid "Instagram"
+msgstr "판매자 별"
+
+msgid "Reddit"
+msgstr "짧은 목록 차량"
+
+msgid "View Profile"
+msgstr "율"
+
+#, php-format
+msgid "%s"
+msgstr "매우 가난한"
+
+msgid "seller info"
+msgstr "가난한"
+
+msgid "total"
+msgstr "정규병"
+
+msgid "Seller Information"
+msgstr "좋은"
+
+msgid "Loading"
+msgstr "매우 좋음"
+
+msgid "Send Message"
+msgstr "차량은 성공적으로 명단에 올랐다."
+
+msgid "by conditions"
+msgstr "관심을 보완하는 차량에 실패"
+
+msgid "by types"
+msgstr "이름"
+
+msgid "by model year"
+msgstr "귀하의 이메일"
+
+msgid "by city"
+msgstr "친구 이메일"
+
+msgid "by make"
+msgstr "친구에게 보내기"
+
+msgid "by model"
+msgstr "판매자가 성공적으로 통지했다."
+
+msgid "by seller"
+msgstr "판매자에게 알리는 동안 실패 함"
+
+msgid "Short List vehicle"
+msgstr "판매자에게 전자 메일을 보내는 동안 오류가 발생했습니다."
+
+msgid "Rate"
+msgstr "메일이 판매자에게 발송되었습니다."
+
+msgid "Very Poor"
+msgstr "쿠폰이 성공적으로 제공되었습니다."
+
+msgid "Poor"
+msgstr "쿠폰을 만드는 동안 실패했습니다."
+
+msgid "Regular"
+msgstr "차량보기"
+
+msgid "Good"
+msgstr "메일이 성공적으로 전송되었습니다."
+
+msgid "Very Good"
+msgstr "메일을 보내는 동안 오류가 발생했습니다."
+
+msgid "Vehicle Has Been Successfully Shortlisted"
+msgstr "비교 대상 차량 제거"
+
+msgid "Failed While Shortlisting Vehicle"
+msgstr "자동차를 자동차에서 제거하십시오"
+
+msgid "Your name"
+msgstr "승인 대기 중"
+
+msgid "Your email"
+msgstr "기다리는"
+
+msgid "Friend email"
+msgstr "백분율"
+
+msgid "Send to friends"
+msgstr "프로필 수정"
+
+msgid "Seller Has Been Successfully Notified"
+msgstr "판매자 선택"
+
+msgid "Failed While Notifying Seller"
+msgstr "판매자를 선택하지 않으면 프로필이 사용됩니다."
+
+msgid "Failed While Sending Email To Seller"
+msgstr "(0-100)"
+
+msgid "Mail Has Been Sent To Seller"
+msgstr "비디오 유형"
+
+msgid "Offer Has Been Successfully Made"
+msgstr "허용되는 최대 파일 크기"
+
+msgid "Failed While Making An Offer"
+msgstr "KB"
+
+msgid "See Vehicle"
+msgstr "허용 된 파일 형식"
+
+msgid "Mail Has Been Successfully Sent"
+msgstr "차량 옵션 적용을 확인하십시오"
+
+msgid "Failed While Sending Mail"
+msgstr "차량 이미지 업로드"
+
+msgid "Remove Vehicle From Compare"
+msgstr "이미지 업로드"
+
+msgid "Remove vehicle from compare"
+msgstr "허용 된 파일"
+
+msgid "Waiting for approval"
+msgstr "파일 크기"
+
+msgid "Waiting"
+msgstr "파일 크기가 허용되는 파일 크기보다 큽니다."
+
+msgid "Percentage"
+msgstr "파일 내선 불일치하다"
+
+msgid "Edit Profile"
+msgstr "차량 저장"
+
+msgid "Select seller"
+msgstr "연료"
+
+msgid "Your profile will be use if you do not select seller."
+msgstr "차량 승인 대기열"
+
+msgid "(0-100)"
+msgstr "전송 선택"
+
+msgid "Video Type"
+msgstr "연료 유형 선택"
+
+msgid "Maximum file size allowed"
+msgstr "마일리지 선택"
+
+msgid "KB"
+msgstr "시작 가격"
+
+msgid "File type allowed"
+msgstr "최종 가격"
+
+msgid "Vehicle Options Check Any That Apply"
+msgstr "기능 대기 중"
+
+msgid "Upload Vehicle Images"
+msgstr "연비:"
+
+msgid "Upload Images"
+msgstr "차량 승인"
+
+msgid "Files Allowed"
+msgstr "기능 승인"
+
+msgid "File size"
+msgstr "모두 승인"
+
+msgid "File size is greater then allowed file size"
+msgstr "받지 않다"
+
+msgid "File ext. is mismatched"
+msgstr "차량 거부"
+
+msgid "Save Vehicle"
+msgstr "기능 거부"
+
+msgid "Fuel"
+msgstr "둘 모두 거부"
+
+msgid "Vehicle Approval Queue"
+msgstr "판매자 이름 입력"
+
+msgid "Select transmission"
+msgstr "결과 없음"
+
+msgid "Select fuel type"
+msgstr "차량"
+
+msgid "Select mileage"
+msgstr "마일리지 유형 선택"
+
+msgid "Start price"
+msgstr "최종 가격"
+
+msgid " End price"
+msgstr "추천 항목에 추가"
+
+msgid "Feature pending"
+msgstr "추천 보류 중"
+
+msgid "Fuel Consumption:"
+msgstr "추천 삭제"
+
+msgid "Vehicle Approve"
+msgstr "영상"
+
+msgid "Feature Approve"
+msgstr "차량 추가"
+
+msgid "Approve Both"
+msgstr "Make1"
+
+msgid "Reject"
+msgstr "Make2"
+
+msgid "Vehicle Reject"
+msgstr "엔진 용량"
+
+msgid "Feature Reject"
+msgstr "로딩"
+
+msgid "Reject Both"
+msgstr "모델 선택"
+
+msgid "Type seller name"
+msgstr "연료 유형 선택"
+
+msgid "No results"
+msgstr "실린더 선택"
+
+msgid " Vehicle"
+msgstr "마일리지 선택"
+
+msgid "Select mileage type"
+msgstr "차량 이미지"
+
+msgid " End Price"
+msgstr "기본 설정"
+
+msgid "Add To Featured"
+msgstr "연락처 정보"
+
+msgid "Featured Pending"
+msgstr "이용 약관"
+
+msgid "Remove Featured"
+msgstr "판매 된 아이콘"
+
+msgid "Image"
+msgstr "아이콘 수정"
+
+msgid "Add vehicle"
+msgstr "주요 아이콘"
+
+msgid "Make 1"
+msgstr "아이콘 삭제"
+
+msgid "Make 2"
+msgstr "내 차량"
+
+msgid "Engine Capacity"
+msgstr "인쇄 차량"
+
+msgid "loading"
+msgstr "차량 아이콘 인쇄"
+
+msgid "Select model year"
+msgstr "상세 검색"
+
+msgid "Select fuel type"
+msgstr "관심 목록에있는 차량"
+
+msgid "Select cylinder"
+msgstr "테스트 드라이브 예약"
+
+msgid "Select mileage"
+msgstr "제안하기"
+
+msgid "Vehicle Image"
+msgstr "판매자 프로필 아이콘"
+
+msgid "Make Default"
+msgstr "판매자 프로필"
+
+msgid "Contact Info"
+msgstr "개요"
+
+msgid "Terms and Conditions"
+msgstr "풍모"
+
+msgid "Sold Icon"
+msgstr "갱도"
+
+msgid "Edit Icon"
+msgstr "명세서"
+
+msgid "Featured Icon"
+msgstr "기계 세부 사항"
+
+msgid "Delete Icon"
+msgstr "외관 및 상태"
+
+msgid "My vehicles"
+msgstr "추가 기능"
+
+msgid "Print Vehicle"
+msgstr "선택한 차량에는 다음과 같은 기능이 있습니다."
+
+msgid "Print Vehicle Icon"
+msgstr "Blogger"
+
+msgid "Refine Search"
+msgstr "Blogger Share 아이콘"
+
+msgid "Shortlisted vehicles"
+msgstr "Blogger 공유"
+
+msgid "Schedule a test drive"
+msgstr "블로거"
+
+msgid "Make an offer"
+msgstr "Digg 공유"
+
+msgid "Seller Profile Icon"
+msgstr "Digg 공유 아이콘"
+
+msgid "Seller Profile"
+msgstr "Digg"
+
+msgid "Overview"
+msgstr "Facebook Share"
+
+msgid "Features"
+msgstr "Facebook Share 아이콘"
+
+msgid "Gallery"
+msgstr "Instagram 공유"
+
+msgid "Specifications"
+msgstr "Instagram 공유 아이콘"
+
+msgid "Mechanical Details"
+msgstr "Google 공유"
+
+msgid "Appearance And Condition"
+msgstr "Google Share 아이콘"
+
+msgid "Additional Features"
+msgstr "Linkedin Share"
+
+msgid "Following features are present in selected vehicle."
+msgstr "Linkedin Share 아이콘"
+
+msgid "Blogger"
+msgstr "Pintrest 공유"
+
+msgid "Blogger Share Icon"
+msgstr "Pintrest Share 아이콘"
+
+msgid "Blogger Share"
+msgstr "지저귐 공유"
+
+msgid "blogger"
+msgstr "지저귐 공유 아이콘"
+
+msgid "Digg Share"
+msgstr "텀블러 공유"
+
+msgid "Digg Share Icon"
+msgstr "텀블러 공유 아이콘"
+
+msgid "Digg"
+msgstr "텀블러"
+
+msgid "Facebook Share"
+msgstr "짧은 목록에 추가"
+
+msgid "Facebook Share Icon"
+msgstr "의견 / 조건"
+
+msgid "Instagram Share"
+msgstr "귀하의 성함"
+
+msgid "Instagram Share Icon"
+msgstr "귀하의 이메일"
+
+msgid "Google Share"
+msgstr "자동차 타이틀"
+
+msgid "Google Share Icon"
+msgstr "친구 이메일"
+
+msgid "Linkedin Share"
+msgstr "최대 길이는 250 자입니다."
+
+msgid "Linkedin Share Icon"
+msgstr "더 많은 차량을 선택할 수 없습니다."
+
+msgid "Pintrest Share"
+msgstr "비교 항목에서 제거"
+
+msgid "Pintrest Share Icon"
+msgstr "비교 목록에 추가"
+
+msgid "Twitter Share"
+msgstr "비교하기"
+
+msgid "Twitter Share Icon"
+msgstr "이전 이미지"
+
+msgid "Tumbler Share"
+msgstr "다음 이미지"
+
+msgid "Tumbler Share Icon"
+msgstr "판매자 정보보기"
+
+msgid "Tumbler"
+msgstr "판매자 사진"
+
+msgid "Add To Short List"
+msgstr "후보 목록"
+
+msgid "Comments/Conditions"
+msgstr "비교에 추가"
+
+msgid "Your Name"
+msgstr "좌표 반경 유형을 선택하십시오."
+
+msgid "Your Email"
+msgstr "좌표 반지름을 입력하십시오."
+
+msgid "Car Title"
+msgstr "Google Captcha"
+
+msgid "Friend Email"
+msgstr "JS 채용 정보 보안 문자"
+
+msgid "Max Length is 250 Chars."
+msgstr "어떤"
+
+msgid "Can not select more vehicles"
+msgstr "부가"
+
+msgid "Remove From Compare"
+msgstr "빼기"
+
+msgid "Add to Compare"
+msgstr "차량 검색"
+
+msgid "Go To Compare"
+msgstr "마커 주소 설정"
+
+msgid "Previous Image"
+msgstr "차량 유형"
+
+msgid "Next Image"
+msgstr "조건"
+
+msgid "View Seller Info"
+msgstr "연료 유형"
+
+msgid "Seller Photo"
+msgstr "전달"
+
+msgid "shortlist"
+msgstr "실린더"
+
+msgid "Add to compare"
+msgstr "등록 번호"
+
+msgid "Please Select The Coordinate Radius Type"
+msgstr "등록 도시"
+
+msgid "Please Enter The Coordinate Radius"
+msgstr "위치 도시"
+
+msgid "Google Captcha"
+msgstr "위치 우편 번호"
+
+msgid "JS Jobs Captcha"
+msgstr "~로부터의 가격"
+
+msgid "Any"
+msgstr "~에 가격"
+
+msgid "Addition"
+msgstr "외관 색상"
+
+msgid "Subtraction"
+msgstr "내부 색"
+
+msgid "Vehicles search"
+msgstr "재고 번호"
+
+msgid "Set Marker From Address"
+msgstr "도시 연료 소비량"
+
+msgid "vehicle type"
+msgstr "도시 연료 소비량"
+
+msgid "condition"
+msgstr "고속도로 연료 소비량"
+
+msgid "fuel type"
+msgstr "고속도로 연료 소비량"
+
+msgid "transmission"
+msgstr "에서 모델 연도"
+
+msgid "cylinder"
+msgstr "모델 년도 ~"
+
+msgid "registration number"
+msgstr "엔진 용량"
+
+msgid "registration city"
+msgstr "엔진 용량"
+
+msgid "location city"
+msgstr "마일리지"
+
+msgid "location zip"
+msgstr "마일리지"
+
+msgid "price from"
+msgstr "위도"
+
+msgid "price to"
+msgstr "경도"
+
+msgid "exterior color"
+msgstr "반지름"
+
+msgid "interior color"
+msgstr "차량 경고가 성공적으로 구독되었습니다."
+
+msgid "stock number"
+msgstr "차량 경고를 수신하는 동안 오류가 발생했습니다."
+
+msgid "city fuel consumption from"
+msgstr "매일"
+
+msgid "city fuel consumption to"
+msgstr "주간"
+
+msgid "highway fuel consumption from"
+msgstr "월간 간행물"
+
+msgid "highway fuel consumption to"
+msgstr "이메일 주소"
+
+msgid "model year from"
+msgstr "기준"
+
+msgid "model year to"
+msgstr "차량 유형"
+
+msgid "engine capacity from"
+msgstr "차량 유형"
+
+msgid "engine capacity to"
+msgstr "유형별 차량"
+
+msgid "mileage from"
+msgstr "차량 유형"
+
+msgid "mileage to"
+msgstr "차량 유형"
+
+msgid "latitude"
+msgstr "차량 유형"
+
+msgid "longitude"
+msgstr "차량 유형"
+
+msgid "radius"
+msgstr "차량 유형"
+
+msgid "Vehicle Alert Subscribed Successfully"
+msgstr "차량 유형"
+
+msgid "Failed While Subscribing Vehicle Alert"
+msgstr "차량 유형"
+
+msgid "Daily"
+msgstr "차량 유형"
+
+msgid "Weekly"
+msgstr "차량 유형"
+
+msgid "Monthly"
+msgstr "차량 유형"
+
+msgid "Email Address"
+msgstr "차량 유형"
+
+msgid "Criteria"
+msgstr "차량 유형"
+
+msgid "Vehicle Type"
+msgstr "차량 유형"
+
+msgid " Vehicle Type "
+msgstr "차량 유형"
+
+msgid "Vehicles by Types"
+msgstr "차량 유형"
+
+msgid "Highway Fuel Consumption"
+msgstr "차량 유형"
+
+msgid "Choose Files"
+msgstr "차량 유형"
+
+msgid "Registration City"
+msgstr "차량 유형"
+
+msgid "Location City"
+msgstr "차량 유형"
+
+msgid "Speedometer"
+msgstr "차량 유형"
+
+msgid "Interior Color"
+msgstr "차량 유형"
+
+msgid "City Fuel Consumption"
+msgstr "차량 유형"
+
+msgid "Registration Number"
+msgstr "차량 유형"
+
+msgid "Engine Number"
+msgstr "차량 유형"
+
+msgid "Chassis Number"
+msgstr "차량 유형"
+
+msgid "Acceleration"
+msgstr "차량 유형"
+
+msgid "Max Speed"
+msgstr "차량 유형"
+
+msgid "CO2 Emission"
+msgstr "차량 유형"
+
+msgid "Bargain Price"
+msgstr "차량 유형"
+
+msgid "Export Price"
+msgstr "차량 유형"
+
+msgid "Is Discount"
+msgstr "차량 유형"
+
+msgid "Brochure"
+msgstr "차량 유형"
+
+msgid "BODY"
+msgstr "차량 유형"
+
+msgid "Drivetrain"
+msgstr "차량 유형"
+
+msgid "EXTERIOR"
+msgstr "차량 유형"
+
+msgid "INTERIOR"
+msgstr "차량 유형"
+
+msgid "ELECTRONICS"
+msgstr "차량 유형"
+
+msgid "SAFETY_FEATURES"
+msgstr "차량 유형"
+
+msgid "3 Door"
+msgstr "차량 유형"
+
+msgid "Used"
+msgstr "차량 유형"
+
+msgid "Diesel"
+msgstr "차량 유형"
+
+msgid "Petrol"
+msgstr "차량 유형"
+
+msgid "Aston Martin"
+msgstr "차량 유형"
+
+msgid "DB7"
+msgstr "차량 유형"
+
+msgid "M"
+msgstr "차량 유형"
+
+msgid "Exterior"
+msgstr "차량 유형"
+
+msgid "4 Door"
+msgstr "차량 유형"
+
+msgid "BLUE"
+msgstr "차량 유형"
+
+msgid "Addison, United States"
+msgstr "차량 유형"
+
+msgid "New York, United States"
+msgstr "차량 유형"
+
+msgid "Alder Brook, United States"
+msgstr "차량 유형"
+
+msgid "Afton, United States"
+msgstr "차량 유형"
+
+msgid "Car"
+msgstr "차량 유형"
+
+msgid "Over View"
+msgstr "차량 유형"
+
+msgid "Print vehicle"
+msgstr "차량 유형"
+
+msgid "Radius Type"
+msgstr "차량 유형"
+
+msgid "Radius"
+msgstr "차량 유형"
+
+msgid "Kilometer"
+msgstr "차량 유형"
+
+msgid "My Comments"
+msgstr "차량 유형"
+
+msgid "Are you sure to delete?"
+msgstr "차량 유형"
+
+msgid "Alloy Wheels"
+msgstr "차량 유형"
+
+msgid "Addison"
+msgstr "차량 유형"
+
+msgid "First name"
+msgstr "차량 유형"
+
+msgid "Last name"
+msgstr "차량 유형"
+
+msgid "Password Again"
+msgstr "차량 유형"
+
+msgid "Photo"
+msgstr "차량 유형"
+
+msgid "Pinterest"
+msgstr "차량 유형"
+
+msgid "Googleplus"
+msgstr "차량 유형"
+
+msgid "Register New Account"
+msgstr "차량 유형"
+
+msgid "Alfa Romeoa"
+msgstr "차량 유형"
+
+msgid "Trial Package"
+msgstr "차량 유형"
+
+msgid "Pintrest"
+msgstr "차량 유형"
+
+msgid "Vehicle Listing"
+msgstr "차량 유형"
+
+msgid "Dollar"
+msgstr "차량 유형"
+
+msgid "Albania"
+msgstr "차량 유형"

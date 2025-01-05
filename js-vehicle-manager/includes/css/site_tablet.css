@@ -1,0 +1,73 @@
+/*Buyer Cp*/
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp .jsvehiclemanager-buyer-cp-top-portion div.jsvehiclemanager-top-portion-link {width:calc(50% - 8px);margin: 20px 8px 0 0;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp .jsvehiclemanager-buyer-cp-top-portion div.jsvehiclemanager-top-portion-link a .jsvehiclemanager-cptext {width: calc(100% - 54px);}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp div.jsvehiclemanager-stats-graph-wrapper ,
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp div.jsvehiclemanager-stats-wrapper {width: 100%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp div.jsvehiclemanager-stats-graph-wrapper div.jsvehiclemanager_cpheading ,
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp div.jsvehiclemanager-stats-graph-wrapper div.jsvehiclemanager_cpcontent , 
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp div.jsvehiclemanager-stats-wrapper div.jsvehiclemanager_cpheading ,
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp div.jsvehiclemanager-stats-wrapper div.jsvehiclemanager_cpcontent ,
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp .jsvehiclemanager_cpheading {width: 100%;margin-left: 0;margin-right: 0;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-buyer-cp .jsvehiclemanager-buyer-cp-top-portion.box div.jsvehiclemanager-top-portion-link {width: calc(100% / 4 - 16px);}
+
+/*compare*/
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-compare-vehicle-wrapper div.jsvehiclemanager_cm-compare-wrapper div.jsvehiclemanager_cm-veh-comp-list {background-image: none;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-compare-vehicle-wrapper div.jsvehiclemanager_cm-compare-wrapper div.jsvehiclemanager_cm-veh-comp-list div.jsvehiclemanager_cm-veh-comp-list-section {width: 100%;margin: 0 0 20px;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-compare-vehicle-wrapper div.jsvehiclemanager_cm-compare-wrapper div.jsvehiclemanager_cm-veh-comp-list div.jsvehiclemanager_cm-veh-comp-list-section div.jsvehiclemanager_cm-veh-comp-list-img-wrp {height: auto;width: 100%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-compare-vehicle-wrapper div.jsvehiclemanager_cm-compare-wrapper div.jsvehiclemanager_cm-veh-comp-data div.jsvehiclemanager-compare-vehicle-fields div.jsvehiclemanager-compare-vehicle-fields-section {width: 100%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-compare-vehicle-wrapper div.jsvehiclemanager_cm-compare-wrapper div.jsvehiclemanager_cm-veh-comp-data div.jsvehiclemanager-compare-vehicle-fields div.jsvehiclemanager-compare-vehicle-fields-section span.jsvehiclemanager_cm-com-veh-name{text-align: center;padding-left: 0;}
+/* Vehicles By Conditions,Types,Model Years,City */
+
+/* Vehicles By Make and Model*/
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-vehicles-by-make div.jsvm_mkmd-model a.jsvm_mkmd-child div.jsvm_mkmd-model-title {width: 70%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-vehicles-by-make div.jsvm_mkmd-model a.jsvm_mkmd-child div.jsvm_mkmd-model-mumber {width: 30%;}
+
+/*Detail Vehicles*/
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-veh-detail-wrapper div#jsvehiclemanager-detail-images-wrapper div#jsvehiclemanager-left-side {width: 393px;height: 221px;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-veh-detail-wrapper div#jsvehiclemanager-detail-images-wrapper div#jsvehiclemanager-right-side {width: calc(100% - 393px);}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-veh-detail-wrapper div#jsvehiclemanager-detail-images-wrapper div#jsvehiclemanager-right-side div#jsvehiclemanager-thumbs {height: auto;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-veh-detail-wrapper div#jsvehiclemanager-detail-images-wrapper div#jsvehiclemanager-right-side div#jsvehiclemanager-thumbs div#jsvehiclemanager-thumbnails div#jsvehiclemanager-thumbsetting {width: 98px;height: 55px;}
+
+/* Credits Purchase History*/
+div#jsvehiclemanager-wrapper div.jsvm_control-pannel-header span.jsvehiclemanager-expire {margin-right: 15px;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-purchase-history-wrap div.jsvehiclemanager-credits-header div.jsvehiclemanager-credits-box {text-align: center;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-purchase-history-wrap div.jsvehiclemanager-credits-header div.jsvehiclemanager-credits-box img {width: 35%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-purchase-history-wrap div.jsvehiclemanager-credits-header div.jsvehiclemanager-credits-box span.jsvehiclemanager-credits-number {width: 65%; }
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-purchase-history-wrap div.jsvehiclemanager-credits-header div.jsvehiclemanager-credits-box span.jsvehiclemanager-credits-text {width: 65%;}
+
+/* Credits Rate list*/
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-rate-list-wrap div.jsvehiclemanager-rate-list-item:first-child {margin-top: 15px;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-rate-list-wrap div.jsvehiclemanager-rate-list-item {width: 100%;margin-left: 0;margin-right: 0;margin-top: 0;}
+
+/* Credits Log*/
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-credits-log-wrap div.jsvehiclemanager-credits-log-header div.jsvehiclemanager-credits-log-box {width: 31%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-credits-log-wrap div.jsvehiclemanager-credits-log-header div.jsvehiclemanager-credits-log-box img {width: 35%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-credits-log-wrap div.jsvehiclemanager-credits-log-header div.jsvehiclemanager-credits-log-box span.jsvehiclemanager-credits-log-number {width: 65%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-credits-log-wrap div.jsvehiclemanager-credits-log-header div.jsvehiclemanager-credits-log-box span.jsvehiclemanager-credits-log-text {width: 65%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-credits-log-wrap div.jsvehiclemanager-credits-log-wrapper div.jsvehiclemanager-credits-log-row-wrap span.jsvehiclemanager-credits-log-desc {border-left: none;}
+
+/* seller list */
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-content form.jsvehiclemanager_autoz_form div.jsvehiclemanager_field_box{width: 100%;padding:0px;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-content form.jsvehiclemanager_autoz_form div.jsvehiclemanager_seller-list-btn-wrapper{text-align:left;}
+div.jsvehiclemanager_cm-seller-wrap div.jsvehiclemanager_cm-seller-det div.jsvehiclemanager_cm-seller-det-right div.jsvehiclemanager_cm-seller-info-top{padding-left:130px;}
+div.jsvehiclemanager_cm-seller-wrap div.jsvehiclemanager_cm-seller-det div.jsvehiclemanager_cm-seller-det-right div.jsvehiclemanager_cm-sellers-info-bottom{padding-left:131px;}
+div.jsvehiclemanager_cm-seller-wrap div.jsvehiclemanager_cm-seller-det div.jsvehiclemanager_cm-seller-det-right div.jsvehiclemanager_cm-seller-info-top .jsvehiclemanager_cm-seller-info-left {width: 55%;}
+div.jsvehiclemanager_cm-seller-wrap div.jsvehiclemanager_cm-seller-det div.jsvehiclemanager_cm-seller-det-right div.jsvehiclemanager_cm-seller-info-top span.jsvehiclemanager_cm-social-media-links-wrap {width: 45%;}
+
+/* vehicle form */
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-section-checkbox-wrap div.jsvehiclemanager-checkbox-sections div.jsvehiclemanager-vehicle-details-checkbox{width:100%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp div.jsvehiclemanager-vehicle-upload-img-bottom div.jsvehiclemanager-vehicle-upload-img {width: calc(100% / 4 - 20px);}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp div.jsvehiclemanager-vehicle-upload-img-bottom div.jsvehiclemanager-vehicle-upload-img div.jsvehiclemanager-vehicle-upload{height:85px;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-js-form-wrapper {width: 100%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-js-form-wrapper div.jsvehiclemanager-value label#forvideotype ,
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-field-wrapper div.jsvehiclemanager-js-form-wrapper div.jsvehiclemanager-value label#forisdiscount {padding-left: 0;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp div.jsvehiclemanager-vehicle-upload-img-top div.jsvehiclemanager-vehicle-upload-img {width: 100%;height: 100%;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp div.jsvehiclemanager-vehicle-upload-img-top div.jsvehiclemanager-vehicle-upload-img-right {width: 100%;padding-left: 0;margin-top: 15px;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-add-form-vehicle-wrapper div#jsvehiclemanager-add-vehicle-wrap div.jsvehiclemanager-form-upload-img-wrap div.jsvehiclemanager-vehicle-upload-img-wrp div.jsvehiclemanager-vehicle-upload-img-bottom {padding-left: 0;}
+
+/*stats*/
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-mystats-content div.jsvehiclemanager-topstats div.jsvehiclemanager-mainwrp {width: calc(50% - 5px);margin-right: 5px;}
+div#jsvehiclemanager-wrapper div#jsvehiclemanager-mystats-content div.jsvehiclemanager-topstats div.jsvehiclemanager-mainwrp:last-child {margin-right: 0px;}
+
+/*refine search*/
+div#jsvehiclemanager-pop-transparent-refine div.jsvehiclemanager-pop-wrapper-refine{width:95%;}

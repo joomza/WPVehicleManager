@@ -1,0 +1,296 @@
+div#jsvm_map_container {
+    height: 350px;
+    width: 100%;
+}
+
+/* print vehicle page css*/
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-heading {
+    float: left;
+    width: 100%;
+    border-bottom: 2px solid #4d4d4d;
+    padding-bottom: 6px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-top-heading {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 4px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-top-heading div.jsvm_cm-print-veh-top-heading-txt {
+    padding-top: 9px;
+    padding-bottom: 2px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-top-heading a.jsvm_cm-print-veh-print {
+    text-decoration: none;
+    display: inline-block;
+    padding: 7px 7px;
+    float: right;
+    color: #0C0C0C;
+    font-weight: bold;
+    border: 1px solid #CCCCCC;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-heading div.jsvm_cm-print-veh-heading-txt {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-left: 3px solid #4d4d4d;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-heading span.jsvm_cm-print-veh-price {
+    background: #4d4d4d;
+    display: inline-block;
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-images-mwrp {
+    float: left;
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-images-mwrp div.jsvm_cm-print-veh-img-wrp {
+    float: left;
+    width: calc(32% - 15px);
+    border: 1px solid;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-wrp {
+    float: left;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-wrp div.jsvm_cm-print-veh-desc-row {
+    margin-top: 8px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-title {
+    border-width: 1px 1px 1px 4px;
+    border-color: #cccccc #cccccc #cccccc #4d4d4d;
+    border-style: solid;
+    background: #F8F8F8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left;
+    width: 98%;
+    margin: 0 1%;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-data {
+    float: left;
+    width: 100%;
+    margin: 15px 0 25px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-data div.jsvm_cm-print-veh-desc-data-row {
+    margin-top: 5px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-data div.jsvm_cm-print-veh-desc-data-row div.jsvm_feat-img {
+    background: url("images/tick-icon.png") no-repeat scroll left center;
+    padding-left: 25px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-data.jsvm_desc-msg {
+    float: left;
+    width: 98%;
+    border: 1px solid #cccccc;
+    margin: 15px 1% 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data {
+    float: left;
+    width: 100%;
+    margin: 10px 0 50px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data div.jsvm_cm-print-seller-brand-name {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-left: 7px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data div.jsvm_cm-print-seller-weblink {
+    float: left;
+    width: 100%;
+    margin-top: 8px;
+    padding-left: 7px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data div.jsvm_cm-print-seller-contactno {
+    float: left;
+    width: 100%;
+    margin-top: 4px;
+    padding-left: 7px;
+}
+
+div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data div.jsvm_cm-print-seller-address {
+    float: left;
+    width: 100%;
+    margin-top: 2px;
+    padding-left: 7px;
+}
+
+@media print {
+    /* print page css*/
+    .col-md-6 {
+        float: left;
+        width: 50%;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-top-heading {
+        float: left;
+        width: 100%;
+        border-bottom: 1px solid #CCCCCC;
+        padding-bottom: 4px;
+        margin-bottom: 8px;
+        margin-top: 20px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-top-heading div.jsvm_cm-print-veh-top-heading-txt {
+        padding-top: 9px;
+        padding-bottom: 2px;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-top-heading a.jsvm_cm-print-veh-print {
+        text-decoration: none;
+        display: inline-block;
+        padding: 7px 7px;
+        float: right;
+        color: #0C0C0C;
+        font-weight: bold;
+        border: 1px solid #CCCCCC;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-heading {
+        float: left;
+        width: 100%;
+        border-bottom: 2px solid #4d4d4d;
+        padding-bottom: 6px;
+        margin-bottom: 8px;
+        margin-top: 20px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-heading div.jsvm_cm-print-veh-heading-txt {
+        padding-top: 9px;
+        padding-bottom: 9px;
+        border-left: 3px solid #4d4d4d;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-heading span.jsvm_cm-print-veh-price {
+        background: #4d4d4d;
+        display: inline-block;
+        font-size: 18px;
+        padding: 10px 0;
+        text-align: center;
+        width: 100%;
+        color: #ffffff;
+        font-weight: bold;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-images-mwrp {
+        float: left;
+        width: 100%;
+        margin-bottom: 8px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-images-mwrp div.jsvm_cm-print-veh-img-wrp {
+        float: left;
+        width: calc(32% - 15px);
+        border: 1px solid;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-wrp {
+        float: left;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-wrp div.jsvm_cm-print-veh-desc-row {
+        margin-top: 8px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-title {
+        border-width: 1px 1px 1px 4px;
+        border-color: #cccccc #cccccc #cccccc #4d4d4d;
+        border-style: solid;
+        background: #F8F8F8;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        float: left;
+        width: 98%;
+        margin: 0 1%;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-data {
+        float: left;
+        width: 100%;
+        margin: 15px 0 25px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-data div.jsvm_cm-print-veh-desc-data-row {
+        margin-top: 5px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-data div.jsvm_cm-print-veh-desc-data-row div.jsvm_feat-img {
+        background: url("images/tick-icon.png") no-repeat scroll left center;
+        padding-left: 25px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-veh-desc-data.desc-msg {
+        float: left;
+        width: 98%;
+        border: 1px solid #cccccc;
+        margin: 15px 1% 25px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data {
+        float: left;
+        width: 100%;
+        margin: 10px 0 50px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data div.jsvm_cm-print-seller-brand-name {
+        float: left;
+        width: 100%;
+        border-bottom: 1px solid #cccccc;
+        padding-bottom: 5px;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding-left: 7px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data div.jsvm_cm-print-seller-weblink {
+        float: left;
+        width: 100%;
+        margin-top: 8px;
+        padding-left: 7px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data div.jsvm_cm-print-seller-contactno {
+        float: left;
+        width: 100%;
+        margin-top: 4px;
+        padding-left: 7px;
+    }
+    div.jsvm_cm-print-veh-wrp div.jsvm_cm-print-seller-info-data div.jsvm_cm-print-seller-address {
+        float: left;
+        width: 100%;
+        margin-top: 2px;
+        padding-left: 7px;
+    }
+}
